@@ -14,7 +14,7 @@ from repository_files import RepositoryFiles
 from repository_git import RepositoryGit
 from statute_source import BASE, ExportError, MiB
 
-NOTEBOOK_GUI_API = 15
+NOTEBOOK_GUI_API = 16
 
 try:
     from google.colab import files as colab_files, output as colab_output
@@ -225,14 +225,14 @@ class RepositoryGUI:
         return self.git.push()
 
     def close(self):
+        self.log.outputs = ()
         self.panel.close()
         for control in (*self.controls, self.transform_bar, self.transform_message):
             control.close()
         self.temp.cleanup()
 
 
-def start(root, *, token=None, email=None, username="rps007", log_outputs=()):
+def start(root, *, token=None, email=None, username="rps007"):
     gui = RepositoryGUI(root, token=token, email=email, username=username)
-    gui.log.outputs = log_outputs
     display(gui.panel)
     return gui

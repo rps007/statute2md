@@ -10,7 +10,7 @@ from bisect import bisect_right
 from collections import Counter, defaultdict
 from pathlib import Path, PurePosixPath
 
-from statute_links import ANCHOR_VERSION, SCHEMA_VERSION, Registry, flow_targets, references, target
+from statute_links import ANCHOR_VERSION, SCHEMA_VERSION, Registry, planned_target, flow_targets, references, target
 from statute_model import PARAGRAPH, STYLES, WRAPPERS, Flow, build_flow, plain, read_records
 from statute_source import MiB, SLUG, ExportError, acquire, clean_input, digest, download, load_source, source_url, unpack
 
@@ -168,7 +168,7 @@ def render_flow(flow, markers, refs, source, record, paths, warn, assets, offset
 
     sorted_breaks = sorted(breaks)
     for ref in refs:
-        if ref["status"] != "resolved":
+        if ref["status"] != "unchecked":
             continue
         a, b = (x - offset for x in ref["offsets"])
         next_break = sorted_breaks[bisect_right(sorted_breaks, a)]
@@ -312,8 +312,8 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
     progress(0, "Datensätze analysieren")
     models, targets, diagnostics = model_sources(sources, log, progress)
     progress(29, "Zielregister aufbauen")
-    log("Index", f"Baue das Zielregister mit {len(targets)} Blöcken.")
-    registry = Registry(sources, targets)
+    log("Index", f"Erfasse {len(targets)} eigene Blockziele. Vorratslinks werden nicht gegen Ziele geprüft.")
+    registry = Registry(sources)
     refs, assets, witnesses, inventories = [], {}, {}, {}
     folder = directory / "Bundesrecht"
     folder.mkdir()
@@ -326,7 +326,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
         lines = ["# " + escaped(" ".join(title.split())), ""]
         for stand in source.provenance["stand"]:
             lines.extend(("Stand: " + escaped(stand), ""))
-        log("Rendern", f"{slug}: Erzeuge Markdown und prüfbare Verweise.")
+        log("Rendern", f"{slug}: Erzeuge Markdown und ungeprüfte Vorratslinks.")
 
         def warn(code, label, path, message, law=slug):
             diagnostics.append(diagnostic(law, code, label, path, message))
@@ -369,7 +369,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
                 cursor = max(cursor, offset + detail.length + 1)
                 for ref in references(detail, source, record, registry, [], offset=offset):
                     refs.append(ref)
-                    if ref["status"] == "resolved":
+                    if ref["status"] == "unchecked":
                         add_lines(["Verweis: " + wiki(ref), ""])
                 texts[detail.path, offset] = detail.text
             for field_name in ("enbez", "titel", "gliederungseinheit/gliederungsbez", "gliederungseinheit/gliederungstitel"):
@@ -382,7 +382,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
                 detail.add(plain(node), paths[node])
                 for ref in references(detail, source, record, registry, [], offset=cursor):
                     refs.append(ref)
-                    if ref["status"] == "resolved":
+                    if ref["status"] == "unchecked":
                         add_lines(["Verweis zur Überschrift: " + wiki(ref), ""])
                 texts[detail.path, cursor] = detail.text
                 cursor += detail.length + 1
@@ -403,7 +403,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
                     cursor = max(cursor, offset + detail.length + 1)
                     for ref in references(detail, source, record, registry, [], offset=offset):
                         refs.append(ref)
-                        if ref["status"] == "resolved":
+                        if ref["status"] == "unchecked":
                             add_lines(["Verweis: " + wiki(ref), ""])
                     texts[detail.path, offset] = detail.text
         physical = []
@@ -435,7 +435,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
     limited = any(x["code"] in {"missing_asset", "unknown_tag"} for x in diagnostics)
     index = {"schema_version": SCHEMA_VERSION, "anchor_version": ANCHOR_VERSION,
              "offset_basis": "Unicode-Zeichen im unverlinkten XML-Piece-Text pro XML-Pfad und Streamsegment",
-             "status": "limited" if limited else "complete",
+             "status": "limited" if limited else "complete", "link_mode": "unchecked",
              "sources": {slug: source.provenance for slug, source in sorted(sources.items())},
              "targets": targets, "references": refs, "diagnostics": diagnostics,
              "reference_counts": dict(sorted(Counter(x["status"] for x in refs).items())),
@@ -450,8 +450,7 @@ def render_export(directory, sources, previous, log, *, progress=lambda percent,
     return index
 
 
-def validate_export(directory, witnesses, inventories, progress=lambda percent, message: None):
-    index = json.loads((directory / "link-index.json").read_text(encoding="utf-8"))
+def inspect_markdown(directory, index, witnesses, progress=lambda percent, message: None):
     provision_targets = {(x["path"], x["id"]) for x in index["targets"]
                          if len(x["selector"]) == 2 and x["selector"][0] in {"p", "art"}}
     anchors, actual = {}, Counter()
@@ -487,23 +486,37 @@ def validate_export(directory, witnesses, inventories, progress=lambda percent, 
             if normalized_visible(reconstructed) != normalized_visible(expected):
                 raise ExportError(f"Die sichtbare Ausgabe weicht vom XML-Text ab: {path}, {where}.")
         progress(86 + 7 * completed // len(witnesses), f"Markdown geprüft · {path} · {completed}/{len(witnesses)}")
+    return anchors, actual
+
+
+def check_link_index(index, anchors, actual):
     recorded = {(x["path"], x["id"]): x["markdown_line"] for x in index["targets"]}
     if len(recorded) != len(index["targets"]) or anchors != recorded:
         raise ExportError("Blockpositionen in Markdown und Link-Index stimmen nicht überein.")
     expected_links = Counter()
+    for ref in index["references"]:
+        if ref["status"] == "unchecked":
+            key = ref["target_path"], ref["target_id"]
+            planned = planned_target(ref["law_candidates"][0], ref["selector"]) if len(ref["law_candidates"]) == 1 else None
+            valid_legacy = (ref.get("retained_legacy") and re.fullmatch(rf"Bundesrecht/{SLUG}\.md", key[0], re.ASCII)
+                            and re.fullmatch(ID, key[1], re.ASCII))
+            if not valid_legacy and (planned is None or key != (planned["path"], planned["id"])):
+                raise ExportError("Ein Vorratslink weicht von seinem syntaktischen Ziel ab.")
+            expected_links[f"Bundesrecht/{ref['source_law']}.md", *key, ref["original"]] += 1
+    if expected_links != actual:
+        raise ExportError("Markdown-Links und Link-Index weichen voneinander ab.")
+
+
+def validate_export(directory, witnesses, inventories, progress=lambda percent, message: None):
+    index = json.loads((directory / "link-index.json").read_text(encoding="utf-8"))
+    anchors, actual = inspect_markdown(directory, index, witnesses, progress)
     for ref in index["references"]:
         a, b = ref["offsets"]
         streams = inventories[ref["source_law"]][ref["xml_path"]]
         if not any(0 <= a - offset < b - offset <= len(text)
                    and text[a - offset:b - offset] == ref["original"] for offset, text in streams):
             raise ExportError("Ein Index-Verweis stimmt nicht mit seinem Quelltext überein.")
-        if ref["status"] == "resolved":
-            key = ref["target_path"], ref["target_id"]
-            if key not in anchors:
-                raise ExportError("Ein ausgegebener Link hat kein gültiges Ziel.")
-            expected_links[f"Bundesrecht/{ref['source_law']}.md", *key, ref["original"]] += 1
-    if expected_links != actual:
-        raise ExportError("Markdown-Links und Link-Index weichen voneinander ab.")
+    check_link_index(index, anchors, actual)
 
 
 def zip_file(path, files):

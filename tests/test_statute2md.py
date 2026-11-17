@@ -118,16 +118,16 @@ class ExportTests(unittest.TestCase):
         self.assertIn("Quellen-Inhaltsverzeichnis", self.text(directory, slug))
         self.assertTrue(any(x["label"] == "Listeneintrag" and not x["selector"] for x in index["targets"]))
 
-    def test_interlaw_relinks_previous_export_and_project_roundtrip(self):
+    def test_interlaw_unchecked_links_precede_target_import_and_survive_roundtrip(self):
         first, report, _ = self.process("tstg", synthetic(("§ 1", "<P>Es gilt Artikel 93 des Grundgesetzes.</P>")))
-        self.assertEqual(report["references"][0]["status"], "missing_law")
+        self.assertEqual(report["references"][0]["status"], "unchecked")
         project = (first / "statute2md-quellprojekt.zip").read_bytes()
         other = Session(ROOT)
         self.addCleanup(other.storage.cleanup)
         other.process(project=project)
         directory, index, _ = other.process("gg", fixture("gg"))
         ref = next(x for x in index["references"] if x["source_law"] == "tstg")
-        self.assertEqual((ref["status"], ref["target_id"]), ("resolved", "art-93"))
+        self.assertEqual((ref["status"], ref["target_id"]), ("unchecked", "art-93"))
         gg_lines = self.text(directory, "gg").splitlines()
         gg_targets = {x["id"]: x["markdown_line"] for x in index["targets"] if x["law"] == "gg"}
         self.assertEqual(gg_lines[gg_targets["art-93"] - 1], "### Art 93 ^art-93")
@@ -147,7 +147,7 @@ class ExportTests(unittest.TestCase):
                                                                 ("§ 3", "<P>(1) Text.</P>"), ("§ 4", "<P>Text.</P>")))
         refs = index["references"]
         self.assertEqual(next(r for r in refs if r["original"] == "§ 2 a. F.")["status"], "version_mismatch")
-        self.assertIn(["p-2", "p-3", "p-4"], [x.get("range_members") for x in refs])
+        self.assertFalse(any("range_members" in ref for ref in refs))
         self.assertTrue(any(r.get("following") == "ff." for r in refs))
         self.assertTrue(any(r["status"] == "ambiguous" for r in refs))
         self.assertFalse(any(r["original"] == "S. 40" for r in refs))
@@ -184,9 +184,24 @@ class ExportTests(unittest.TestCase):
                                                                 ("§ 3", "<P>Dr. X kam. Es gilt Satz 1.</P>"),
                                                                 ("§ 4", "<P>Siehe § 2b Satz 1 und § 3 Absatz 1.</P>")))
         refs = {x["original"]: x["status"] for x in index["references"]}
-        self.assertEqual(refs["§ 2b Satz 1"], "ambiguous")
-        self.assertEqual(refs["§ 3 Absatz 1"], "missing_target")
-        self.assertEqual(refs["Satz 1"], "resolved")
+        self.assertEqual(refs["§ 2b Satz 1"], "unchecked")
+        self.assertEqual(refs["§ 3 Absatz 1"], "unchecked")
+        self.assertEqual(refs["Satz 1"], "unchecked")
+
+    def test_unchecked_links_are_created_without_a_target_and_stay_unchecked(self):
+        first, index, _ = self.process("tstg", synthetic(("§ 30", "<P>Siehe § 5 BGB. Ferner § 9999 sowie § 434 Abs. 3 Nr. 2 Buchst. a BGB.</P>")))
+        self.assertEqual(index["link_mode"], "unchecked")
+        self.assertEqual({ref["status"] for ref in index["references"]}, {"unchecked"})
+        self.assertIn("[[Bundesrecht/bgb#^p-5|§ 5 BGB]]", self.text(first, "tstg"))
+        self.assertIn("[[#^p-9999|§ 9999]]", self.text(first, "tstg"))
+        self.assertFalse((first / "Bundesrecht" / "bgb.md").exists())
+        ref = index["references"][-1]
+        self.assertEqual(ref["target_precision"], "parent")
+        self.assertEqual(ref["target_id"], "p-434-abs-3")
+        before = self.text(first, "tstg")
+        second, after, _ = self.process("bgb")
+        self.assertEqual(self.text(second, "tstg"), before)
+        self.assertEqual({ref["status"] for ref in after["references"] if ref["source_law"] == "tstg"}, {"unchecked"})
 
     def test_reimport_rolls_back_and_lock_is_nonblocking(self):
         directory, report, _ = self.process("gg")
@@ -325,7 +340,7 @@ class RepositoryTests(unittest.TestCase):
         self.assertEqual([cell["cell_type"] for cell in NB["cells"]], ["markdown", "markdown", "code"])
         code = "".join(NB["cells"][2]["source"])
         compile(code, "oberflaeche", "exec")
-        self.assertIn("repository_gui.start(root, token=token, email=email, username=username, log_outputs=log_outputs)", code)
+        self.assertIn("repository_gui.start(root, token=token, email=email, username=username)", code)
 
     def test_notebook_bootstrap_uses_username_secret_and_passes_it_to_gui(self):
         checkout = self.root / "code"
@@ -438,7 +453,61 @@ assert len(commands) == 1
         repo.delete(["gg.xml"], ["gg.md"], quiet)
         self.assertEqual(repo.files("xml"), ["bverfgg.xml"])
         self.assertEqual(repo.files("md"), ["bverfgg.md"])
-        self.assertNotIn("[[Bundesrecht/gg#", (repo.md / "bverfgg.md").read_text(encoding="utf-8"))
+        self.assertIn("[[Bundesrecht/gg#", (repo.md / "bverfgg.md").read_text(encoding="utf-8"))
+
+    def test_transform_renders_only_selection_and_delete_leaves_other_markdown_unchanged(self):
+        repo = RepositoryFiles(self.root)
+        for slug in ("bgb", "gg", "bverfgg"):
+            repo.add_source(slug, quiet, fixture(slug))
+        repo.transform(["bgb.xml", "bverfgg.xml"], quiet)
+        before = {name: (repo.md / name).read_bytes() for name in repo.files("md")}
+        events = []
+        with patch("statute_export.model_sources", wraps=__import__("statute_export").model_sources) as model:
+            message = repo.transform(["gg.xml"], lambda stage, msg: events.append((stage, msg)))
+        self.assertEqual(set(model.call_args.args[0]), {"gg"})
+        self.assertEqual([msg.split(":")[0] for stage, msg in events if stage == "Rendern"], ["gg"])
+        self.assertIn("2 vorhandene(s) Gesetz(e) unverändert", message)
+        for name, content in before.items():
+            self.assertEqual((repo.md / name).read_bytes(), content)
+        index = json.loads((repo.md / "link-index.json").read_bytes())
+        self.assertEqual(set(index["sources"]), {"bgb", "gg", "bverfgg"})
+        self.assertNotIn("resolved", index["reference_counts"])
+        with zipfile.ZipFile(repo.md / "statute2md-bestand.zip") as bundle:
+            self.assertEqual(bundle.read("Bundesrecht/bverfgg.md"), before["bverfgg.md"])
+        repo.delete([], ["gg.md"], quiet)
+        self.assertEqual((repo.md / "bverfgg.md").read_bytes(), before["bverfgg.md"])
+        self.assertIn("[[Bundesrecht/gg#", before["bverfgg.md"].decode())
+
+    def test_retained_legacy_links_are_not_reported_as_verified(self):
+        repo = RepositoryFiles(self.root)
+        for slug in ("gg", "bverfgg"):
+            repo.add_source(slug, quiet, fixture(slug))
+        repo.transform(["bverfgg.xml"], quiet)
+        path = repo.md / "link-index.json"
+        index = json.loads(path.read_bytes())
+        for ref in index["references"]:
+            if ref["status"] == "unchecked":
+                ref["status"] = "resolved"
+        index.pop("link_mode")
+        path.write_text(json.dumps(index))
+        before = (repo.md / "bverfgg.md").read_bytes()
+        repo.transform(["gg.xml"], quiet)
+        after = json.loads(path.read_bytes())
+        self.assertNotIn("resolved", {ref["status"] for ref in after["references"]})
+        self.assertEqual((repo.md / "bverfgg.md").read_bytes(), before)
+
+    def test_partial_transform_rejects_corrupt_retained_index_without_publishing(self):
+        repo = RepositoryFiles(self.root)
+        for slug in ("bverfgg", "gg"):
+            repo.add_source(slug, quiet, fixture(slug))
+        repo.transform(["bverfgg.xml"], quiet)
+        path = repo.md / "bverfgg.md"
+        path.write_text(path.read_text() + "\n[[Bundesrecht/gg#^art-99|erfunden]]\n")
+        before = {p.name: p.read_bytes() for p in repo.md.iterdir() if p.is_file()}
+        with self.assertRaisesRegex(Error, "Markdown-Links"):
+            repo.transform(["gg.xml"], quiet)
+        self.assertEqual(before, {p.name: p.read_bytes() for p in repo.md.iterdir() if p.is_file()})
+        self.assertFalse((repo.md / "gg.md").exists())
 
     def test_plain_xml_and_invalid_batch_preserve_existing_export(self):
         repo = RepositoryFiles(self.root)
@@ -606,7 +675,7 @@ assert len(commands) == 1
         self.assertIn("Transformation abgebrochen", gui.transform_message.value)
         self.assertTrue(all(not control.disabled for control in gui.controls))
 
-    def test_widget_downloads_single_markdown_and_keeps_session_log(self):
+    def test_widget_downloads_keep_current_log_but_restart_clears_it(self):
         try:
             from repository_gui import RepositoryGUI, start
         except ModuleNotFoundError as error:
@@ -634,9 +703,11 @@ assert len(commands) == 1
         self.assertIn("Download · Gestartet", gui.log.outputs[-2]["text"])
         self.assertIn("Fertig · gg.md", gui.log.outputs[-1]["text"])
         with patch("repository_gui.display"):
-            restarted = start(self.root, log_outputs=gui.log.outputs)
+            gui.close()
+            restarted = start(self.root)
         self.addCleanup(restarted.close)
-        self.assertEqual(restarted.log.outputs, gui.log.outputs)
+        self.assertEqual(restarted.log.outputs, ())
+        self.assertEqual(gui.log.outputs, ())
 
 
 if __name__ == "__main__":

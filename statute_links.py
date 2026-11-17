@@ -10,6 +10,17 @@ from statute_source import KNOWN, alias_key, digest
 
 SCHEMA_VERSION = 1
 ANCHOR_VERSION = 1
+FUTURE_LAWS = {
+    "hgb": ("HGB", "Handelsgesetzbuch", "Handelsgesetzbuches"),
+    "sgg": ("SGG", "Sozialgerichtsgesetz", "Sozialgerichtsgesetzes"),
+    "zpo": ("ZPO", "Zivilprozessordnung"),
+    "stgb": ("StGB", "Strafgesetzbuch", "Strafgesetzbuches"),
+    "stpo": ("StPO", "Strafprozessordnung"),
+    "vwgo": ("VwGO", "Verwaltungsgerichtsordnung"),
+    "vwvfg": ("VwVfG", "Verwaltungsverfahrensgesetz"),
+    "bgbeg": ("EGBGB", "Einführungsgesetz zum Bürgerlichen Gesetzbuche"),
+    "ao_1977": ("AO", "Abgabenordnung"),
+}
 UNITS = {"abs": "Absatz", "s": "Satz", "nr": "Nummer", "lit": "Buchstabe"}
 
 
@@ -88,23 +99,19 @@ def flow_targets(source, record, flow, warn):
 
 
 class Registry:
-    def __init__(self, sources, targets):
-        self.selectors = defaultdict(list)
-        self.order = defaultdict(list)
+    def __init__(self, sources):
+        # Die Linkbildung verwendet keinen Zielbestand und prüft keine Existenz.
         self.aliases = defaultdict(set)
-        for item in targets:
-            for selector in {tuple(s) for s in [item["selector"], *item["aliases"]] if s}:
-                self.selectors[item["law"], selector].append(item)
-            if len(item["selector"]) == 2 and item["selector"][0] in {"p", "art"}:
-                self.order[item["law"], item["selector"][0]].append(item)
         names = defaultdict(set)
         for slug, (_, aliases) in KNOWN.items():
+            for value in (*aliases, slug):
+                names[normalized(value)[0]].add(slug)
+        for slug, aliases in FUTURE_LAWS.items():
             for value in (*aliases, slug):
                 names[normalized(value)[0]].add(slug)
         for source in sources.values():
             for value in source.aliases:
                 names[normalized(value)[0]].add(source.slug)
-        self.laws = set(sources)
         for name, slugs in names.items():
             self.aliases[alias_key(normalized(name)[0])].update(slugs)
         alternatives = "|".join(re.escape(x) for x in sorted(names, key=lambda x: (-len(x), x)))
@@ -116,15 +123,28 @@ class Registry:
         if len(laws) != 1:
             return "ambiguous", sorted(laws), None
         law, = laws
-        if law not in self.laws:
-            return "missing_law", [law], None
-        candidates = self.selectors.get((law, selector), [])
-        descriptors = [{"path": x["path"], "id": x["id"]} for x in candidates]
-        if not candidates:
-            return "missing_target", [], None
-        if len(candidates) != 1 or candidates[0]["confidence"] == "ambiguous":
-            return "ambiguous", descriptors, None
-        return "resolved", descriptors, candidates[0]
+        planned = planned_target(law, selector)
+        if planned is None:
+            return "unsupported", [], None
+        return "unchecked", [], planned
+
+
+def planned_target(law, selector):
+    """Nur syntaktisch ableitbare Block-IDs, ohne Abgleich mit einem Zielregister."""
+    if (not re.fullmatch(r"[a-z0-9][a-z0-9_-]{0,127}", law, re.ASCII)
+            or len(selector) < 2 or len(selector) % 2 or selector[0] not in {"p", "art"}):
+        return None
+    chosen = []
+    for kind, value in zip(selector[::2], selector[1::2]):
+        # Listen-IDs können von der Satzzugehörigkeit abhängen. Zum belegbaren
+        # syntaktischen Elternselektor springen, statt eine Listen-ID zu erfinden.
+        if kind in {"nr", "lit"}:
+            break
+        if kind not in {"p", "art", "abs", "s"} or not re.fullmatch(r"[0-9]+[a-z]?", value, re.ASCII):
+            return None
+        chosen.extend((kind, value))
+    return {"path": f"Bundesrecht/{law}.md", "id": "-".join(chosen), "selector": chosen,
+            "precision": "exact" if list(selector) == chosen else "parent"}
 
 
 NUMBER = r"[0-9]+[a-z]?(?![\w])"
@@ -135,8 +155,8 @@ VERSION = re.compile(r" +(?:a\. *F\.|n\. *F\.|in der Fassung\b|in seiner früher
 FOLLOWING = re.compile(r" +(?:f|ff)\.", re.I)
 UNKNOWN_LAW = re.compile(r" +(?:(?:des|der) +(?:(?:vorstehenden|genannten) +)?(?:[\w-]+ +){0,4}[\w-]*(?:gesetz(?:es)?|verordnung)|(?:(?:[A-ZÄÖÜ][a-zäöüß0-9]*){2,}|[A-ZÄÖÜ]{2,})(?:-[A-Z0-9]+)?)(?![\w-])")
 PROTECTED = re.compile(r"\[\[[^\n]*?\]\]|`+[^\n]*?`+|https?://[^\s<>]+|\b(?:BGBl\.|ABl\.)[^;\n)]*?\bS\. +\d+")
-STATUS_REASON = {"resolved": "Ein eindeutiges Ziel im Bestand", "missing_law": "Das zitierte Gesetz fehlt im Bestand",
-                 "missing_target": "Der Selektor ist im Zielgesetz nicht belegt", "ambiguous": "Kontext oder Ziel ist nicht eindeutig",
+STATUS_REASON = {"unchecked": "Ungeprüfter Vorratslink; Zielgesetz und Zielblock wurden nicht geprüft", "unknown_law": "Für den Gesetzesnamen ist kein eindeutiger Dateislug bekannt",
+                 "ambiguous": "Kontext oder Ziel ist nicht eindeutig",
                  "unsupported": "Der Ausdruck lässt sich nicht sicher als aktueller Normverweis auflösen",
                  "version_mismatch": "Kein passender Nachweis für die zitierte Gesetzesfassung"}
 
@@ -253,8 +273,8 @@ def references(flow, source, record, registry, markers, *, offset=0):
             name = unknown[0].strip()
             if name not in {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "EU", "EG", "EWG"}:
                 end = unknown.end()
-                problem = "missing_law" if name[0].isupper() else "unsupported"
-                if problem == "missing_law":
+                problem = "unknown_law" if name[0].isupper() else "unsupported"
+                if problem == "unknown_law":
                     laws = {name}
                 a, _, selector = parts[-1]
                 parts[-1] = (a, end, selector)
@@ -280,20 +300,15 @@ def references(flow, source, record, registry, markers, *, offset=0):
             status, candidates, found = registry.resolve(laws, selector, reason)
             entry = {"source_law": source.slug, "source_block": block, "xml_path": flow.path,
                      "offsets": [begin + offset, finish + offset], "stream_start": offset, "original": raw, "selector": list(selector),
-                     "law_candidates": sorted(laws), "status": status, "reason": STATUS_REASON[status],
+                     "law_candidates": sorted(laws), "status": status, "reason": STATUS_REASON[status] + ("; Listenstelle verlinkt auf den übergeordneten Selektor" if found and found["precision"] == "parent" else ""),
                      "candidates": candidates, "target_path": found["path"] if found else None,
-                     "target_id": found["id"] if found else None}
+                     "target_id": found["id"] if found else None,
+                     "target_selector": found["selector"] if found else None,
+                     "target_precision": found["precision"] if found else None}
             if connectors:
                 entry["group"] = {"start": spans[start][0] + offset, "connectors": connectors}
             if ff:
                 entry["following"] = ff[0].strip()
             batch.append(entry)
-        if len(batch) == 2 and connectors == ["bis"] and all(x["status"] == "resolved" for x in batch):
-            first, last = batch
-            if len(first["selector"]) == len(last["selector"]) == 2:
-                seq = [x["id"] for x in registry.order[next(iter(laws)), first["selector"][0]]]
-                left, right = seq.index(first["target_id"]), seq.index(last["target_id"])
-                if left <= right:
-                    first["range_members"] = seq[left:right + 1]
         out.extend(batch)
     return out

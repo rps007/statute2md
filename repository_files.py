@@ -1,13 +1,15 @@
 """Gesetzesdateien in der Arbeitskopie verwalten und gemeinsam exportieren."""
 
 from contextlib import contextmanager
+from collections import Counter
 import json
 from pathlib import Path
 import re
 import shutil
 from tempfile import TemporaryDirectory
 
-from statute_export import read_project, render_export, write_json, zip_file
+from statute_export import (read_project, render_export, write_json, zip_file, write_bundles,
+                           inspect_markdown, check_link_index)
 from statute_source import MiB, SLUG, ExportError, acquire, digest, download, load_source, source_url, unpack
 
 
@@ -140,6 +142,54 @@ class RepositoryFiles:
         render_export(export, sources, previous, log, **options)
         return export
 
+    def combine(self, export, active, selected, log):
+        """Nicht ausgewählte Exporte übernehmen; nur Auswahl wurde neu gerendert."""
+        if self.md.exists() and any(path.is_symlink() for path in self.md.rglob("*")):
+            raise ExportError("Der Markdown-Bestand enthält einen symbolischen Link.")
+        retained = set(active) - set(selected)
+        fresh = json.loads((export / "link-index.json").read_bytes()) if (export / "link-index.json").is_file() else None
+        if retained:
+            index_path = self.md / "link-index.json"
+            if not index_path.is_file():
+                raise ExportError("Der Link-Index des Altbestands fehlt. Wähle alle Gesetze einmal für Transform aus.")
+            old = json.loads(index_path.read_bytes())
+            if any(old.get("sources", {}).get(slug) != active[slug].provenance for slug in retained):
+                raise ExportError("Quellbestand und Link-Index passen nicht zusammen. Wähle alle Gesetze für Transform aus.")
+        else:
+            old = {}
+        index = fresh if fresh is not None else {**old, "targets": [], "references": [], "diagnostics": [], "changes": []}
+        for field, key in (("targets", "law"), ("references", "source_law"), ("diagnostics", "law")):
+            index[field].extend(item for item in old.get(field, []) if item[key] in retained)
+        for ref in index["references"]:
+            if ref["status"] == "resolved":
+                ref.update(status="unchecked", reason="Ungeprüfter Vorratslink aus einem früheren Export",
+                           retained_legacy=True, candidates=[])
+                ref.pop("range_members", None)
+        index["targets"].sort(key=lambda item: (item["law"], item["markdown_line"] or 0, item["id"]))
+        index["references"].sort(key=lambda item: (item["source_law"], item["xml_path"], item["offsets"]))
+        index["diagnostics"].sort(key=lambda item: (item["law"], item["xml_path"], item["code"]))
+        index["sources"] = {slug: source.provenance for slug, source in sorted(active.items())}
+        index["reference_counts"] = dict(sorted(Counter(ref["status"] for ref in index["references"]).items()))
+        index["status"] = "limited" if any(d["code"] in {"missing_asset", "unknown_tag"} for d in index["diagnostics"]) else "complete"
+        index["link_mode"] = "unchecked"
+        for slug in sorted(retained):
+            shutil.copy2(self.md / f"{slug}.md", export / "Bundesrecht" / f"{slug}.md")
+        assets = self.md / "assets"
+        if assets.is_dir():
+            for child in assets.iterdir():
+                if child.name in retained:
+                    shutil.copytree(child, export / "Bundesrecht" / "assets" / child.name, dirs_exist_ok=True)
+        write_json(export / "link-index.json", index)
+        # Der neue Teil wurde bereits gegen XML geprüft. Für unverändert übernommene
+        # Dateien und den Gesamtindex werden Blockpositionen und Linktexte geprüft;
+        # die Existenz zitierter Ziele wird ausdrücklich nicht geprüft.
+        paths = {f"Bundesrecht/{slug}.md": [] for slug in active}
+        anchors, actual = inspect_markdown(export, index, paths)
+        check_link_index(index, anchors, actual)
+        log("Bestand", f"{len(selected)} Gesetz(e) neu gerendert; {len(retained)} unverändert übernommen. Alle ausgegebenen Links sind ungeprüft.")
+        write_bundles(export, active)
+        return export
+
     def transform(self, names, log, *, progress=lambda percent, message: None):
         selection = self.selected("xml", names)
         if not selection:
@@ -149,19 +199,24 @@ class RepositoryFiles:
         active = {slug: source for slug, source in old_sources.items() if (self.md / f"{slug}.md").is_file()}
         with TemporaryDirectory(prefix=".statute2md-", dir=self.root) as temporary:
             workspace = Path(temporary)
+            chosen = {}
             for position, path in enumerate(selection):
                 progress(3 + 12 * position // len(selection), f"XML lesen · {path.name} · {position + 1}/{len(selection)}")
                 source = self.read_source(path, log, workspace)
                 active[source.slug] = source
+                chosen[source.slug] = source
             def render_progress(percent, message):
                 progress(15 + 82 * percent // 100, message)
 
-            export = self.render(active, previous, workspace, log, progress=render_progress)
+            if len(active) > 64 or sum(len(source.archive) for source in active.values()) > 92 * MiB:
+                raise ExportError("Der Quellbestand überschreitet das Bestandslimit.")
+            export = self.render(chosen, [t for t in previous if t["law"] in chosen], workspace, log, progress=render_progress)
+            export = self.combine(export, active, chosen, log)
             progress(98, "Geprüfte Dateien in md_files übernehmen")
             with edit_directory(self.md) as stage:
                 self.publish(stage, export, old_sources)
         progress(100, "Export abgeschlossen")
-        return f"{len(selection)} XML-Datei(en) transformiert. {len(active)} Gesetz(e) gemeinsam exportiert."
+        return f"{len(selection)} XML-Datei(en) transformiert. {len(active) - len(chosen)} vorhandene(s) Gesetz(e) unverändert. Links sind ungeprüfte Vorratslinks."
 
     def delete(self, xml_names, md_names, log):
         xml = self.selected("xml", xml_names)
@@ -174,7 +229,11 @@ class RepositoryFiles:
             kept = {slug: source for slug, source in old_sources.items()
                     if slug not in removed and (self.md / f"{slug}.md").is_file()}
             with TemporaryDirectory(prefix=".statute2md-", dir=self.root) as temporary:
-                export = self.render(kept, previous, Path(temporary), log)
+                export = None
+                if kept:
+                    export = Path(temporary) / "export"
+                    (export / "Bundesrecht").mkdir(parents=True)
+                    export = self.combine(export, kept, {}, log)
                 with edit_directory(self.md) as stage:
                     if old_sources:
                         self.publish(stage, export, old_sources)
