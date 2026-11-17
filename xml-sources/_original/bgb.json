@@ -1,0 +1,16 @@
+{
+  "method": "download",
+  "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+  "expected_slug": "bgb",
+  "zip_sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+  "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+  "member": "BJNR001950896.xml",
+  "doknr": "BJNR001950896",
+  "builddate": "20260926215507",
+  "expected_alias": "BGB",
+  "catalog_titles": [],
+  "stand": [
+    "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+    "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "method": "download",
+  "url": "https://www.gesetze-im-internet.de/stpo/xml.zip",
+  "expected_slug": "stpo",
+  "zip_sha256": "3ffddd9ed42110be4c1012f9817eee9892482dbfcf0495269166150796399058",
+  "xml_sha256": "3f164d21dcaa2c322045098854c2038951a5e5adbfb106174b38ccf5e30c2d77",
+  "member": "BJNR006290950.xml",
+  "doknr": "BJNR006290950",
+  "builddate": "20261103220005",
+  "expected_alias": "StPO",
+  "catalog_titles": [],
+  "stand": [
+    "Neugefasst durch Bek. v. 7.4.1987 I 1074, 1319;",
+    "zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199",
+    "Änderung durch Art. 4 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+    "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+  ]
+}

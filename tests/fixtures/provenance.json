@@ -1,0 +1,74 @@
+{
+  "bgb": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/bgb/bgb.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "archive_member": "BJNR001950896.xml",
+    "root_attributes": {
+      "builddate": "20250206223011",
+      "doknr": "BJNR001950896"
+    },
+    "source_norm_count": 2824,
+    "source_xml_sha256": "c3276fc1d7bde90304d55d3baeb2ad46a1cc24b4fbe8103bcffc6b3039bb9914",
+    "fixture_sha256": "ccd6a970cbf37e80fe056d285fe36f1987d03f164b3baff54ae9b95d7d74b7ec"
+  },
+  "bverfgg": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/bverfgg/bverfgg.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/bverfgg/xml.zip",
+    "archive_member": "BJNR002430951.xml",
+    "root_attributes": {
+      "builddate": "20250226223002",
+      "doknr": "BJNR002430951"
+    },
+    "source_norm_count": 164,
+    "source_xml_sha256": "23f75d8f2d8b660eee608ad8192462329b3974356bec8ba22d19c5c38ad17036",
+    "fixture_sha256": "b9d4ed5c44066c1770a473a01e04700227816e9c5ffa47469fe7e37d5d9f3b7c"
+  },
+  "estg": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/estg/estg.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/estg/xml.zip",
+    "archive_member": "BJNR010050934.xml",
+    "root_attributes": {
+      "builddate": "20250207223003",
+      "doknr": "BJNR010050934"
+    },
+    "source_norm_count": 293,
+    "source_xml_sha256": "2c3cf556b96578cc768188c1c269e3a3b58c98ffeab9f44ba4735fee56045609",
+    "fixture_sha256": "9423eb9588a68a879af2bb955ac4cfd2e130ceefaebb023d3338717cd5f150ca"
+  },
+  "gg": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/gg/gg.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/gg/xml.zip",
+    "archive_member": "BJNR000010949.xml",
+    "root_attributes": {
+      "builddate": "20250326224002",
+      "doknr": "BJNR000010949"
+    },
+    "source_norm_count": 220,
+    "source_xml_sha256": "fcbd5702a433146924abf619fef5be855b77d88c976c231b69e3934f4d817b50",
+    "fixture_sha256": "1e73e2ca41168dc56a9444b0481164c3b1c9dd8cebcc08674483159673f3372c"
+  },
+  "sgb_1": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/sgb_1/sgb_1.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/sgb_1/xml.zip",
+    "archive_member": "BJNR030150975.xml",
+    "root_attributes": {
+      "builddate": "20241231222206",
+      "doknr": "BJNR030150975"
+    },
+    "source_norm_count": 94,
+    "source_xml_sha256": "c3492a7aa51886a0f790bd61a997a8c32210c9862408dacb9248b986933bee84",
+    "fixture_sha256": "d71ab6d2c0da2a51d7d05824fc0df25f6e619dd0fa86956282cde31a0660a62c"
+  },
+  "stvg": {
+    "archive_snapshot": "https://github.com/jandinter/gesetze-im-internet/blob/3982ae477524f3c75ed353a460d99a518dd5a62a/gesetze/stvg/stvg.xml",
+    "official_archive": "https://www.gesetze-im-internet.de/stvg/xml.zip",
+    "archive_member": "BJNR004370909.xml",
+    "root_attributes": {
+      "builddate": "20241113214504",
+      "doknr": "BJNR004370909"
+    },
+    "source_norm_count": 133,
+    "source_xml_sha256": "781ab2d1d06042a5a26810c38543e1607df306c30b4c1b3e8d176a3b3d28bd3b",
+    "fixture_sha256": "d6ddac6dfac10400fca82ceb5b7e2b3ea6871836d673f8f6b76635df89d36929"
+  }
+}
