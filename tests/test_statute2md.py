@@ -348,6 +348,7 @@ def clone(args, **kwargs):
     checkout.mkdir()
     for module in source.glob('*.py'):
         shutil.copy2(module, checkout / module.name)
+    return subprocess.CompletedProcess(args, 0, '', '')
 with patch.dict(sys.modules, {{'google.colab': colab}}), patch('subprocess.run', clone):
     exec({code!r})
     assert statute_gui.git.username == 'another-user'

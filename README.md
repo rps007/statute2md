@@ -31,3 +31,5 @@ python -m unittest discover -s tests -v
 ```
 
 Die Tests verwenden archivierte XML-Ausschnitte. Sie prüfen unter anderem den Mehrfachexport, das Entfernen eines Gesetzes mit Neuauflösung der Links, den Download und den Git-Commit im lokalen Test-Repository. Der Live-Abruf aus Colab und die Bedienung im Colab-Browser wurden für diese Version nicht manuell geprüft.
+
+Nach einem vollständig ersetzten Git-Verlauf erneuert die Colab-Startzelle eine veraltete Arbeitskopie automatisch. Sie übernimmt `xml-sources/` und `md_files/` und behält die gesamte alte Arbeitskopie einschließlich lokaler Commits und weiterer Dateien unter `/content/statute2md-recovery-…/previous`. Der genaue Sicherungspfad steht im Startprotokoll. Bei einem fehlgeschlagenen Abruf bleibt die ursprüngliche Arbeitskopie erhalten. Lade nach einer Notebook-Aktualisierung auch die Startzelle im Browser neu; eine bereits geöffnete alte Zelle aktualisiert ihren eigenen Code nicht.

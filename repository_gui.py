@@ -14,7 +14,7 @@ from repository_files import RepositoryFiles
 from repository_git import RepositoryGit
 from statute_source import BASE, ExportError, MiB
 
-NOTEBOOK_GUI_API = 14
+NOTEBOOK_GUI_API = 15
 
 try:
     from google.colab import files as colab_files, output as colab_output
