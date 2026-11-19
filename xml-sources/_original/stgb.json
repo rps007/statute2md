@@ -1,0 +1,16 @@
+{
+  "method": "upload",
+  "url": null,
+  "expected_slug": "stgb",
+  "zip_sha256": "43e12baef8aed20424b3358a88921a68fb5589079344226ea54a798395d0ec11",
+  "xml_sha256": "2762d32c5254858eafdaa537d715d36e0cafe2803921b3fa6d39f6ad44d9b6c9",
+  "member": "BJNR001270871.xml",
+  "doknr": "BJNR001270871",
+  "builddate": "20260928220002",
+  "expected_alias": "StGB",
+  "catalog_titles": [],
+  "stand": [
+    "Neugefasst durch Bek. v. 13.11.1998 I 3322;",
+    "zuletzt geändert durch Art. 1 G v. 20.3.2026 I Nr. 95"
+  ]
+}
