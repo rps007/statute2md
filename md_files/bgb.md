@@ -26,11 +26,11 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 <span style="color:var(--text-error,#c52d3d)">9.</span> Richtlinie 97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19),
 
-<span style="color:var(--text-error,#c52d3d)">10.</span> Artikel 3 bis 5 der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates über die Wirksamkeit von Abrechnungen in Zahlungs- und Wertpapierliefer- und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG Nr. L 166 S. 45),
+<span style="color:var(--text-error,#c52d3d)">10.</span> [[#^art-3|Artikel 3]] bis [[#^art-5|5]] der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates über die Wirksamkeit von Abrechnungen in Zahlungs- und Wertpapierliefer- und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG Nr. L 166 S. 45),
 
 <span style="color:var(--text-error,#c52d3d)">11.</span> Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12),
 
-<span style="color:var(--text-error,#c52d3d)">12.</span> Artikel 10, 11 und 18 der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen Geschäftsverkehr", ABl. EG Nr. L 178 S. 1),
+<span style="color:var(--text-error,#c52d3d)">12.</span> [[#^art-10|Artikel 10]], [[#^art-11|11]] und [[#^art-18|18]] der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen Geschäftsverkehr", ABl. EG Nr. L 178 S. 1),
 
 <span style="color:var(--text-error,#c52d3d)">13.</span> Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
@@ -118,6 +118,12 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
                                 G v. 12.5.2026 I Nr. 139 u. 
                                 G v. 16.7.2026 I Nr. 212     +++)</pre>
 
+Verweis: [[#^art-230|Art. 230]]
+
+Verweis: [[#^art-235|Art. 235]]
+
+Verweis: [[#^p-1906-abs-3|§ 1906 Abs. 3]]
+
 Verweis: [[#^p-311b-abs-2|§ 311b Abs. 2]]
 
 Verweis: [[#^p-204-abs-2-s-1|§ 204 Abs. 2 Satz 1]]
@@ -126,6 +132,10 @@ Verweis: [[#^p-204a-abs-3|§ 204a Abs. 3]]
 
 Verweis: [[#^p-204|§§ 204]]
 
+Verweis: [[#^art-229|Art. 229]]
+
+Verweis: [[Bundesrecht/bgbeg#^p-65|§ 65 BGBEG]]
+
 Verweis: [[#^p-271|§§ 271]]
 
 Verweis: [[#^p-286|286]]
@@ -133,6 +143,10 @@ Verweis: [[#^p-286|286]]
 Verweis: [[#^p-288|288]]
 
 Verweis: [[#^p-308|308]]
+
+Verweis: [[#^art-229|Art. 229]]
+
+Verweis: [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]]
 
 Verweis: [[#^p-312c|§ 312c]]
 
@@ -160,6 +174,10 @@ Verweis: [[#^p-556e|556e]]
 
 Verweis: [[#^p-556f|§ 556f]]
 
+Verweis: [[#^art-229|Art. 229]]
+
+Verweis: [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]]
+
 Verweis: [[#^p-556d|§§ 556d]]
 
 Verweis: [[#^p-556g|556g]]
@@ -167,6 +185,10 @@ Verweis: [[#^p-556g|556g]]
 Verweis: [[#^p-557a|§§ 557a]]
 
 Verweis: [[#^p-557b|557b]]
+
+Verweis: [[#^art-229|Art. 229]]
+
+Verweis: [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]]
 
 Verweis: [[#^p-556g-abs-1|§ 556g Abs. 1]]
 
@@ -183,6 +205,12 @@ Verweis: [[#^p-578-abs-3|§ 578 Abs. 3]]
 Verweis: [[#^p-559c|§§ 559c]]
 
 Verweis: [[#^p-559d|559d]]
+
+Verweis: [[#^p-559g|559g]]
+
+Verweis: [[#^art-229|Art. 229]]
+
+Verweis: [[Bundesrecht/bgbeg#^p-49|§ 49 BGBEG]]
 
 Verweis: [[#^p-728|§§ 728]]
 
@@ -234,7 +262,7 @@ Verweis: [[#^p-740c|§ 740c]]
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; Amtliche Inhaltsübersicht ohne Paragraphenangaben seit dem 1.1.2010,  vgl. Art. 1 Nr. 27 G v. 24.9.2009 I 3142; insoweit besteht ein Widerspruch zur  Änderung durch Art. 1 Nr. 1 Buchst. a bis g G v. 29.7.2009 I 2355 ab dem 11.6.2010 &#43;&#43;&#43;)
+(&#43;&#43;&#43; Amtliche Inhaltsübersicht ohne Paragraphenangaben seit dem 1.1.2010,  vgl. [[#^art-1|Art. 1 Nr. 27]] G v. 24.9.2009 I 3142; insoweit besteht ein Widerspruch zur  Änderung durch [[#^art-1|Art. 1 Nr. 1 Buchst. a]] bis g G v. 29.7.2009 I 2355 ab dem 11.6.2010 &#43;&#43;&#43;)
 
 ## Buch 1 Allgemeiner Teil
 
@@ -261,6 +289,10 @@ Lebensjahres ein. ^p-2-s-2
 ##### (XXXX) §§ 3 bis 6 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne000301377
+
+Verweis zur Überschrift: [[#^p-3|§§ 3]]
+
+Verweis zur Überschrift: [[#^p-6|6]]
 
 ##### § 7 — Wohnsitz; Begründung und Aufhebung ^p-7
 
@@ -324,9 +356,25 @@ Eine rechtsfähige Personengesellschaft ist eine Personengesellschaft, die mit d
 
 <strong>Amtlicher Hinweis:</strong><br>Diese Vorschrift dient der Umsetzung der eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten Richtlinien.
 
+Verweis: [[#^p-14|Nummern 3]]
+
+Verweis: [[#^p-14|4]]
+
+Verweis: [[#^p-14|6]]
+
+Verweis: [[#^p-14|7]]
+
+Verweis: [[#^p-14|9]]
+
+Verweis: [[#^p-14|11]]
+
 ##### (XXXX) §§ 15 bis 20 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne001102377
+
+Verweis zur Überschrift: [[#^p-15|§§ 15]]
+
+Verweis zur Überschrift: [[#^p-20|20]]
 
 #### Titel 2 Juristische Personen
 
@@ -530,7 +578,7 @@ Von [[#^p-34|§ 34]] kann auch für die Beschlussfassung des Vorstands durch die
 
 **Hinweise und Fußnoten**
 
-[[#^p-40-s-1|§ 40 Satz 1]] Kursivdruck: Änderung gem. Art. 1 Nr. 3 G v. 28.9.2009 I 3161 mWv 3.10.2009 führt vor "der §§ 28, 31a Abs. 1 Satz 2" zu zwei aufeinanderfolgenden Kommata. Aufgrund offensichtlicher Unrichtigkeit wurde ein Komma entfernt.
+[[#^p-40-s-1|§ 40 Satz 1]] Kursivdruck: Änderung gem. [[#^art-1|Art. 1 Nr. 3]] G v. 28.9.2009 I 3161 mWv 3.10.2009 führt vor "der §§ 28, 31a Abs. 1 Satz 2" zu zwei aufeinanderfolgenden Kommata. Aufgrund offensichtlicher Unrichtigkeit wurde ein Komma entfernt.
 
 ###### § 41 — Auflösung des Vereins ^p-41
 
@@ -756,6 +804,10 @@ Die Anmeldung ist, wenn den Erfordernissen der [[#^p-56|§§ 56]] bis [[#^p-59|5
 
 ^norm-doc-bjnr001950896bjne005202377
 
+Verweis zur Überschrift: [[#^p-61|§§ 61]]
+
+Verweis zur Überschrift: [[#^p-63|63]]
+
 ###### § 64 — Inhalt der Vereinsregistereintragung ^p-64
 
 Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der Errichtung der Satzung, die Mitglieder des Vorstands und ihre Vertretungsmacht anzugeben. ^p-64-s-1
@@ -948,7 +1000,7 @@ Die Länder können auch die Übertragung der Zuständigkeit auf die zuständige
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-79a-abs-1
 
-Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. ^p-79a-abs-1-s-1
+Die Rechte nach [[#^art-15|Artikel 15]] der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. ^p-79a-abs-1-s-1
 
 April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) werden nach [[#^p-79|§ 79]] und den dazu erlassenen Vorschriften der Vereinsregisterverordnung durch Einsicht in das Register oder den Abruf von Registerdaten über das länderübergreifende Informations- und Kommunikationssystem gewährt. ^p-79a-abs-1-s-2
 
@@ -956,11 +1008,11 @@ Das Registergericht ist nicht verpflichtet, Personen, deren personenbezogene Dat
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-79a-abs-2
 
-Das Recht auf Berichtigung nach Artikel 16 der Verordnung (EU) 2016/679 kann für personenbezogene Daten, die im Vereinsregister oder in den Registerakten gespeichert sind, nur unter den Voraussetzungen und in dem Verfahren ausgeübt werden, die im Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie der Vereinsregisterverordnung für eine Löschung oder Berichtigung von Eintragungen geregelt sind. ^p-79a-abs-2-s-1
+Das Recht auf Berichtigung nach [[#^art-16|Artikel 16]] der Verordnung (EU) 2016/679 kann für personenbezogene Daten, die im Vereinsregister oder in den Registerakten gespeichert sind, nur unter den Voraussetzungen und in dem Verfahren ausgeübt werden, die im Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie der Vereinsregisterverordnung für eine Löschung oder Berichtigung von Eintragungen geregelt sind. ^p-79a-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-79a-abs-3
 
-Das Widerspruchsrecht nach Artikel 21 der Verordnung (EU) 2016/679 ist auf personenbezogene Daten, die im Vereinsregister und in den Registerakten gespeichert sind, nicht anzuwenden. ^p-79a-abs-3-s-1
+Das Widerspruchsrecht nach [[#^art-21|Artikel 21]] der Verordnung (EU) 2016/679 ist auf personenbezogene Daten, die im Vereinsregister und in den Registerakten gespeichert sind, nicht anzuwenden. ^p-79a-abs-3-s-1
 
 ##### Untertitel 2 Rechtsfähige Stiftungen
 
@@ -1072,7 +1124,7 @@ Zum Grundstockvermögen gehören ^p-83b-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-83b-abs-3
 
-Der Stifter kann auch bei einer Stiftung, die auf unbestimmte Zeit errichtet wird, im Stiftungsgeschäft abweichend von [[#^p-83b-abs-2-s-1-nr-1|Absatz 2 Nummer 1]] einen Teil des gewidmeten Vermögens zu sonstigem Vermögen bestimmen. ^p-83b-abs-3-s-1
+Der Stifter kann auch bei einer Stiftung, die auf unbestimmte Zeit errichtet wird, im Stiftungsgeschäft abweichend von [[#^p-83b-abs-2|Absatz 2 Nummer 1]] einen Teil des gewidmeten Vermögens zu sonstigem Vermögen bestimmen. ^p-83b-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-83b-abs-4
 
@@ -1182,11 +1234,11 @@ Durch Satzungsänderung kann der Stiftung ein anderer Zweck gegeben oder der Zwe
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> der Stiftungszweck das Gemeinwohl gefährdet. ^p-85-abs-1-s-1-nr-2
 
-Die Voraussetzungen des Satzes 1 [[#^p-85-abs-1-s-1-nr-1|Nummer 1]] liegen insbesondere vor, wenn eine Stiftung keine ausreichenden Mittel für die nachhaltige Erfüllung des Stiftungszwecks hat und solche Mittel in absehbarer Zeit auch nicht erwerben kann. ^p-85-abs-1-s-2
+Die Voraussetzungen des Satzes 1 [[#^p-85-abs-1|Nummer 1]] liegen insbesondere vor, wenn eine Stiftung keine ausreichenden Mittel für die nachhaltige Erfüllung des Stiftungszwecks hat und solche Mittel in absehbarer Zeit auch nicht erwerben kann. ^p-85-abs-1-s-2
 
 Der Stiftungszweck kann nach [[#^p-85-abs-1-s-1|Satz 1]] nur geändert werden, wenn gesichert erscheint, dass die Stiftung den beabsichtigten neuen oder beschränkten Stiftungszweck dauernd und nachhaltig erfüllen kann. ^p-85-abs-1-s-3
 
-Liegen die Voraussetzungen nach [[#^p-85-abs-1-s-1-nr-1|Satz 1 Nummer 1]] und [[#^p-85-abs-1-s-3|Satz 3]] vor, kann eine auf unbestimmte Zeit errichtete Stiftung auch abweichend von [[#^p-83c|§ 83c]] durch Satzungsänderung in eine Verbrauchsstiftung umgestaltet werden, indem die Satzung um Bestimmungen nach [[#^p-81-abs-2|§ 81 Absatz 2]] ergänzt wird. ^p-85-abs-1-s-4
+Liegen die Voraussetzungen nach [[#^p-85-abs-1-s-1|Satz 1 Nummer 1]] und [[#^p-85-abs-1-s-3|Satz 3]] vor, kann eine auf unbestimmte Zeit errichtete Stiftung auch abweichend von [[#^p-83c|§ 83c]] durch Satzungsänderung in eine Verbrauchsstiftung umgestaltet werden, indem die Satzung um Bestimmungen nach [[#^p-81-abs-2|§ 81 Absatz 2]] ergänzt wird. ^p-85-abs-1-s-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-85-abs-2
 
@@ -1312,7 +1364,7 @@ Mängel des Zulegungsvertrags oder des Zusammenlegungsvertrags lassen die Wirkun
 
 ###### § 86g — Bekanntmachung der Zulegung und der Zusammenlegung ^p-86g
 
-Die übernehmende Stiftung hat die Zulegung oder die Zusammenlegung innerhalb eines Monats nach dem Zeitpunkt, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach [[#^p-86f-abs-1|§ 86f Absatz 1]] oder Absatz 2 eingetreten sind, durch Veröffentlichung im Bundesanzeiger bekannt zu machen. ^p-86g-s-1
+Die übernehmende Stiftung hat die Zulegung oder die Zusammenlegung innerhalb eines Monats nach dem Zeitpunkt, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach [[#^p-86f-abs-1|§ 86f Absatz 1]] oder [[#^p-86g-abs-2|Absatz 2]] eingetreten sind, durch Veröffentlichung im Bundesanzeiger bekannt zu machen. ^p-86g-s-1
 
 In der Bekanntmachung sind die Gläubiger der an der Zulegung oder Zusammenlegung beteiligten Stiftungen auf ihr Recht nach [[#^p-86h|§ 86h]] hinzuweisen. ^p-86g-s-2
 
@@ -1320,7 +1372,7 @@ Die Bekanntmachung gilt mit dem Ablauf des zweiten Tages nach der Veröffentlich
 
 ###### § 86h — Gläubigerschutz ^p-86h
 
-Die übernehmende Stiftung hat einem Gläubiger nach [[#^p-86g-s-2|§ 86g Satz 2]] für einen Anspruch, der vor dem Zeitpunkt entstanden ist, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach [[#^p-86f-abs-1|§ 86f Absatz 1]] oder Absatz 2 eingetreten sind, und dessen Erfüllung noch nicht verlangt werden kann, Sicherheit zu leisten, wenn der Gläubiger ^p-86h-s-1
+Die übernehmende Stiftung hat einem Gläubiger nach [[#^p-86g-s-2|§ 86g Satz 2]] für einen Anspruch, der vor dem Zeitpunkt entstanden ist, zu dem die Wirkungen der Zulegung oder Zusammenlegung nach [[#^p-86f-abs-1|§ 86f Absatz 1]] oder [[#^p-86h-abs-2|Absatz 2]] eingetreten sind, und dessen Erfüllung noch nicht verlangt werden kann, Sicherheit zu leisten, wenn der Gläubiger ^p-86h-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> den Anspruch nach Grund und Höhe binnen sechs Monaten nach dem Tag, an dem die Zulegung oder Zusammenlegung bekanntgemacht wurde, bei der Stiftung schriftlich anmeldet und ^p-86h-s-1-nr-1
 
@@ -1638,6 +1690,10 @@ Die für einen einzelnen Fall erteilte Ermächtigung gilt im Zweifel als allgeme
 
 ^norm-doc-bjnr001950896bjne010502377
 
+Verweis zur Überschrift: [[#^p-114|§§ 114]]
+
+Verweis zur Überschrift: [[#^p-115|115]]
+
 #### Titel 2 Willenserklärung
 
 ^gl-010030020
@@ -1750,7 +1806,7 @@ Die schriftliche Form kann durch die elektronische Form ersetzt werden, wenn sic
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-126-abs-4
 
-Als Erklärung in schriftlicher Form gilt auch eine öffentlich beglaubigte Erklärung nach [[#^p-129-abs-1-s-1-nr-2|§ 129 Absatz 1 Satz 1 Nummer 2]] oder eine Erklärung nach [[#^p-129-abs-3|§ 129 Absatz 3]]. ^p-126-abs-4-s-1
+Als Erklärung in schriftlicher Form gilt auch eine öffentlich beglaubigte Erklärung nach [[#^p-129-abs-1-s-1|§ 129 Absatz 1 Satz 1 Nummer 2]] oder eine Erklärung nach [[#^p-129-abs-3|§ 129 Absatz 3]]. ^p-126-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-126-abs-5
 
@@ -1812,11 +1868,11 @@ Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung vorgeschrieben, 
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> in elektronischer Form abgefasst und die qualifizierte elektronische Signatur des Erklärenden von einem Notar beglaubigt werden. ^p-129-abs-1-s-1-nr-2
 
-In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach [[#^p-129-abs-1-s-1-nr-1|Satz 1 Nummer 1]] oder nach [[#^p-129-abs-1-s-1-nr-2|Satz 1 Nummer 2]] öffentlich beglaubigt werden kann. ^p-129-abs-1-s-2
+In dem Gesetz kann vorgesehen werden, dass eine Erklärung nur nach [[#^p-129-abs-1-s-1|Satz 1 Nummer 1]] oder nach [[#^p-129-abs-1-s-1|Satz 1 Nummer 2]] öffentlich beglaubigt werden kann. ^p-129-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-129-abs-2
 
-Wurde eine Erklärung in schriftlicher Form von dem Erklärenden mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt die Erklärung auch die Anforderungen nach [[#^p-129-abs-1-s-1-nr-1|Absatz 1 Satz 1 Nummer 1]]. ^p-129-abs-2-s-1
+Wurde eine Erklärung in schriftlicher Form von dem Erklärenden mittels notariell beglaubigten Handzeichens unterzeichnet, so erfüllt die Erklärung auch die Anforderungen nach [[#^p-129-abs-1-s-1|Absatz 1 Satz 1 Nummer 1]]. ^p-129-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-129-abs-3
 
@@ -2524,7 +2580,7 @@ Die Verjährung wird gehemmt durch ^p-204-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die Zustellung des Antrags im vereinfachten Verfahren über den Unterhalt Minderjähriger, ^p-204-abs-1-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> die Zustellung des Mahnbescheids im Mahnverfahren oder des Europäischen Zahlungsbefehls im Europäischen Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1), ^p-204-abs-1-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> die Zustellung des Mahnbescheids im Mahnverfahren oder des Europäischen Zahlungsbefehls im Europäischen Mahnverfahren nach der Verordnung (EG) [[#^p-204-abs-1|Nr. 1896]]/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1), ^p-204-abs-1-s-1-nr-3
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> die Veranlassung der Bekanntgabe eines Antrags, mit dem der Anspruch geltend gemacht wird, bei einer ^p-204-abs-1-s-1-nr-4
 
@@ -2552,7 +2608,7 @@ die Verjährung wird schon durch den Eingang des Antrags bei der Streitbeilegung
 
 <span style="color:var(--text-error,#c52d3d)">11.</span> den Beginn des schiedsrichterlichen Verfahrens, ^p-204-abs-1-s-1-nr-11
 
-<span style="color:var(--text-error,#c52d3d)">12.</span> die Einreichung des Antrags bei einer Behörde, wenn die Zulässigkeit der Klage von der Vorentscheidung dieser Behörde abhängt und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben wird; dies gilt entsprechend für bei einem Gericht oder bei einer in [[#^p-204-abs-1-s-1-nr-4|Nummer 4]] bezeichneten Streitbeilegungsstelle zu stellende Anträge, deren Zulässigkeit von der Vorentscheidung einer Behörde abhängt, ^p-204-abs-1-s-1-nr-12
+<span style="color:var(--text-error,#c52d3d)">12.</span> die Einreichung des Antrags bei einer Behörde, wenn die Zulässigkeit der Klage von der Vorentscheidung dieser Behörde abhängt und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben wird; dies gilt entsprechend für bei einem Gericht oder bei einer in [[#^p-204-abs-1|Nummer 4]] bezeichneten Streitbeilegungsstelle zu stellende Anträge, deren Zulässigkeit von der Vorentscheidung einer Behörde abhängt, ^p-204-abs-1-s-1-nr-12
 
 <span style="color:var(--text-error,#c52d3d)">13.</span> die Einreichung des Antrags bei dem höheren Gericht, wenn dieses das zuständige Gericht zu bestimmen hat und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben oder der Antrag, für den die Gerichtsstandsbestimmung zu erfolgen hat, gestellt wird, und ^p-204-abs-1-s-1-nr-13
 
@@ -2572,7 +2628,7 @@ Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die [[#^p-206|§§ 206]]
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-204|§ 204]]: Zur Anwendung vgl. Art. 65 § 204a BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-204|§ 204]]: Zur Anwendung vgl. [[#^art-65|Art. 65]] [[Bundesrecht/bgbeg#^p-204a|§ 204a BGBEG]] &#43;&#43;&#43;)
 
 (&#43;&#43;&#43; [[#^p-204-abs-2-s-1|§ 204 Abs. 2 Satz 1]]: Zur Anwendung vgl. [[#^p-204a-abs-3-s-1|§ 204a Abs. 3 Satz 1]] &#43;&#43;&#43;)
 
@@ -2582,13 +2638,13 @@ Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die [[#^p-206|§§ 206]]
 
 Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer wird auch gehemmt durch: ^p-204a-abs-1-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> die Zustellung des Antrags auf Erlass einer einstweiligen Verfügung in Bezug auf einen Unterlassungsanspruch gegen den Unternehmer nach den §§ 1, 2 oder 2a des Unterlassungsklagengesetzes oder nach § 8 Absatz 1 des Gesetzes gegen den unlauteren Wettbewerb an den Antragsgegner, wenn ^p-204a-abs-1-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> die Zustellung des Antrags auf Erlass einer einstweiligen Verfügung in Bezug auf einen Unterlassungsanspruch gegen den Unternehmer nach den §§ 1, 2 oder 2a des Unterlassungsklagengesetzes oder nach [[#^p-8-abs-1|§ 8 Absatz 1]] des Gesetzes gegen den unlauteren Wettbewerb an den Antragsgegner, wenn ^p-204a-abs-1-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> der Antrag durch eine Stelle nach § 3 Absatz 1 Satz 1 des Unterlassungsklagengesetzes gestellt wurde und ^p-204a-abs-1-s-1-nr-1-lit-a
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> die Ansprüche der Verbraucher gegen den Unternehmer aufgrund der Zuwiderhandlung entstanden sind, gegen die sich der Unterlassungsanspruch richtet, ^p-204a-abs-1-s-1-nr-1-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> die Erhebung einer Klage zur Durchsetzung von Unterlassungsansprüchen nach [[#^p-204a-abs-1-s-1-nr-1|Nummer 1]] gegen den Unternehmer, wenn ^p-204a-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> die Erhebung einer Klage zur Durchsetzung von Unterlassungsansprüchen nach [[#^p-204a-abs-1|Nummer 1]] gegen den Unternehmer, wenn ^p-204a-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> die Klage durch eine Stelle nach § 3 Absatz 1 Satz 1 des Unterlassungsklagengesetzes erhoben wurde und ^p-204a-abs-1-s-1-nr-2-lit-a
 
@@ -2598,7 +2654,7 @@ Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer wird auch geh
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> die Erhebung einer Abhilfeklage nach dem Verbraucherrechtedurchsetzungsgesetz für Ansprüche, die Gegenstand der Abhilfeklage sind, wenn die Verbraucher ihren Anspruch zum Verbandsklageregister anmelden. ^p-204a-abs-1-s-1-nr-4
 
-Wurde dem Antragsgegner der Antrag auf Erlass einer einstweiligen Verfügung nicht zugestellt, so tritt in [[#^p-204a-abs-1-s-1-nr-1|Satz 1 Nummer 1]] an die Stelle der Zustellung des Antrags die Einreichung des Antrags beim Gericht, sofern dem Antragsgegner die einstweilige Verfügung innerhalb eines Monats nach ihrer Verkündung oder nach ihrer Zustellung an den Antragsteller zugestellt wurde. ^p-204a-abs-1-s-2
+Wurde dem Antragsgegner der Antrag auf Erlass einer einstweiligen Verfügung nicht zugestellt, so tritt in [[#^p-204a-abs-1-s-1|Satz 1 Nummer 1]] an die Stelle der Zustellung des Antrags die Einreichung des Antrags beim Gericht, sofern dem Antragsgegner die einstweilige Verfügung innerhalb eines Monats nach ihrer Verkündung oder nach ihrer Zustellung an den Antragsteller zugestellt wurde. ^p-204a-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-204a-abs-2
 
@@ -2626,7 +2682,7 @@ November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbra
 
 [[#^p-204-abs-2-s-1|§ 204 Absatz 2 Satz 1]] ist entsprechend anzuwenden. ^p-204a-abs-3-s-1
 
-Die Hemmung der Verjährung eines Anspruchs eines Verbrauchers nach Absatz 1 Satz 1 Nummer 3 und 4 sowie nach [[#^p-204a-abs-2-s-2-nr-2|Absatz 2 Nummer 2]] endet auch sechs Monate nach dem Zeitpunkt, zu dem der Verbraucher nicht mehr an der Klage teilnimmt, insbesondere durch die Rücknahme der Anmeldung zum Verbandsklageregister. ^p-204a-abs-3-s-2
+Die Hemmung der Verjährung eines Anspruchs eines Verbrauchers nach Absatz 1 Satz 1 Nummer 3 und 4 sowie nach [[#^p-204a-abs-2|Absatz 2 Nummer 2]] endet auch sechs Monate nach dem Zeitpunkt, zu dem der Verbraucher nicht mehr an der Klage teilnimmt, insbesondere durch die Rücknahme der Anmeldung zum Verbandsklageregister. ^p-204a-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-204a-abs-4
 
@@ -2634,7 +2690,7 @@ Absatz 1 Satz 1 Nummer 3 und 4 sowie [[#^p-204a-abs-3|Absatz 3]] sind auch auf s
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-204a|§ 204a]]: Zur Anwendung vgl. Art. 65 § 204a BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-204a|§ 204a]]: Zur Anwendung vgl. [[#^art-65|Art. 65]] [[Bundesrecht/bgbeg#^p-204a|§ 204a BGBEG]] &#43;&#43;&#43;)
 
 ##### § 205 — Hemmung der Verjährung bei Leistungsverweigerungsrecht ^p-205
 
@@ -2784,6 +2840,10 @@ Dies gilt auch, wenn der Schuldner nach § 275 Absatz 1 bis 3, [[#^p-439-abs-4|�
 
 ^norm-doc-bjnr001950896bjne021202377
 
+Verweis zur Überschrift: [[#^p-219|§§ 219]]
+
+Verweis zur Überschrift: [[#^p-225|225]]
+
 ### Abschnitt 6 Ausübung der Rechte, Selbstverteidigung, Selbsthilfe
 
 ^gl-010060
@@ -2928,7 +2988,7 @@ Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die n
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-240a-abs-2
 
-Die Festlegungen nach [[#^p-240a-abs-1-s-1-nr-1|Absatz 1 Nummer 1]] müssen gewährleisten, dass der Gläubiger bei Unvermögen des Schuldners oder wenn der Schuldner aus anderen Gründen nicht zur Leistung bereit ist, die Schuld durch Verwertung der hinterlegten Wertpapiere, der Hypothekenforderung oder der Grund- und Rentenschulden begleichen kann. ^p-240a-abs-2-s-1
+Die Festlegungen nach [[#^p-240a-abs-1|Absatz 1 Nummer 1]] müssen gewährleisten, dass der Gläubiger bei Unvermögen des Schuldners oder wenn der Schuldner aus anderen Gründen nicht zur Leistung bereit ist, die Schuld durch Verwertung der hinterlegten Wertpapiere, der Hypothekenforderung oder der Grund- und Rentenschulden begleichen kann. ^p-240a-abs-2-s-1
 
 ## Buch 2 Recht der Schuldverhältnisse
 
@@ -2971,6 +3031,8 @@ Von den Regelungen dieser Vorschrift darf nicht zum Nachteil des Verbrauchers ab
 Die Regelungen finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden. ^p-241a-abs-3-s-2
 
 <strong>Amtlicher Hinweis:</strong><br>Diese Vorschrift dient der Umsetzung von Artikel 9 der Richtlinie 97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19).
+
+Verweis: [[#^art-9|Artikel 9]]
 
 ##### § 242 — Leistung nach Treu und Glauben ^p-242
 
@@ -3023,6 +3085,8 @@ Bezugsgröße ist der Zinssatz für die jüngste Hauptrefinanzierungsoperation d
 Die Deutsche Bundesbank gibt den geltenden Basiszinssatz unverzüglich nach den in [[#^p-247-abs-1-s-2|Absatz 1 Satz 2]] genannten Zeitpunkten im Bundesanzeiger bekannt. ^p-247-abs-2-s-1
 
 <strong>Amtlicher Hinweis:</strong><br>Diese Vorschrift dient der Umsetzung von Artikel 3 der Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+
+Verweis: [[#^art-3|Artikel 3]]
 
 **Hinweise und Fußnoten**
 
@@ -3316,7 +3380,7 @@ Die [[#^p-271a-abs-1|Absätze 1]] bis [[#^p-271a-abs-3|3]] lassen sonstige Vorsc
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-271a|§ 271a]]: Zur Anwendung vgl. § 34 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-271a|§ 271a]]: Zur Anwendung vgl. [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]] &#43;&#43;&#43;)
 
 ##### § 272 — Zwischenzinsen ^p-272
 
@@ -3446,11 +3510,13 @@ Verlangt der Gläubiger Schadensersatz statt der ganzen Leistung, so ist der Sch
 
 Verletzt der Schuldner eine Pflicht nach [[#^p-241-abs-2|§ 241 Abs. 2]], kann der Gläubiger unter den Voraussetzungen des [[#^p-280-abs-1|§ 280 Abs. 1]] Schadensersatz statt der Leistung verlangen, wenn ihm die Leistung durch den Schuldner nicht mehr zuzumuten ist. ^p-282-s-1
 
+Verweis zur Überschrift: [[#^p-282-abs-2|Abs. 2]]
+
 ##### § 283 — Schadensersatz statt der Leistung bei Ausschluss der Leistungspflicht ^p-283
 
 Braucht der Schuldner nach § 275 Abs. 1 bis 3 nicht zu leisten, kann der Gläubiger unter den Voraussetzungen des [[#^p-280-abs-1|§ 280 Abs. 1]] Schadensersatz statt der Leistung verlangen. ^p-283-s-1
 
-§ 281 Abs. 1 Satz 2 und 3 und Abs. 5 findet entsprechende Anwendung. ^p-283-s-2
+§ 281 Abs. 1 Satz 2 und 3 und [[#^p-283-abs-5|Abs. 5]] findet entsprechende Anwendung. ^p-283-s-2
 
 ##### § 284 — Ersatz vergeblicher Aufwendungen ^p-284
 
@@ -3504,7 +3570,7 @@ Für eine von den [[#^p-286-abs-1|Absätzen 1]] bis [[#^p-286-abs-3|3]] abweiche
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-286|§ 286]]: Zur Anwendung vgl. § 34 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-286|§ 286]]: Zur Anwendung vgl. [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]] &#43;&#43;&#43;)
 
 ##### § 287 — Verantwortlichkeit während des Verzugs ^p-287
 
@@ -3554,7 +3620,7 @@ Die [[#^p-288-abs-6-s-1|Sätze 1]] bis [[#^p-288-abs-6-s-3|3]] sind nicht anzuwe
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-288|§ 288]]: Zur Anwendung vgl. § 34 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-288|§ 288]]: Zur Anwendung vgl. [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]] &#43;&#43;&#43;)
 
 ##### § 289 — Zinseszinsverbot ^p-289
 
@@ -3572,7 +3638,7 @@ Das Gleiche gilt, wenn der Schuldner zum Ersatz der Minderung des Wertes eines w
 
 Eine Geldschuld hat der Schuldner von dem Eintritt der Rechtshängigkeit an zu verzinsen, auch wenn er nicht im Verzug ist; wird die Schuld erst später fällig, so ist sie von der Fälligkeit an zu verzinsen. ^p-291-s-1
 
-Die Vorschriften des [[#^p-288-abs-1-s-2|§ 288 Abs. 1 Satz 2]], Abs. 2, Abs. 3 und des [[#^p-289-s-1|§ 289 Satz 1]] finden entsprechende Anwendung. ^p-291-s-2
+Die Vorschriften des [[#^p-288-abs-1-s-2|§ 288 Abs. 1 Satz 2]], [[#^p-291-abs-2|Abs. 2]], [[#^p-291-abs-3|Abs. 3]] und des [[#^p-289-s-1|§ 289 Satz 1]] finden entsprechende Anwendung. ^p-291-s-2
 
 ##### § 292 — Haftung bei Herausgabepflicht ^p-292
 
@@ -3776,7 +3842,7 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam ^p-308-s-1
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> einen unangemessen hohen Ersatz von Aufwendungen verlangen kann; ^p-308-s-1-nr-7-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">8.</span> (Nichtverfügbarkeit der Leistung)die nach [[#^p-308-s-1-nr-3|Nummer 3]] zulässige Vereinbarung eines Vorbehalts des Verwenders, sich von der Verpflichtung zur Erfüllung des Vertrags bei Nichtverfügbarkeit der Leistung zu lösen, wenn sich der Verwender nicht verpflichtet, ^p-308-s-1-nr-8
+<span style="color:var(--text-error,#c52d3d)">8.</span> (Nichtverfügbarkeit der Leistung)die nach [[#^p-308|Nummer 3]] zulässige Vereinbarung eines Vorbehalts des Verwenders, sich von der Verpflichtung zur Erfüllung des Vertrags bei Nichtverfügbarkeit der Leistung zu lösen, wenn sich der Verwender nicht verpflichtet, ^p-308-s-1-nr-8
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> den Vertragspartner unverzüglich über die Nichtverfügbarkeit zu informieren und ^p-308-s-1-nr-8-lit-a
 
@@ -3792,11 +3858,11 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam ^p-308-s-1
 
 <span style="color:var(--text-error,#c52d3d)">bb)</span> berechtigte Belange des Vertragspartners an der Abtretbarkeit des Rechts das schützenswerte Interesse des Verwenders an dem Abtretungsausschluss überwiegen; ^p-308-s-1-nr-9-lit-b-lit-bb
 
-[[#^p-308-s-1-nr-9-lit-a|Buchstabe a]] gilt nicht für Ansprüche aus Zahlungsdiensterahmenverträgen und die [[#^p-308-s-1-nr-9-lit-a|Buchstaben a]] und [[#^p-308-s-1-nr-9-lit-b|b]] gelten nicht für Ansprüche auf Versorgungsleistungen im Sinne des Betriebsrentengesetzes.
+[[#^p-308|Buchstabe a]] gilt nicht für Ansprüche aus Zahlungsdiensterahmenverträgen und die [[#^p-308|Buchstaben a]] und [[#^p-308|b]] gelten nicht für Ansprüche auf Versorgungsleistungen im Sinne des Betriebsrentengesetzes.
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-308|§ 308]]: Zur Anwendung vgl. § 34 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-308|§ 308]]: Zur Anwendung vgl. [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]] &#43;&#43;&#43;)
 
 #### § 309 — Klauselverbote ohne Wertungsmöglichkeit ^p-309
 
@@ -3828,11 +3894,11 @@ Auch soweit eine Abweichung von den gesetzlichen Vorschriften zulässig ist, ist
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> (Grobes Verschulden)ein Ausschluss oder eine Begrenzung der Haftung für sonstige Schäden, die auf einer grob fahrlässigen Pflichtverletzung des Verwenders oder auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen des Verwenders beruhen; ^p-309-s-1-nr-7-lit-b
 
-die [[#^p-309-s-1-nr-7-lit-a|Buchstaben a]] und [[#^p-309-s-1-nr-7-lit-b|b]] gelten nicht für Haftungsbeschränkungen in den nach Maßgabe des Personenbeförderungsgesetzes genehmigten Beförderungsbedingungen und Tarifvorschriften der Straßenbahnen, Obusse und Kraftfahrzeuge im Linienverkehr, soweit sie nicht zum Nachteil des Fahrgasts von der Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen vom 27. Februar 1970 abweichen; [[#^p-309-s-1-nr-7-lit-b|Buchstabe b]] gilt nicht für Haftungsbeschränkungen für staatlich genehmigte Lotterie- oder Ausspielverträge;
+die [[#^p-309|Buchstaben a]] und [[#^p-309|b]] gelten nicht für Haftungsbeschränkungen in den nach Maßgabe des Personenbeförderungsgesetzes genehmigten Beförderungsbedingungen und Tarifvorschriften der Straßenbahnen, Obusse und Kraftfahrzeuge im Linienverkehr, soweit sie nicht zum Nachteil des Fahrgasts von der Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen vom 27. Februar 1970 abweichen; [[#^p-309|Buchstabe b]] gilt nicht für Haftungsbeschränkungen für staatlich genehmigte Lotterie- oder Ausspielverträge;
 
 <span style="color:var(--text-error,#c52d3d)">8.</span> (Sonstige Haftungsausschlüsse bei Pflichtverletzung) ^p-309-s-1-nr-8
 
-<span style="color:var(--text-error,#c52d3d)">a)</span> (Ausschluss des Rechts, sich vom Vertrag zu lösen)eine Bestimmung, die bei einer vom Verwender zu vertretenden, nicht in einem Mangel der Kaufsache oder des Werkes bestehenden Pflichtverletzung das Recht des anderen Vertragsteils, sich vom Vertrag zu lösen, ausschließt oder einschränkt; dies gilt nicht für die in der [[#^p-309-s-1-nr-7|Nummer 7]] bezeichneten Beförderungsbedingungen und Tarifvorschriften unter den dort genannten Voraussetzungen; ^p-309-s-1-nr-8-lit-a
+<span style="color:var(--text-error,#c52d3d)">a)</span> (Ausschluss des Rechts, sich vom Vertrag zu lösen)eine Bestimmung, die bei einer vom Verwender zu vertretenden, nicht in einem Mangel der Kaufsache oder des Werkes bestehenden Pflichtverletzung das Recht des anderen Vertragsteils, sich vom Vertrag zu lösen, ausschließt oder einschränkt; dies gilt nicht für die in der [[#^p-309|Nummer 7]] bezeichneten Beförderungsbedingungen und Tarifvorschriften unter den dort genannten Voraussetzungen; ^p-309-s-1-nr-8-lit-a
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> (Mängel)eine Bestimmung, durch die bei Verträgen über Lieferungen neu hergestellter Sachen und über Werkleistungen ^p-309-s-1-nr-8-lit-b
 
@@ -3846,7 +3912,7 @@ die [[#^p-309-s-1-nr-7-lit-a|Buchstaben a]] und [[#^p-309-s-1-nr-7-lit-b|b]] gel
 
 <span style="color:var(--text-error,#c52d3d)">ee)</span> (Ausschlussfrist für Mängelanzeige)der Verwender dem anderen Vertragsteil für die Anzeige nicht offensichtlicher Mängel eine Ausschlussfrist setzt, die kürzer ist als die nach dem Doppelbuchstaben ff zulässige Frist; ^p-309-s-1-nr-8-lit-b-lit-ee
 
-<span style="color:var(--text-error,#c52d3d)">ff)</span> (Erleichterung der Verjährung)die Verjährung von Ansprüchen gegen den Verwender wegen eines Mangels in den Fällen des [[#^p-438-abs-1-s-1-nr-2|§ 438 Abs. 1 Nr. 2]] und des [[#^p-634a-abs-1-s-1-nr-2|§ 634a Abs. 1 Nr. 2]] erleichtert oder in den sonstigen Fällen eine weniger als ein Jahr betragende Verjährungsfrist ab dem gesetzlichen Verjährungsbeginn erreicht wird; ^p-309-s-1-nr-8-lit-b-lit-ff
+<span style="color:var(--text-error,#c52d3d)">ff)</span> (Erleichterung der Verjährung)die Verjährung von Ansprüchen gegen den Verwender wegen eines Mangels in den Fällen des [[#^p-438-abs-1|§ 438 Abs. 1 Nr. 2]] und des [[#^p-634a-abs-1|§ 634a Abs. 1 Nr. 2]] erleichtert oder in den sonstigen Fällen eine weniger als ein Jahr betragende Verjährungsfrist ab dem gesetzlichen Verjährungsbeginn erreicht wird; ^p-309-s-1-nr-8-lit-b-lit-ff
 
 <span style="color:var(--text-error,#c52d3d)">9.</span> bei einem Vertragsverhältnis, das die regelmäßige Lieferung von Waren oder die regelmäßige Erbringung von Dienst- oder Werkleistungen durch den Verwender zum Gegenstand hat, ^p-309-s-1-nr-9
 
@@ -3878,13 +3944,13 @@ auferlegt;
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> den anderen Vertragsteil bestimmte Tatsachen bestätigen lässt; ^p-309-s-1-nr-12-lit-b
 
-[[#^p-309-s-1-nr-12-lit-b|Buchstabe b]] gilt nicht für Empfangsbekenntnisse, die gesondert unterschrieben oder mit einer gesonderten qualifizierten elektronischen Signatur versehen sind;
+[[#^p-309|Buchstabe b]] gilt nicht für Empfangsbekenntnisse, die gesondert unterschrieben oder mit einer gesonderten qualifizierten elektronischen Signatur versehen sind;
 
 <span style="color:var(--text-error,#c52d3d)">13.</span> (Form von Anzeigen und Erklärungen)eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem Verwender oder einem Dritten gegenüber abzugeben sind, gebunden werden ^p-309-s-1-nr-13
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> an eine strengere Form als die schriftliche Form in einem Vertrag, für den durch Gesetz notarielle Beurkundung vorgeschrieben ist oder ^p-309-s-1-nr-13-lit-a
 
-<span style="color:var(--text-error,#c52d3d)">b)</span> an eine strengere Form als die Textform in anderen als den in [[#^p-309-s-1-nr-13-lit-a|Buchstabe a]] genannten Verträgen oder ^p-309-s-1-nr-13-lit-b
+<span style="color:var(--text-error,#c52d3d)">b)</span> an eine strengere Form als die Textform in anderen als den in [[#^p-309|Buchstabe a]] genannten Verträgen oder ^p-309-s-1-nr-13-lit-b
 
 <span style="color:var(--text-error,#c52d3d)">c)</span> an besondere Zugangserfordernisse; ^p-309-s-1-nr-13-lit-c
 
@@ -3928,13 +3994,13 @@ Geschäfte nach [[#^p-310-abs-1a-s-1|Satz 1]] sind ^p-310-abs-1a-s-2
 
 <span style="color:var(--text-error,#c52d3d)">6.</span> Geschäfte von Börsen und ihren Trägern nach § 2 Absatz 1 des Börsengesetzes. ^p-310-abs-1a-s-2-nr-6
 
-Ein Unternehmer ist als großer Unternehmer nach [[#^p-310-abs-1a-s-1-nr-2|Satz 1 Nummer 2]] anzusehen, wenn er in jedem der beiden Kalenderjahre vor dem Vertragsschluss zwei der drei folgenden Merkmale erfüllt hat: ^p-310-abs-1a-s-3
+Ein Unternehmer ist als großer Unternehmer nach [[#^p-310-abs-1a-s-1|Satz 1 Nummer 2]] anzusehen, wenn er in jedem der beiden Kalenderjahre vor dem Vertragsschluss zwei der drei folgenden Merkmale erfüllt hat: ^p-310-abs-1a-s-3
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> er hat im Jahresdurchschnitt nach § 267 Absatz 5 des Handelsgesetzbuchs jeweils mindestens 250 Arbeitnehmer beschäftigt, ^p-310-abs-1a-s-3-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> er hat im Jahresdurchschnitt nach [[#^p-267-abs-5|§ 267 Absatz 5]] des Handelsgesetzbuchs jeweils mindestens 250 Arbeitnehmer beschäftigt, ^p-310-abs-1a-s-3-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> er hat jeweils Umsatzerlöse von mehr als 50 Millionen Euro erzielt oder ^p-310-abs-1a-s-3-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> seine Bilanzsumme nach § 267 Absatz 4a des Handelsgesetzbuchs hat sich jeweils auf mehr als 43 Millionen Euro belaufen. ^p-310-abs-1a-s-3-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> seine Bilanzsumme nach [[#^p-267-abs-4a|§ 267 Absatz 4a]] des Handelsgesetzbuchs hat sich jeweils auf mehr als 43 Millionen Euro belaufen. ^p-310-abs-1a-s-3-nr-3
 
 [[#^p-310-abs-1a-s-1|Satz 1]] ist auch anzuwenden, wenn die folgenden Stellen eine der beiden Vertragsparteien sind: ^p-310-abs-1a-s-4
 
@@ -3974,7 +4040,7 @@ Tarifverträge, Betriebs- und Dienstvereinbarungen stehen Rechtsvorschriften im 
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-310|§ 310]]: Zur Anwendung vgl. § 34 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-310|§ 310]]: Zur Anwendung vgl. [[Bundesrecht/bgbeg#^p-34|§ 34 BGBEG]] &#43;&#43;&#43;)
 
 ### Abschnitt 3 Schuldverhältnisse aus Verträgen
 
@@ -4022,7 +4088,7 @@ Der Gläubiger kann nach seiner Wahl Schadensersatz statt der Leistung oder Ersa
 
 Dies gilt nicht, wenn der Schuldner das Leistungshindernis bei Vertragsschluss nicht kannte und seine Unkenntnis auch nicht zu vertreten hat. ^p-311a-abs-2-s-2
 
-§ 281 Abs. 1 Satz 2 und 3 und Abs. 5 findet entsprechende Anwendung. ^p-311a-abs-2-s-3
+§ 281 Abs. 1 Satz 2 und 3 und [[#^p-311a-abs-5|Abs. 5]] findet entsprechende Anwendung. ^p-311a-abs-2-s-3
 
 ###### § 311b — Verträge über Grundstücke, das Vermögen und den Nachlass ^p-311b
 
@@ -4116,11 +4182,11 @@ Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist nur § 312a Absa
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-312-abs-3
 
-Auf Verträge über soziale Dienstleistungen ([[#^p-312-abs-2-s-1-nr-4|Absatz 2 Nummer 4]]) und auf Verträge über die Vermietung von Wohnraum ([[#^p-312-abs-2-s-1-nr-5|Absatz 2 Nummer 5]]) sind von den Vorschriften der Kapitel 1 und 2 dieses Untertitels zudem folgende Vorschriften anzuwenden: ^p-312-abs-3-s-1
+Auf Verträge über soziale Dienstleistungen ([[#^p-312-abs-2|Absatz 2 Nummer 4]]) und auf Verträge über die Vermietung von Wohnraum ([[#^p-312-abs-2|Absatz 2 Nummer 5]]) sind von den Vorschriften der Kapitel 1 und 2 dieses Untertitels zudem folgende Vorschriften anzuwenden: ^p-312-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> die [[#^p-312b|§§ 312b]] und [[#^p-312c|312c]] hinsichtlich der dort geregelten Begriffsbestimmungen zu außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen, ^p-312-abs-3-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-312d-abs-1|§ 312d Absatz 1]] in Verbindung mit Artikel 246a § 1 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über die Pflicht zur Information über das Widerrufsrecht, ^p-312-abs-3-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-312d-abs-1|§ 312d Absatz 1]] in Verbindung mit [[#^art-246a|Artikel 246a]] § 1 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über die Pflicht zur Information über das Widerrufsrecht, ^p-312-abs-3-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> [[#^p-312g|§ 312g]] über das Widerrufsrecht. ^p-312-abs-3-s-1-nr-3
 
@@ -4148,7 +4214,7 @@ Ist der Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach [[#^p-651a
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-312-abs-2-s-1-nr-12|§ 312 Abs. 2 Nr. 12]] Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "Außerhalb" durch die Angabe "außerhalb" ersetzt &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-312-abs-2|§ 312 Abs. 2 Nr. 12]] Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wird die Angabe "Außerhalb" durch die Angabe "außerhalb" ersetzt &#43;&#43;&#43;)
 
 ###### § 312a — Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten ^p-312a
 
@@ -4206,7 +4272,7 @@ Außerhalb von Geschäftsräumen geschlossene Verträge sind Verträge, ^p-312b-
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> die bei gleichzeitiger körperlicher Anwesenheit des Verbrauchers und des Unternehmers an einem Ort geschlossen werden, der kein Geschäftsraum des Unternehmers ist, ^p-312b-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> für die der Verbraucher unter den in [[#^p-312b-abs-1-s-1-nr-1|Nummer 1]] genannten Umständen ein Angebot abgegeben hat, ^p-312b-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> für die der Verbraucher unter den in [[#^p-312b-abs-1|Nummer 1]] genannten Umständen ein Angebot abgegeben hat, ^p-312b-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> die in den Geschäftsräumen des Unternehmers oder durch Fernkommunikationsmittel geschlossen werden, bei denen der Verbraucher jedoch unmittelbar zuvor außerhalb der Geschäftsräume des Unternehmers bei gleichzeitiger körperlicher Anwesenheit des Verbrauchers und des Unternehmers persönlich und individuell angesprochen wurde, oder ^p-312b-abs-1-s-1-nr-3
 
@@ -4228,7 +4294,7 @@ Fernabsatzverträge sind Verträge, bei denen der Unternehmer oder eine in seine
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-312c-abs-2
 
-Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes. ^p-312c-abs-2-s-1
+Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach [[#^p-1-abs-4|§ 1 Absatz 4 Nummer 1]] des Digitale-Dienste-Gesetzes. ^p-312c-abs-2-s-1
 
 **Hinweise und Fußnoten**
 
@@ -4250,7 +4316,7 @@ Bei Fernabsatzverträgen über Finanzdienstleistungen ist der Unternehmer zudem 
 
 ###### § 312e — Verletzung von Informationspflichten über Kosten ^p-312e
 
-Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder Versandkosten und sonstige Kosten nur verlangen, soweit er den Verbraucher über diese Kosten entsprechend den Anforderungen aus [[#^p-312d-abs-1|§ 312d Absatz 1]] in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1 Nummer 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert hat. ^p-312e-s-1
+Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder Versandkosten und sonstige Kosten nur verlangen, soweit er den Verbraucher über diese Kosten entsprechend den Anforderungen aus [[#^p-312d-abs-1|§ 312d Absatz 1]] in Verbindung mit [[#^art-246a|Artikel 246a]] § 1 Absatz 1 Satz 1 Nummer 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert hat. ^p-312e-s-1
 
 ###### § 312f — Abschriften und Bestätigungen ^p-312f
 
@@ -4308,7 +4374,7 @@ Das Widerrufsrecht besteht, soweit die Parteien nichts anderes vereinbart haben,
 
 <span style="color:var(--text-error,#c52d3d)">7.</span> Verträge zur Lieferung von Zeitungen, Zeitschriften oder Illustrierten mit Ausnahme von Abonnement-Verträgen, ^p-312g-abs-2-s-1-nr-7
 
-<span style="color:var(--text-error,#c52d3d)">8.</span> Verträge zur Lieferung von Waren oder zur Erbringung von Dienstleistungen, einschließlich Finanzdienstleistungen, deren Preis von Schwankungen auf dem Finanzmarkt abhängt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten können, insbesondere Dienstleistungen im Zusammenhang mit Aktien, mit Anteilen an offenen Investmentvermögen im Sinne von § 1 Absatz 4 des Kapitalanlagegesetzbuchs und mit anderen handelbaren Wertpapieren, Devisen, Derivaten oder Geldmarktinstrumenten, ^p-312g-abs-2-s-1-nr-8
+<span style="color:var(--text-error,#c52d3d)">8.</span> Verträge zur Lieferung von Waren oder zur Erbringung von Dienstleistungen, einschließlich Finanzdienstleistungen, deren Preis von Schwankungen auf dem Finanzmarkt abhängt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten können, insbesondere Dienstleistungen im Zusammenhang mit Aktien, mit Anteilen an offenen Investmentvermögen im Sinne von [[#^p-1-abs-4|§ 1 Absatz 4]] des Kapitalanlagegesetzbuchs und mit anderen handelbaren Wertpapieren, Devisen, Derivaten oder Geldmarktinstrumenten, ^p-312g-abs-2-s-1-nr-8
 
 <span style="color:var(--text-error,#c52d3d)">9.</span> Verträge zur Erbringung von Dienstleistungen in den Bereichen Beherbergung zu anderen Zwecken als zu Wohnzwecken, Beförderung von Waren, Kraftfahrzeugvermietung, Lieferung von Speisen und Getränken sowie zur Erbringung weiterer Dienstleistungen im Zusammenhang mit Freizeitbetätigungen, wenn der Vertrag für die Erbringung einen spezifischen Termin oder Zeitraum vorsieht, ^p-312g-abs-2-s-1-nr-9
 
@@ -4348,7 +4414,7 @@ bedarf die Kündigung des Verbrauchers oder die Vollmacht zur Kündigung der Tex
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-312i-abs-1
 
-Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines Vertrags über die Lieferung von Waren oder über die Erbringung von Dienstleistungen digitaler Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes (Vertrag im elektronischen Geschäftsverkehr), hat er dem Kunden ^p-312i-abs-1-s-1
+Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines Vertrags über die Lieferung von Waren oder über die Erbringung von Dienstleistungen digitaler Dienste nach [[#^p-1-abs-4|§ 1 Absatz 4 Nummer 1]] des Digitale-Dienste-Gesetzes (Vertrag im elektronischen Geschäftsverkehr), hat er dem Kunden ^p-312i-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> angemessene, wirksame und zugängliche technische Mittel zur Verfügung zu stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner Bestellung erkennen und berichtigen kann, ^p-312i-abs-1-s-1-nr-1
 
@@ -4358,7 +4424,7 @@ Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines Vertrags über die
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> die Möglichkeit zu verschaffen, die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen bei Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern. ^p-312i-abs-1-s-1-nr-4
 
-Bestellung und Empfangsbestätigung im Sinne von [[#^p-312i-abs-1-s-1-nr-3|Satz 1 Nummer 3]] gelten als zugegangen, wenn die Parteien, für die sie bestimmt sind, sie unter gewöhnlichen Umständen abrufen können. ^p-312i-abs-1-s-2
+Bestellung und Empfangsbestätigung im Sinne von [[#^p-312i-abs-1-s-1|Satz 1 Nummer 3]] gelten als zugegangen, wenn die Parteien, für die sie bestimmt sind, sie unter gewöhnlichen Umständen abrufen können. ^p-312i-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-312i-abs-2
 
@@ -4378,7 +4444,7 @@ Auf Webseiten für den elektronischen Geschäftsverkehr mit Verbrauchern hat der
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-312j-abs-2
 
-Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr, der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1 Satz 1 Nummer 1, 5 bis 8, 11a, 14 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur Verfügung stellen. ^p-312j-abs-2-s-1
+Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr, der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer dem Verbraucher die Informationen gemäß [[#^art-246a|Artikel 246a]] § 1 Absatz 1 Satz 1 Nummer 1, 5 bis 8, 11a, 14 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur Verfügung stellen. ^p-312j-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-312j-abs-3
 
@@ -4776,7 +4842,7 @@ Die Vorschriften dieses Untertitels sind nicht anzuwenden auf: ^p-327-abs-6-s-1
 
 <span style="color:var(--text-error,#c52d3d)">7.</span> Verträge über die Bereitstellung digitaler Inhalte, wenn die digitalen Inhalte der Öffentlichkeit auf eine andere Weise als durch Signalübermittlung als Teil einer Darbietung oder Veranstaltung zugänglich gemacht werden, ^p-327-abs-6-s-1-nr-7
 
-<span style="color:var(--text-error,#c52d3d)">8.</span> Verträge über die Bereitstellung von Informationen im Sinne des Informationsweiterverwendungsgesetzes vom 13. Dezember 2006 (BGBl. I S. 2913), das durch Artikel 1 des Gesetzes vom 8. Juli 2015 (BGBl. I S. 1162) geändert worden ist. ^p-327-abs-6-s-1-nr-8
+<span style="color:var(--text-error,#c52d3d)">8.</span> Verträge über die Bereitstellung von Informationen im Sinne des Informationsweiterverwendungsgesetzes vom 13. Dezember 2006 (BGBl. I S. 2913), das durch [[#^art-1|Artikel 1]] des Gesetzes vom 8. Juli 2015 (BGBl. I S. 1162) geändert worden ist. ^p-327-abs-6-s-1-nr-8
 
 ###### § 327a — Anwendung auf Paketverträge und Verträge über Sachen mit digitalen Elementen ^p-327a
 
@@ -4924,7 +4990,7 @@ Das digitale Produkt entspricht den objektiven Anforderungen, wenn ^p-327e-abs-3
 
 <span style="color:var(--text-error,#c52d3d)">6.</span> sofern die Parteien nichts anderes vereinbart haben, es in der zum Zeitpunkt des Vertragsschlusses neuesten verfügbaren Version bereitgestellt wird. ^p-327e-abs-3-s-1-nr-6
 
-Zu der üblichen Beschaffenheit nach [[#^p-327e-abs-3-s-1-nr-2|Satz 1 Nummer 2]] gehören auch Anforderungen, die der Verbraucher nach vom Unternehmer oder einer anderen Person in vorhergehenden Gliedern der Vertriebskette selbst oder in deren Auftrag vorgenommenen öffentlichen Äußerungen, die insbesondere in der Werbung oder auf dem Etikett abgegeben wurden, erwarten kann. ^p-327e-abs-3-s-2
+Zu der üblichen Beschaffenheit nach [[#^p-327e-abs-3-s-1|Satz 1 Nummer 2]] gehören auch Anforderungen, die der Verbraucher nach vom Unternehmer oder einer anderen Person in vorhergehenden Gliedern der Vertriebskette selbst oder in deren Auftrag vorgenommenen öffentlichen Äußerungen, die insbesondere in der Werbung oder auf dem Etikett abgegeben wurden, erwarten kann. ^p-327e-abs-3-s-2
 
 Das gilt nicht, wenn der Unternehmer die Äußerung nicht kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt war oder wenn die Äußerung die Entscheidung, das digitale Produkt zu erwerben, nicht beeinflussen konnte. ^p-327e-abs-3-s-3
 
@@ -4972,7 +5038,7 @@ Das digitale Produkt ist frei von Rechtsmängeln, wenn der Verbraucher es gemä�
 
 ###### § 327h — Abweichende Vereinbarungen über Produktmerkmale ^p-327h
 
-Von den objektiven Anforderungen nach § 327e Absatz 3 Satz 1 Nummer 1 bis 5 und Satz 2, [[#^p-327f-abs-1|§ 327f Absatz 1]] und [[#^p-327g|§ 327g]] kann nur abgewichen werden, wenn der Verbraucher vor Abgabe seiner Vertragserklärung eigens davon in Kenntnis gesetzt wurde, dass ein bestimmtes Merkmal des digitalen Produkts von diesen objektiven Anforderungen abweicht, und diese Abweichung im Vertrag ausdrücklich und gesondert vereinbart wurde. ^p-327h-s-1
+Von den objektiven Anforderungen nach § 327e Absatz 3 Satz 1 Nummer 1 bis 5 und [[#^p-327h-s-2|Satz 2]], [[#^p-327f-abs-1|§ 327f Absatz 1]] und [[#^p-327g|§ 327g]] kann nur abgewichen werden, wenn der Verbraucher vor Abgabe seiner Vertragserklärung eigens davon in Kenntnis gesetzt wurde, dass ein bestimmtes Merkmal des digitalen Produkts von diesen objektiven Anforderungen abweicht, und diese Abweichung im Vertrag ausdrücklich und gesondert vereinbart wurde. ^p-327h-s-1
 
 ###### § 327i — Rechte des Verbrauchers bei Mängeln ^p-327i
 
@@ -5006,7 +5072,7 @@ Hat sich ein Mangel innerhalb der Verjährungsfrist gezeigt, so tritt die Verjä
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-327j-abs-5
 
-Für die in [[#^p-327i-s-1-nr-2|§ 327i Nummer 2]] bezeichneten Rechte gilt [[#^p-218|§ 218]] entsprechend. ^p-327j-abs-5-s-1
+Für die in [[#^p-327i|§ 327i Nummer 2]] bezeichneten Rechte gilt [[#^p-218|§ 218]] entsprechend. ^p-327j-abs-5-s-1
 
 ###### § 327k — Beweislastumkehr ^p-327k
 
@@ -5024,15 +5090,15 @@ Die Vermutungen nach den [[#^p-327k-abs-1|Absätzen 1]] und [[#^p-327k-abs-2|2]]
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> die digitale Umgebung des Verbrauchers mit den technischen Anforderungen des digitalen Produkts zur maßgeblichen Zeit nicht kompatibel war oder ^p-327k-abs-3-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> der Unternehmer nicht feststellen kann, ob die Voraussetzungen der [[#^p-327k-abs-3-s-1-nr-1|Nummer 1]] vorlagen, weil der Verbraucher eine hierfür notwendige und ihm mögliche Mitwirkungshandlung nicht vornimmt und der Unternehmer zur Feststellung ein technisches Mittel einsetzen wollte, das für den Verbraucher den geringsten Eingriff darstellt. ^p-327k-abs-3-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> der Unternehmer nicht feststellen kann, ob die Voraussetzungen der [[#^p-327k-abs-3|Nummer 1]] vorlagen, weil der Verbraucher eine hierfür notwendige und ihm mögliche Mitwirkungshandlung nicht vornimmt und der Unternehmer zur Feststellung ein technisches Mittel einsetzen wollte, das für den Verbraucher den geringsten Eingriff darstellt. ^p-327k-abs-3-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-327k-abs-4
 
 [[#^p-327k-abs-3|Absatz 3]] ist nur anzuwenden, wenn der Unternehmer den Verbraucher vor Vertragsschluss klar und verständlich informiert hat über ^p-327k-abs-4-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> die technischen Anforderungen des digitalen Produkts an die digitale Umgebung im Fall des Absatzes 3 [[#^p-327k-abs-4-s-1-nr-1|Nummer 1]] oder ^p-327k-abs-4-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> die technischen Anforderungen des digitalen Produkts an die digitale Umgebung im Fall des Absatzes 3 [[#^p-327k-abs-4|Nummer 1]] oder ^p-327k-abs-4-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> die Obliegenheit des Verbrauchers nach [[#^p-327k-abs-3-s-1-nr-2|Absatz 3 Nummer 2]]. ^p-327k-abs-4-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> die Obliegenheit des Verbrauchers nach [[#^p-327k-abs-3|Absatz 3 Nummer 2]]. ^p-327k-abs-4-s-1-nr-2
 
 ###### § 327l — Nacherfüllung ^p-327l
 
@@ -5076,7 +5142,7 @@ Dies gilt nicht für Verbraucherverträge im Sinne des [[#^p-327-abs-3|§ 327 Ab
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-327m-abs-3
 
-In den Fällen des Absatzes 1 Nummer 1 bis 6 kann der Verbraucher unter den Voraussetzungen des [[#^p-280-abs-1|§ 280 Absatz 1]] Schadensersatz statt der Leistung verlangen. ^p-327m-abs-3-s-1
+In den Fällen des Absatzes 1 [[#^p-327m-abs-3|Nummer 1]] bis [[#^p-327m-abs-3|6]] kann der Verbraucher unter den Voraussetzungen des [[#^p-280-abs-1|§ 280 Absatz 1]] Schadensersatz statt der Leistung verlangen. ^p-327m-abs-3-s-1
 
 [[#^p-281-abs-1-s-3|§ 281 Absatz 1 Satz 3]] und [[#^p-327m-abs-4|Absatz 4]] sind entsprechend anzuwenden. ^p-327m-abs-3-s-2
 
@@ -5590,7 +5656,7 @@ Der Unternehmer trägt bei Widerruf die Gefahr der Rücksendung der Waren. ^p-35
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-356-abs-1
 
-Der Unternehmer kann dem Verbraucher die Möglichkeit einräumen, das Muster-Widerrufsformular nach Anlage 2 zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder eine andere eindeutige Widerrufserklärung auf der Webseite des Unternehmers auszufüllen und zu übermitteln. ^p-356-abs-1-s-1
+Der Unternehmer kann dem Verbraucher die Möglichkeit einräumen, das Muster-Widerrufsformular nach Anlage 2 zu [[#^art-246a|Artikel 246a]] § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder eine andere eindeutige Widerrufserklärung auf der Webseite des Unternehmers auszufüllen und zu übermitteln. ^p-356-abs-1-s-1
 
 Macht der Verbraucher von dieser Möglichkeit Gebrauch, muss der Unternehmer dem Verbraucher den Zugang des Widerrufs unverzüglich auf einem dauerhaften Datenträger bestätigen. ^p-356-abs-1-s-2
 
@@ -5600,7 +5666,7 @@ Die Widerrufsfrist beginnt ^p-356-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> bei einem Verbrauchsgüterkauf, ^p-356-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">a)</span> der nicht unter die [[#^p-356-abs-2-s-1-nr-1-lit-b|Buchstaben b]] bis [[#^p-356-abs-2-s-1-nr-1-lit-d|d]] fällt, sobald der Verbraucher oder ein von ihm benannter Dritter, der nicht Frachtführer ist, die Waren erhalten hat, ^p-356-abs-2-s-1-nr-1-lit-a
+<span style="color:var(--text-error,#c52d3d)">a)</span> der nicht unter die [[#^p-356-abs-2|Buchstaben b]] bis [[#^p-356-abs-2|d]] fällt, sobald der Verbraucher oder ein von ihm benannter Dritter, der nicht Frachtführer ist, die Waren erhalten hat, ^p-356-abs-2-s-1-nr-1-lit-a
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> bei dem der Verbraucher mehrere Waren im Rahmen einer einheitlichen Bestellung bestellt hat und die Waren getrennt geliefert werden, sobald der Verbraucher oder ein von ihm benannter Dritter, der nicht Frachtführer ist, die letzte Ware erhalten hat, ^p-356-abs-2-s-1-nr-1-lit-b
 
@@ -5620,7 +5686,7 @@ Bei Verträgen über Finanzdienstleistungen beginnt die Widerrufsfrist nicht, be
 
 Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in [[#^p-356-abs-2|Absatz 2]] oder [[#^p-355-abs-2-s-2|§ 355 Absatz 2 Satz 2]] genannten Zeitpunkt. ^p-356-abs-4-s-1
 
-Bei Verträgen über Finanzdienstleistungen gilt [[#^p-356-abs-4-s-1|Satz 1]] nicht, wenn der Verbraucher nicht nach Artikel 246b § 1 Absatz 1 Nummer 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht belehrt wurde. ^p-356-abs-4-s-2
+Bei Verträgen über Finanzdienstleistungen gilt [[#^p-356-abs-4-s-1|Satz 1]] nicht, wenn der Verbraucher nicht nach [[#^art-246b|Artikel 246b]] § 1 Absatz 1 Nummer 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht belehrt wurde. ^p-356-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-356-abs-5
 
@@ -5632,11 +5698,11 @@ Das Widerrufsrecht erlischt bei Verträgen über die Erbringung von Dienstleistu
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> ausdrücklich zugestimmt hat, dass der Unternehmer mit der Erbringung der Dienstleistung vor Ablauf der Widerrufsfrist beginnt, ^p-356-abs-5-s-1-nr-2-lit-a
 
-<span style="color:var(--text-error,#c52d3d)">b)</span> bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag die Zustimmung nach [[#^p-356-abs-5-s-1-nr-2-lit-a|Buchstabe a]] auf einem dauerhaften Datenträger übermittelt hat und ^p-356-abs-5-s-1-nr-2-lit-b
+<span style="color:var(--text-error,#c52d3d)">b)</span> bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag die Zustimmung nach [[#^p-356-abs-5|Buchstabe a]] auf einem dauerhaften Datenträger übermittelt hat und ^p-356-abs-5-s-1-nr-2-lit-b
 
 <span style="color:var(--text-error,#c52d3d)">c)</span> seine Kenntnis davon bestätigt hat, dass sein Widerrufsrecht mit vollständiger Vertragserfüllung durch den Unternehmer erlischt, ^p-356-abs-5-s-1-nr-2-lit-c
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> bei einem Vertrag, bei dem der Verbraucher den Unternehmer ausdrücklich aufgefordert hat, ihn aufzusuchen, um Reparaturarbeiten auszuführen, mit der vollständigen Erbringung der Dienstleistung, wenn der Verbraucher die in [[#^p-356-abs-5-s-1-nr-2-lit-a|Nummer 2 Buchstabe a]] und b genannten Voraussetzungen erfüllt hat, ^p-356-abs-5-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> bei einem Vertrag, bei dem der Verbraucher den Unternehmer ausdrücklich aufgefordert hat, ihn aufzusuchen, um Reparaturarbeiten auszuführen, mit der vollständigen Erbringung der Dienstleistung, wenn der Verbraucher die in [[#^p-356-abs-5|Nummer 2 Buchstabe a]] und b genannten Voraussetzungen erfüllt hat, ^p-356-abs-5-s-1-nr-3
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> bei einem Vertrag über die Erbringung von Finanzdienstleistungen, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein Widerrufsrecht ausübt. ^p-356-abs-5-s-1-nr-4
 
@@ -5652,7 +5718,7 @@ Das Widerrufsrecht erlischt bei Verträgen über die Bereitstellung von nicht au
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> der Verbraucher ausdrücklich zugestimmt hat, dass der Unternehmer mit der Vertragserfüllung vor Ablauf der Widerrufsfrist beginnt, ^p-356-abs-6-s-1-nr-2-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">c)</span> der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine Zustimmung nach [[#^p-356-abs-6-s-1-nr-2-lit-b|Buchstabe b]] mit Beginn der Vertragserfüllung sein Widerrufsrecht erlischt, und ^p-356-abs-6-s-1-nr-2-lit-c
+<span style="color:var(--text-error,#c52d3d)">c)</span> der Verbraucher seine Kenntnis davon bestätigt hat, dass durch seine Zustimmung nach [[#^p-356-abs-6|Buchstabe b]] mit Beginn der Vertragserfüllung sein Widerrufsrecht erlischt, und ^p-356-abs-6-s-1-nr-2-lit-c
 
 <span style="color:var(--text-error,#c52d3d)">d)</span> der Unternehmer dem Verbraucher eine Bestätigung gemäß [[#^p-312f|§ 312f]] zur Verfügung gestellt hat. ^p-356-abs-6-s-1-nr-2-lit-d
 
@@ -5704,7 +5770,7 @@ Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber dem Darlehensneh
 
 Enthält bei einem Allgemein-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach [[#^p-356b-abs-1|Absatz 1]] zur Verfügung gestellte Urkunde die Pflichtangaben nach [[#^p-492-abs-2|§ 492 Absatz 2]] nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß [[#^p-492-abs-6|§ 492 Absatz 6]]. ^p-356b-abs-2-s-1
 
-Enthält bei einem Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach [[#^p-356b-abs-1|Absatz 1]] zur Verfügung gestellte Urkunde die Pflichtangaben zum Widerrufsrecht nach [[#^p-492-abs-2|§ 492 Absatz 2]] in Verbindung mit Artikel 247 § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß [[#^p-492-abs-6|§ 492 Absatz 6]]. ^p-356b-abs-2-s-2
+Enthält bei einem Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach [[#^p-356b-abs-1|Absatz 1]] zur Verfügung gestellte Urkunde die Pflichtangaben zum Widerrufsrecht nach [[#^p-492-abs-2|§ 492 Absatz 2]] in Verbindung mit [[#^art-247|Artikel 247]] § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß [[#^p-492-abs-6|§ 492 Absatz 6]]. ^p-356b-abs-2-s-2
 
 In den Fällen der [[#^p-356b-abs-2-s-1|Sätze 1]] und [[#^p-356b-abs-2-s-2|2]] beträgt die Widerrufsfrist einen Monat. ^p-356b-abs-2-s-3
 
@@ -5728,7 +5794,7 @@ Erhält der Verbraucher die Vertragsurkunde oder die Abschrift des Vertrags erst
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-356c-abs-3
 
-Sind dem Verbraucher die in [[#^p-482-abs-1|§ 482 Absatz 1]] bezeichneten vorvertraglichen Informationen oder das in Artikel 242 § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in der in [[#^p-483-abs-1|§ 483 Absatz 1]] vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von [[#^p-356c-abs-2|Absatz 2]] erst mit dem vollständigen Erhalt der vorvertraglichen Informationen und des Formblatts in der vorgeschriebenen Sprache. ^p-356c-abs-3-s-1
+Sind dem Verbraucher die in [[#^p-482-abs-1|§ 482 Absatz 1]] bezeichneten vorvertraglichen Informationen oder das in [[#^art-242|Artikel 242]] § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in der in [[#^p-483-abs-1|§ 483 Absatz 1]] vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von [[#^p-356c-abs-2|Absatz 2]] erst mit dem vollständigen Erhalt der vorvertraglichen Informationen und des Formblatts in der vorgeschriebenen Sprache. ^p-356c-abs-3-s-1
 
 Das Widerrufsrecht erlischt spätestens drei Monate und 14 Tage nach dem in [[#^p-356c-abs-2|Absatz 2]] genannten Zeitpunkt. ^p-356c-abs-3-s-2
 
@@ -5758,7 +5824,7 @@ Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in [[
 
 ###### § 356e — Widerrufsrecht bei Verbraucherbauverträgen ^p-356e
 
-Bei einem Verbraucherbauvertrag ([[#^p-650i-abs-1|§ 650i Absatz 1]]) beginnt die Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß Artikel 249 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht belehrt hat. ^p-356e-s-1
+Bei einem Verbraucherbauvertrag ([[#^p-650i-abs-1|§ 650i Absatz 1]]) beginnt die Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß [[#^art-249|Artikel 249]] § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht belehrt hat. ^p-356e-s-1
 
 Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in [[#^p-355-abs-2-s-2|§ 355 Absatz 2 Satz 2]] genannten Zeitpunkt. ^p-356e-s-2
 
@@ -5794,7 +5860,7 @@ Dies gilt nicht, wenn der Unternehmer angeboten hat, die Waren abzuholen. ^p-357
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-357-abs-5
 
-Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der Waren, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche von dieser Pflicht unterrichtet hat. ^p-357-abs-5-s-1
+Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der Waren, wenn der Unternehmer den Verbraucher nach [[#^art-246a|Artikel 246a]] § 1 Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche von dieser Pflicht unterrichtet hat. ^p-357-abs-5-s-1
 
 [[#^p-357-abs-5-s-1|Satz 1]] gilt nicht, wenn der Unternehmer sich bereit erklärt hat, diese Kosten zu tragen. ^p-357-abs-5-s-2
 
@@ -5818,7 +5884,7 @@ Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu leisten, wenn 
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war, und ^p-357a-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über dessen Widerrufsrecht unterrichtet hat. ^p-357a-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> der Unternehmer den Verbraucher nach [[#^art-246a|Artikel 246a]] § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über dessen Widerrufsrecht unterrichtet hat. ^p-357a-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-357a-abs-2
 
@@ -5826,9 +5892,9 @@ Der Verbraucher hat Wertersatz für die bis zum Widerruf erbrachten Dienstleistu
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass mit der Leistung vor Ablauf der Widerrufsfrist begonnen werden soll, ^p-357a-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag der Verbraucher das Verlangen nach [[#^p-357a-abs-2-s-1-nr-1|Nummer 1]] auf einem dauerhaften Datenträger übermittelt hat und ^p-357a-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag der Verbraucher das Verlangen nach [[#^p-357a-abs-2|Nummer 1]] auf einem dauerhaften Datenträger übermittelt hat und ^p-357a-abs-2-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß informiert hat. ^p-357a-abs-2-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> der Unternehmer den Verbraucher nach [[#^art-246a|Artikel 246a]] § 1 Absatz 2 Satz 1 Nummer 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß informiert hat. ^p-357a-abs-2-s-1-nr-3
 
 Bei der Berechnung des Wertersatzes ist der vereinbarte Gesamtpreis zu Grunde zu legen. ^p-357a-abs-2-s-2
 
@@ -5872,7 +5938,7 @@ Bei einem Immobiliar-Verbraucherdarlehen kann nachgewiesen werden, dass der Wert
 
 In diesem Fall ist nur der niedrigere Betrag geschuldet. ^p-357b-abs-3-s-3
 
-Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die nicht von der Ausnahme des [[#^p-506-abs-4|§ 506 Absatz 4]] erfasst sind, gilt auch [[#^p-357b-abs-2|Absatz 2]] entsprechend mit der Maßgabe, dass an die Stelle der Unterrichtung über das Widerrufsrecht die Pflichtangaben nach Artikel 247 § 12 Absatz 1 in Verbindung mit § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das Widerrufsrecht betreffen, treten. ^p-357b-abs-3-s-4
+Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die nicht von der Ausnahme des [[#^p-506-abs-4|§ 506 Absatz 4]] erfasst sind, gilt auch [[#^p-357b-abs-2|Absatz 2]] entsprechend mit der Maßgabe, dass an die Stelle der Unterrichtung über das Widerrufsrecht die Pflichtangaben nach [[#^art-247|Artikel 247]] [[#^p-12-abs-1|§ 12 Absatz 1]] in Verbindung mit § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das Widerrufsrecht betreffen, treten. ^p-357b-abs-3-s-4
 
 Darüber hinaus hat der Darlehensnehmer dem Darlehensgeber nur die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann. ^p-357b-abs-3-s-5
 
@@ -5896,7 +5962,7 @@ Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 4 und 
 
 Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer hat sich bereit erklärt, diese Kosten zu tragen. ^p-357d-s-2
 
-[[#^p-357a-abs-1|§ 357a Absatz 1]] ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der Unterrichtung nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche tritt. ^p-357d-s-3
+[[#^p-357a-abs-1|§ 357a Absatz 1]] ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle der Unterrichtung nach [[#^art-246a|Artikel 246a]] § 1 Absatz 2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche tritt. ^p-357d-s-3
 
 ###### § 357e — Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen ^p-357e
 
@@ -5928,7 +5994,7 @@ Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen
 
 Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig von der Vertriebsform [[#^p-355-abs-3|§ 355 Absatz 3]] und, je nach Art des verbundenen Vertrags, § 357 Absatz 1 bis 3 sowie 5 bis 8 und die [[#^p-357a|§§ 357a]] bis [[#^p-357c|357c]] entsprechend anzuwenden. ^p-358-abs-4-s-1
 
-Ist der verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, hat der Verbraucher abweichend von [[#^p-357a-abs-3|§ 357a Absatz 3]] unter den Voraussetzungen des [[#^p-356-abs-6-s-1-nr-2|§ 356 Absatz 6 Nummer 2]] Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten. ^p-358-abs-4-s-2
+Ist der verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, hat der Verbraucher abweichend von [[#^p-357a-abs-3|§ 357a Absatz 3]] unter den Voraussetzungen des [[#^p-356-abs-6|§ 356 Absatz 6 Nummer 2]] Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte zu leisten. ^p-358-abs-4-s-2
 
 Ist der verbundene Vertrag ein im Fernabsatz oder außerhalb von Geschäftsräumen geschlossener Ratenlieferungsvertrag, so sind neben [[#^p-355-abs-3|§ 355 Absatz 3]] auch § 357 Absatz 1 bis 3 sowie 5 bis 8 und [[#^p-357a|§ 357a]] entsprechend anzuwenden; im Übrigen gelten für verbundene Ratenlieferungsverträge [[#^p-355-abs-3|§ 355 Absatz 3]], § 357 Absatz 1 bis 3 und 6 sowie § 357d Satz 2 und 3 entsprechend. ^p-358-abs-4-s-3
 
@@ -6182,7 +6248,7 @@ Unter allgemeiner Bezeichnung der zu versteigernden Sache sind öffentlich bekan
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Zeitpunkt der Versteigerung, ^p-383-abs-3-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> in den Fällen des Absatzes 2 Satz 2 Nummer 1 und bei hybriden öffentlichen Versteigerungen der Versteigerungsort sowie ^p-383-abs-3-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> in den Fällen des Absatzes 2 [[#^p-383-abs-3-s-2|Satz 2 Nummer 1]] und bei hybriden öffentlichen Versteigerungen der Versteigerungsort sowie ^p-383-abs-3-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> bei virtuellen öffentlichen Versteigerungen und bei hybriden öffentlichen Versteigerungen die Zugangsdaten. ^p-383-abs-3-s-1-nr-3
 
@@ -6628,7 +6694,7 @@ Die Sache entspricht den subjektiven Anforderungen, wenn sie ^p-434-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> mit dem vereinbarten Zubehör und den vereinbarten Anleitungen, einschließlich Montage- und Installationsanleitungen, übergeben wird. ^p-434-abs-2-s-1-nr-3
 
-Zu der Beschaffenheit nach [[#^p-434-abs-2-s-1-nr-1|Satz 1 Nummer 1]] gehören Art, Menge, Qualität, Funktionalität, Kompatibilität, Interoperabilität und sonstige Merkmale der Sache, für die die Parteien Anforderungen vereinbart haben. ^p-434-abs-2-s-2
+Zu der Beschaffenheit nach [[#^p-434-abs-2-s-1|Satz 1 Nummer 1]] gehören Art, Menge, Qualität, Funktionalität, Kompatibilität, Interoperabilität und sonstige Merkmale der Sache, für die die Parteien Anforderungen vereinbart haben. ^p-434-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-434-abs-3
 
@@ -6646,9 +6712,9 @@ Soweit nicht wirksam etwas anderes vereinbart wurde, entspricht die Sache den ob
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> mit dem Zubehör einschließlich der Verpackung, der Montage- oder Installationsanleitung sowie anderen Anleitungen übergeben wird, deren Erhalt der Käufer erwarten kann. ^p-434-abs-3-s-1-nr-4
 
-Zu der üblichen Beschaffenheit nach [[#^p-434-abs-3-s-1-nr-2|Satz 1 Nummer 2]] gehören Menge, Qualität und sonstige Merkmale der Sache, einschließlich ihrer Haltbarkeit, Reparierbarkeit, Funktionalität, Kompatibilität und Sicherheit. ^p-434-abs-3-s-2
+Zu der üblichen Beschaffenheit nach [[#^p-434-abs-3-s-1|Satz 1 Nummer 2]] gehören Menge, Qualität und sonstige Merkmale der Sache, einschließlich ihrer Haltbarkeit, Reparierbarkeit, Funktionalität, Kompatibilität und Sicherheit. ^p-434-abs-3-s-2
 
-Der Verkäufer ist durch die in [[#^p-434-abs-3-s-1-nr-2-lit-b|Satz 1 Nummer 2 Buchstabe b]] genannten öffentlichen Äußerungen nicht gebunden, wenn er sie nicht kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt war oder wenn die Äußerung die Kaufentscheidung nicht beeinflussen konnte. ^p-434-abs-3-s-3
+Der Verkäufer ist durch die in [[#^p-434-abs-3-s-1|Satz 1 Nummer 2 Buchstabe b]] genannten öffentlichen Äußerungen nicht gebunden, wenn er sie nicht kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt war oder wenn die Äußerung die Kaufentscheidung nicht beeinflussen konnte. ^p-434-abs-3-s-3
 
 In einem Kaufvertrag zwischen Unternehmern oder in einem Kaufvertrag zwischen Verbrauchern können die Unternehmer oder Verbraucher vereinbaren, dass Menge, Qualität oder eines oder mehrere der in [[#^p-434-abs-3-s-2|Satz 2]] genannten sonstigen Merkmale nicht zu der üblichen Beschaffenheit der Sache gehören. ^p-434-abs-3-s-4
 
@@ -6720,7 +6786,7 @@ Die Verjährung beginnt bei Grundstücken mit der Übergabe, im Übrigen mit der
 
 Abweichend von Absatz 1 Nr. 2 und 3 und [[#^p-438-abs-2|Absatz 2]] verjähren die Ansprüche in der regelmäßigen Verjährungsfrist, wenn der Verkäufer den Mangel arglistig verschwiegen hat. ^p-438-abs-3-s-1
 
-Im Falle des Absatzes 1 Nr. 2 tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein. ^p-438-abs-3-s-2
+Im Falle des Absatzes 1 [[#^p-438-abs-3|Nr. 2]] tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein. ^p-438-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-438-abs-4
 
@@ -6942,7 +7008,7 @@ Auf einen Verbrauchervertrag über den Verkauf digitaler Inhalte durch einen Unt
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> [[#^p-433-abs-1-s-1|§ 433 Absatz 1 Satz 1]] und [[#^p-475-abs-1|§ 475 Absatz 1]] über die Übergabe der Kaufsache und die Leistungszeit sowie ^p-453-abs-1-s-2-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1 und Absatz 4 bis 7 sowie die [[#^p-476|§§ 476]] und [[#^p-477|477]] über die Rechte bei Mängeln. ^p-453-abs-1-s-2-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1 und [[#^p-453-abs-4|Absatz 4]] bis [[#^p-453-abs-7|7]] sowie die [[#^p-476|§§ 476]] und [[#^p-477|477]] über die Rechte bei Mängeln. ^p-453-abs-1-s-2-nr-2
 
 An die Stelle der nach [[#^p-453-abs-1-s-2|Satz 2]] nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1. ^p-453-abs-1-s-3
 
@@ -7140,7 +7206,7 @@ Um einen Verbrauchsgüterkauf handelt es sich auch bei einem Vertrag, der neben 
 
 Für den Verbrauchsgüterkauf gelten ergänzend die folgenden Vorschriften dieses Untertitels. ^p-474-abs-2-s-1
 
-Für gebrauchte Waren, die in einer öffentlich zugänglichen Versteigerung ([[#^p-312g-abs-2-s-1-nr-10|§ 312g Absatz 2 Nummer 10]]) verkauft werden, gilt dies nicht, wenn dem Verbraucher klare und umfassende Informationen darüber, dass die Vorschriften dieses Untertitels nicht gelten, leicht verfügbar gemacht wurden. ^p-474-abs-2-s-2
+Für gebrauchte Waren, die in einer öffentlich zugänglichen Versteigerung ([[#^p-312g-abs-2|§ 312g Absatz 2 Nummer 10]]) verkauft werden, gilt dies nicht, wenn dem Verbraucher klare und umfassende Informationen darüber, dass die Vorschriften dieses Untertitels nicht gelten, leicht verfügbar gemacht wurden. ^p-474-abs-2-s-2
 
 ###### § 475 — Anwendbare Vorschriften ^p-475
 
@@ -7194,7 +7260,7 @@ Im Fall des Rücktritts oder des Schadensersatzes statt der ganzen Leistung wege
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-475a-abs-1
 
-Auf einen Verbrauchsgüterkaufvertrag, welcher einen körperlichen Datenträger zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient, sind [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 7 und die [[#^p-475b|§§ 475b]] bis [[#^p-475e|475e]], [[#^p-476|476]] und [[#^p-477|477]] über die Rechte bei Mängeln nicht anzuwenden. ^p-475a-abs-1-s-1
+Auf einen Verbrauchsgüterkaufvertrag, welcher einen körperlichen Datenträger zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient, sind [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1, [[#^p-475a-abs-4|Absatz 4]] bis [[#^p-475a-abs-7|7]] und die [[#^p-475b|§§ 475b]] bis [[#^p-475e|475e]], [[#^p-476|476]] und [[#^p-477|477]] über die Rechte bei Mängeln nicht anzuwenden. ^p-475a-abs-1-s-1
 
 An die Stelle der nach [[#^p-475a-abs-1-s-1|Satz 1]] nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1. ^p-475a-abs-1-s-2
 
@@ -7204,7 +7270,7 @@ Auf einen Verbrauchsgüterkaufvertrag über eine Ware, die in einer Weise digita
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> [[#^p-433-abs-1-s-1|§ 433 Absatz 1 Satz 1]] und [[#^p-475-abs-1|§ 475 Absatz 1]] über die Übergabe der Kaufsache und die Leistungszeit sowie ^p-475a-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 7 und die [[#^p-475b|§§ 475b]] bis [[#^p-475e|475e]], [[#^p-476|476]] und [[#^p-477|477]] über die Rechte bei Mängeln. ^p-475a-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1, [[#^p-475a-abs-4|Absatz 4]] bis [[#^p-475a-abs-7|7]] und die [[#^p-475b|§§ 475b]] bis [[#^p-475e|475e]], [[#^p-476|476]] und [[#^p-477|477]] über die Rechte bei Mängeln. ^p-475a-abs-2-s-1-nr-2
 
 An die Stelle der nach [[#^p-475a-abs-2-s-1|Satz 1]] nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1. ^p-475a-abs-2-s-2
 
@@ -7218,7 +7284,7 @@ Hinsichtlich der Frage, ob die Verpflichtung des Unternehmers die Bereitstellung
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-475b-abs-2
 
-Eine Ware mit digitalen Elementen ist frei von Sachmängeln, wenn sie bei Gefahrübergang und in Bezug auf eine Aktualisierungspflicht auch während des Zeitraums nach [[#^p-475b-abs-3-s-1-nr-2|Absatz 3 Nummer 2]] und [[#^p-475b-abs-4-s-1-nr-2|Absatz 4 Nummer 2]] den subjektiven Anforderungen, den objektiven Anforderungen, den Montageanforderungen und den Installationsanforderungen entspricht. ^p-475b-abs-2-s-1
+Eine Ware mit digitalen Elementen ist frei von Sachmängeln, wenn sie bei Gefahrübergang und in Bezug auf eine Aktualisierungspflicht auch während des Zeitraums nach [[#^p-475b-abs-3|Absatz 3 Nummer 2]] und [[#^p-475b-abs-4|Absatz 4 Nummer 2]] den subjektiven Anforderungen, den objektiven Anforderungen, den Montageanforderungen und den Installationsanforderungen entspricht. ^p-475b-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-475b-abs-3
 
@@ -7262,7 +7328,7 @@ Soweit eine Montage oder eine Installation durchzuführen ist, entspricht eine W
 
 Ist beim Kauf einer Ware mit digitalen Elementen eine dauerhafte Bereitstellung für die digitalen Elemente vereinbart, so gelten ergänzend die Regelungen dieser Vorschrift. ^p-475c-abs-1-s-1
 
-Haben die Parteien nicht bestimmt, wie lange die Bereitstellung andauern soll, so ist [[#^p-475b-abs-4-s-1-nr-2|§ 475b Absatz 4 Nummer 2]] entsprechend anzuwenden. ^p-475c-abs-1-s-2
+Haben die Parteien nicht bestimmt, wie lange die Bereitstellung andauern soll, so ist [[#^p-475b-abs-4|§ 475b Absatz 4 Nummer 2]] entsprechend anzuwenden. ^p-475c-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-475c-abs-2
 
@@ -7322,7 +7388,7 @@ Von den Anforderungen nach [[#^p-434-abs-3|§ 434 Absatz 3]] oder [[#^p-475b-abs
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Verbraucher vor der Abgabe seiner Vertragserklärung eigens davon in Kenntnis gesetzt wurde, dass ein bestimmtes Merkmal der Ware von den objektiven Anforderungen abweicht, und ^p-476-abs-1-s-2-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> die Abweichung im Sinne der [[#^p-476-abs-1-s-2-nr-1|Nummer 1]] im Vertrag ausdrücklich und gesondert vereinbart wurde. ^p-476-abs-1-s-2-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> die Abweichung im Sinne der [[#^p-476-abs-1|Nummer 1]] im Vertrag ausdrücklich und gesondert vereinbart wurde. ^p-476-abs-1-s-2-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-476-abs-2
 
@@ -7396,7 +7462,7 @@ Die Garantieerklärung ist dem Verbraucher spätestens zum Zeitpunkt der Lieferu
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-479-abs-3
 
-Hat der Hersteller gegenüber dem Verbraucher eine Haltbarkeitsgarantie übernommen, so hat der Verbraucher gegen den Hersteller während des Zeitraums der Garantie mindestens einen Anspruch auf Nacherfüllung gemäß § 439 Absatz 2, 3, 5 und 6 Satz 2 und [[#^p-475-abs-3-s-1|§ 475 Absatz 3 Satz 1]] und Absatz 6. ^p-479-abs-3-s-1
+Hat der Hersteller gegenüber dem Verbraucher eine Haltbarkeitsgarantie übernommen, so hat der Verbraucher gegen den Hersteller während des Zeitraums der Garantie mindestens einen Anspruch auf Nacherfüllung gemäß § 439 Absatz 2, 3, 5 und 6 Satz 2 und [[#^p-475-abs-3-s-1|§ 475 Absatz 3 Satz 1]] und [[#^p-479-abs-6|Absatz 6]]. ^p-479-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-479-abs-4
 
@@ -7422,7 +7488,7 @@ Die Vorschriften dieses Untertitels gelten für Waren, ^p-479a-s-1
 
 Der Hersteller einer Ware, die in den Anwendungsbereich des [[#^p-479a|§ 479a]] fällt, ist verpflichtet, die Ware auf Verlangen eines Verbrauchers zu reparieren. ^p-479b-abs-1-s-1
 
-Der Hersteller hat die Reparatur gemäß Artikel 2 Nummer 20 der Verordnung (EU) 2024/1781 in der Fassung vom 13. ^p-479b-abs-1-s-2
+Der Hersteller hat die Reparatur gemäß [[#^art-2|Artikel 2 Nummer 20]] der Verordnung (EU) 2024/1781 in der Fassung vom 13. ^p-479b-abs-1-s-2
 
 Juni 2024 innerhalb eines angemessenen Zeitraums durchzuführen, sobald sich die Ware in seinem Besitz befindet oder er Zugang zu der Ware hat, und die Ware in einen Zustand zurückzuversetzen, in dem der vorgesehene Verwendungszweck erfüllt wird. ^p-479b-abs-1-s-3
 
@@ -7452,7 +7518,7 @@ Ist die Ware bei einer entgeltlichen Reparatur nach Erbringung der Reparaturleis
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> nach den [[#^p-280|§§ 280]] und [[#^p-281|281]] Schadensersatz oder nach [[#^p-284|§ 284]] Ersatz vergeblicher Aufwendungen verlangen. ^p-479b-abs-4-s-1-nr-4
 
-In den Fällen des Satzes 1 [[#^p-479b-abs-4-s-1-nr-4|Nummer 4]] findet [[#^p-636|§ 636]] entsprechende Anwendung. ^p-479b-abs-4-s-2
+In den Fällen des Satzes 1 [[#^p-479b-abs-4|Nummer 4]] findet [[#^p-636|§ 636]] entsprechende Anwendung. ^p-479b-abs-4-s-2
 
 ###### § 479c — Ersatzteile und Werkzeuge ^p-479c
 
@@ -7540,7 +7606,7 @@ Ein Tauschsystemvertrag ist ein Vertrag, durch den sich ein Unternehmer von eine
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-482-abs-1
 
-Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung zum Abschluss eines Teilzeit-Wohnrechtevertrags, eines Vertrags über ein langfristiges Urlaubsprodukt, eines Vermittlungsvertrags oder eines Tauschsystemvertrags vorvertragliche Informationen nach Artikel 242 § 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche in Textform zur Verfügung zu stellen. ^p-482-abs-1-s-1
+Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung zum Abschluss eines Teilzeit-Wohnrechtevertrags, eines Vertrags über ein langfristiges Urlaubsprodukt, eines Vermittlungsvertrags oder eines Tauschsystemvertrags vorvertragliche Informationen nach [[#^art-242|Artikel 242]] § 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche in Textform zur Verfügung zu stellen. ^p-482-abs-1-s-1
 
 Diese müssen klar und verständlich sein. ^p-482-abs-1-s-2
 
@@ -7562,7 +7628,7 @@ Der Unternehmer muss den Verbraucher vor Vertragsschluss in Textform auf das Wid
 
 Der Erhalt der entsprechenden Vertragsbestimmungen ist vom Verbraucher schriftlich zu bestätigen. ^p-482a-s-2
 
-Die Einzelheiten sind in Artikel 242 § 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche geregelt. ^p-482a-s-3
+Die Einzelheiten sind in [[#^art-242|Artikel 242]] § 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche geregelt. ^p-482a-s-3
 
 ##### § 483 — Sprache des Vertrags und der vorvertraglichen Informationen ^p-483
 
@@ -7632,7 +7698,7 @@ Es dürfen keine Zahlungen des Verbrauchers im Zusammenhang mit einem Vermittlun
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-486a-abs-1
 
-Bei einem Vertrag über ein langfristiges Urlaubsprodukt enthält das in Artikel 242 § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt einen Ratenzahlungsplan. ^p-486a-abs-1-s-1
+Bei einem Vertrag über ein langfristiges Urlaubsprodukt enthält das in [[#^art-242|Artikel 242]] § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt einen Ratenzahlungsplan. ^p-486a-abs-1-s-1
 
 Der Unternehmer darf von den dort genannten Zahlungsmodalitäten nicht abweichen. ^p-486a-abs-1-s-2
 
@@ -7764,7 +7830,7 @@ Allgemein-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwi
 
 Keine Allgemein-Verbraucherdarlehensverträge sind Verträge, ^p-491-abs-2-s-2
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> bei denen der Nettodarlehensbetrag (Artikel 247 § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) weniger als 200 Euro beträgt, ^p-491-abs-2-s-2-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> bei denen der Nettodarlehensbetrag ([[#^art-247|Artikel 247]] § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) weniger als 200 Euro beträgt, ^p-491-abs-2-s-2-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> bei denen sich die Haftung des Darlehensnehmers auf eine dem Darlehensgeber zum Pfand übergebene Sache beschränkt, ^p-491-abs-2-s-2-nr-2
 
@@ -7784,9 +7850,9 @@ Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zw
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> für den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder für den Erwerb oder die Erhaltung von grundstücksgleichen Rechten bestimmt sind. ^p-491-abs-3-s-1-nr-2
 
-Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß [[#^p-491-abs-2-s-2-nr-4|Absatz 2 Satz 2 Nummer 4]]. ^p-491-abs-3-s-2
+Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß [[#^p-491-abs-2-s-2|Absatz 2 Satz 2 Nummer 4]]. ^p-491-abs-3-s-2
 
-Auf Immobiliar-Verbraucherdarlehensverträge gemäß [[#^p-491-abs-2-s-2-nr-5|Absatz 2 Satz 2 Nummer 5]] sind nur [[#^p-491a-abs-4|§ 491a Absatz 4]] und [[#^p-495-abs-4|§ 495 Absatz 4]] anwendbar. ^p-491-abs-3-s-3
+Auf Immobiliar-Verbraucherdarlehensverträge gemäß [[#^p-491-abs-2-s-2|Absatz 2 Satz 2 Nummer 5]] sind nur [[#^p-491a-abs-4|§ 491a Absatz 4]] und [[#^p-495-abs-4|§ 495 Absatz 4]] anwendbar. ^p-491-abs-3-s-3
 
 Keine Immobiliar-Verbraucherdarlehensverträge sind Immobilienverzehrkreditverträge, bei denen der Kreditgeber ^p-491-abs-3-s-4
 
@@ -7822,7 +7888,7 @@ Werden mit einem Immobiliar-Verbraucherdarlehensvertrag Finanzprodukte oder -die
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-491a-abs-4
 
-Bei einem Immobiliar-Verbraucherdarlehensvertrag entsprechend [[#^p-491-abs-2-s-2-nr-5|§ 491 Absatz 2 Satz 2 Nummer 5]] ist der Darlehensgeber verpflichtet, den Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung auf einem dauerhaften Datenträger über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu informieren. ^p-491a-abs-4-s-1
+Bei einem Immobiliar-Verbraucherdarlehensvertrag entsprechend [[#^p-491-abs-2-s-2|§ 491 Absatz 2 Satz 2 Nummer 5]] ist der Darlehensgeber verpflichtet, den Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung auf einem dauerhaften Datenträger über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in [[#^art-247|Artikel 247]] § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu informieren. ^p-491a-abs-4-s-1
 
 ###### § 492 — Schriftform, Vertragsinhalt ^p-492
 
@@ -7836,13 +7902,13 @@ Die Erklärung des Darlehensgebers bedarf keiner Unterzeichnung, wenn sie mit Hi
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-492-abs-2
 
-Der Vertrag muss die für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben nach Artikel 247 §§ 6 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche enthalten. ^p-492-abs-2-s-1
+Der Vertrag muss die für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben nach [[#^art-247|Artikel 247]] §§ 6 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche enthalten. ^p-492-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-492-abs-3
 
 Nach Vertragsschluss stellt der Darlehensgeber dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung. ^p-492-abs-3-s-1
 
-Ist ein Zeitpunkt für die Rückzahlung des Darlehens bestimmt, kann der Darlehensnehmer vom Darlehensgeber jederzeit einen Tilgungsplan nach Artikel 247 § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verlangen. ^p-492-abs-3-s-2
+Ist ein Zeitpunkt für die Rückzahlung des Darlehens bestimmt, kann der Darlehensnehmer vom Darlehensgeber jederzeit einen Tilgungsplan nach [[#^art-247|Artikel 247]] § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verlangen. ^p-492-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-492-abs-4
 
@@ -7932,7 +7998,7 @@ Erklärt sich der Darlehensgeber zur Fortführung bereit, muss die Unterrichtung
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-493-abs-3
 
-Die Anpassung des Sollzinssatzes eines Verbraucherdarlehensvertrags mit veränderlichem Sollzinssatz wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die Einzelheiten unterrichtet hat, die sich aus Artikel 247 § 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. ^p-493-abs-3-s-1
+Die Anpassung des Sollzinssatzes eines Verbraucherdarlehensvertrags mit veränderlichem Sollzinssatz wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die Einzelheiten unterrichtet hat, die sich aus [[#^art-247|Artikel 247]] § 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. ^p-493-abs-3-s-1
 
 Abweichende Vereinbarungen über die Wirksamkeit sind im Rahmen des Artikels 247 § 15 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zulässig. ^p-493-abs-3-s-2
 
@@ -7978,13 +8044,13 @@ Der Darlehensgeber übermittelt dem Darlehensnehmer vor der Änderung der Bestim
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> der vorgeschlagenen Änderungen, ^p-493-abs-7-s-1-nr-1-lit-a
 
-<span style="color:var(--text-error,#c52d3d)">b)</span> soweit zutreffend, der Notwendigkeit der Zustimmung des Darlehensnehmers zu den Änderungen nach [[#^p-493-abs-7-s-1-nr-1-lit-a|Buchstabe a]] und ^p-493-abs-7-s-1-nr-1-lit-b
+<span style="color:var(--text-error,#c52d3d)">b)</span> soweit zutreffend, der Notwendigkeit der Zustimmung des Darlehensnehmers zu den Änderungen nach [[#^p-493-abs-7|Buchstabe a]] und ^p-493-abs-7-s-1-nr-1-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">c)</span> soweit zutreffend, der gesetzlich eingeführten Änderungen, die den Änderungen nach [[#^p-493-abs-7-s-1-nr-1-lit-a|Buchstabe a]] zugrunde liegen, ^p-493-abs-7-s-1-nr-1-lit-c
+<span style="color:var(--text-error,#c52d3d)">c)</span> soweit zutreffend, der gesetzlich eingeführten Änderungen, die den Änderungen nach [[#^p-493-abs-7|Buchstabe a]] zugrunde liegen, ^p-493-abs-7-s-1-nr-1-lit-c
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> den zeitlichen Rahmen, der für die Umsetzung der Änderungen nach [[#^p-493-abs-7-s-1-nr-1-lit-a|Nummer 1 Buchstabe a]] vorgesehen ist, und ^p-493-abs-7-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> den zeitlichen Rahmen, der für die Umsetzung der Änderungen nach [[#^p-493-abs-7|Nummer 1 Buchstabe a]] vorgesehen ist, und ^p-493-abs-7-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> die Möglichkeiten, die dem Darlehensnehmer zur Verfügung stehen, um gegen die Änderungen nach [[#^p-493-abs-7-s-1-nr-1-lit-a|Nummer 1 Buchstabe a]] Beschwerde einzulegen, die Frist für die Einlegung der Beschwerde sowie die Bezeichnung und Anschrift der zuständigen Behörde, bei der die Beschwerde eingereicht werden kann. ^p-493-abs-7-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> die Möglichkeiten, die dem Darlehensnehmer zur Verfügung stehen, um gegen die Änderungen nach [[#^p-493-abs-7|Nummer 1 Buchstabe a]] Beschwerde einzulegen, die Frist für die Einlegung der Beschwerde sowie die Bezeichnung und Anschrift der zuständigen Behörde, bei der die Beschwerde eingereicht werden kann. ^p-493-abs-7-s-1-nr-3
 
 [[#^p-492-abs-5|§ 492 Absatz 5]] ist nicht anzuwenden. ^p-493-abs-7-s-2
 
@@ -7992,7 +8058,7 @@ Der Darlehensgeber übermittelt dem Darlehensnehmer vor der Änderung der Bestim
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-494-abs-1
 
-Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in Artikel 247 §§ 6 und 10 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt. ^p-494-abs-1-s-1
+Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in [[#^art-247|Artikel 247]] §§ 6 und 10 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt. ^p-494-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-494-abs-2
 
@@ -8036,7 +8102,7 @@ Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag ein Widerrufsrec
 
 Ein Widerrufsrecht besteht nicht bei Darlehensverträgen, ^p-495-abs-2-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> die einen Darlehensvertrag, zu dessen Kündigung der Darlehensgeber wegen Zahlungsverzugs des Darlehensnehmers berechtigt ist, durch Rückzahlungsvereinbarungen ergänzen oder ersetzen, wenn dadurch ein gerichtliches Verfahren vermieden wird und wenn der Gesamtbetrag (Artikel 247 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) geringer ist als die Restschuld des ursprünglichen Vertrags, ^p-495-abs-2-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> die einen Darlehensvertrag, zu dessen Kündigung der Darlehensgeber wegen Zahlungsverzugs des Darlehensnehmers berechtigt ist, durch Rückzahlungsvereinbarungen ergänzen oder ersetzen, wenn dadurch ein gerichtliches Verfahren vermieden wird und wenn der Gesamtbetrag ([[#^art-247|Artikel 247]] § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) geringer ist als die Restschuld des ursprünglichen Vertrags, ^p-495-abs-2-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die notariell zu beurkunden sind, wenn der Notar bestätigt, dass die Rechte des Darlehensnehmers aus den [[#^p-491a|§§ 491a]] und [[#^p-492|492]] gewahrt sind, oder ^p-495-abs-2-s-1-nr-2
 
@@ -8052,9 +8118,9 @@ Die Bedenkzeit beginnt mit der Aushändigung des Vertragsangebots an den Darlehe
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-495-abs-4
 
-Bei Immobiliar-Verbraucherdarlehensverträgen entsprechend [[#^p-491-abs-2-s-2-nr-5|§ 491 Absatz 2 Satz 2 Nummer 5]], die im Fernabsatz oder außerhalb von Geschäftsräumen abgeschlossen werden, richtet sich das Widerrufsrecht nach [[#^p-312g|§ 312g]]. ^p-495-abs-4-s-1
+Bei Immobiliar-Verbraucherdarlehensverträgen entsprechend [[#^p-491-abs-2-s-2|§ 491 Absatz 2 Satz 2 Nummer 5]], die im Fernabsatz oder außerhalb von Geschäftsräumen abgeschlossen werden, richtet sich das Widerrufsrecht nach [[#^p-312g|§ 312g]]. ^p-495-abs-4-s-1
 
-Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den Verbraucher über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters und entsprechend Artikel 246b § 1 Absatz 1 Nummer 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. ^p-495-abs-4-s-2
+Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den Verbraucher über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in [[#^art-247|Artikel 247]] § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters und entsprechend [[#^art-246b|Artikel 246b]] § 1 Absatz 1 Nummer 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. ^p-495-abs-4-s-2
 
 ###### § 496 — Einwendungsverzicht, Wechsel- und Scheckverbot ^p-496
 
@@ -8064,7 +8130,7 @@ Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht verzichtet, Einwe
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-496-abs-2
 
-Wird eine Forderung des Darlehensgebers aus einem Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in der Person des Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 2 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. ^p-496-abs-2-s-1
+Wird eine Forderung des Darlehensgebers aus einem Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in der Person des Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers nach [[#^art-246b|Artikel 246b]] § 1 Absatz 1 Nummer 1, 2 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. ^p-496-abs-2-s-1
 
 Die Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt. ^p-496-abs-2-s-2
 
@@ -8130,7 +8196,7 @@ Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der Fristsetzung ein
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-498-abs-2
 
-Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensnehmer abweichend von [[#^p-498-abs-1-s-1-nr-1-lit-b|Absatz 1 Satz 1 Nummer 1 Buchstabe b]] mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug sein. ^p-498-abs-2-s-1
+Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensnehmer abweichend von [[#^p-498-abs-1-s-1|Absatz 1 Satz 1 Nummer 1 Buchstabe b]] mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug sein. ^p-498-abs-2-s-1
 
 ###### § 499 — Kündigungsrecht des Darlehensgebers; Leistungsverweigerung ^p-499
 
@@ -8222,7 +8288,7 @@ Die Umstellung des Darlehens hat zu dem Wechselkurs zu erfolgen, der dem am Tag 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-504-abs-1
 
-Ist ein Verbraucherdarlehen in der Weise gewährt, dass der Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto dem Darlehensnehmer das Recht einräumt, sein Konto in bestimmter Höhe zu überziehen (Überziehungsmöglichkeit), hat der Darlehensgeber den Darlehensnehmer in regelmäßigen Zeitabständen über die Angaben zu unterrichten, die sich aus Artikel 247 § 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. ^p-504-abs-1-s-1
+Ist ein Verbraucherdarlehen in der Weise gewährt, dass der Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto dem Darlehensnehmer das Recht einräumt, sein Konto in bestimmter Höhe zu überziehen (Überziehungsmöglichkeit), hat der Darlehensgeber den Darlehensnehmer in regelmäßigen Zeitabständen über die Angaben zu unterrichten, die sich aus [[#^art-247|Artikel 247]] § 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. ^p-504-abs-1-s-1
 
 Ein Anspruch auf Vorfälligkeitsentschädigung aus [[#^p-502|§ 502]] ist ausgeschlossen. ^p-504-abs-1-s-2
 
@@ -8268,13 +8334,13 @@ Dies gilt nicht, wenn der Darlehensnehmer ausdrücklich erklärt, keine weiteren
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-505-abs-1
 
-Vereinbart ein Unternehmer in einem Vertrag mit einem Verbraucher über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein Entgelt für den Fall, dass er eine Überziehung des Kontos duldet, müssen in diesem Vertrag die Angaben nach Artikel 247 § 17 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche auf einem dauerhaften Datenträger enthalten sein und dem Verbraucher in regelmäßigen Zeitabständen auf einem dauerhaften Datenträger mitgeteilt werden. ^p-505-abs-1-s-1
+Vereinbart ein Unternehmer in einem Vertrag mit einem Verbraucher über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein Entgelt für den Fall, dass er eine Überziehung des Kontos duldet, müssen in diesem Vertrag die Angaben nach [[#^art-247|Artikel 247]] § 17 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche auf einem dauerhaften Datenträger enthalten sein und dem Verbraucher in regelmäßigen Zeitabständen auf einem dauerhaften Datenträger mitgeteilt werden. ^p-505-abs-1-s-1
 
 [[#^p-505-abs-1-s-1|Satz 1]] gilt entsprechend, wenn ein Darlehensgeber mit einem Darlehensnehmer in einem Vertrag über ein laufendes Konto mit eingeräumter Überziehungsmöglichkeit ein Entgelt für den Fall vereinbart, dass er eine Überziehung des Kontos über die vertraglich bestimmte Höhe hinaus duldet. ^p-505-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-505-abs-2
 
-Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung von mehr als einem Monat, unterrichtet der Darlehensgeber den Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über die sich aus Artikel 247 § 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten. ^p-505-abs-2-s-1
+Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung von mehr als einem Monat, unterrichtet der Darlehensgeber den Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über die sich aus [[#^art-247|Artikel 247]] § 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten. ^p-505-abs-2-s-1
 
 Wenn es im Fall des Absatzes 1 zu einer ununterbrochenen Überziehung von mehr als drei Monaten gekommen ist und der durchschnittliche Überziehungsbetrag die Hälfte des durchschnittlichen monatlichen Geldeingangs innerhalb der letzten drei Monate auf diesem Konto übersteigt, so gilt [[#^p-504a|§ 504a]] entsprechend. ^p-505-abs-2-s-2
 
@@ -8414,7 +8480,7 @@ Verträge zwischen einem Unternehmer und einem Verbraucher über die entgeltlich
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> der Verbraucher bei Beendigung des Vertrags für einen bestimmten Wert des Gegenstandes einzustehen hat. ^p-506-abs-2-s-1-nr-3
 
-Auf Verträge gemäß [[#^p-506-abs-2-s-1-nr-3|Satz 1 Nummer 3]] sind [[#^p-500-abs-2|§ 500 Absatz 2]], [[#^p-501-abs-1|§ 501 Absatz 1]] und [[#^p-502|§ 502]] nicht anzuwenden. ^p-506-abs-2-s-2
+Auf Verträge gemäß [[#^p-506-abs-2-s-1|Satz 1 Nummer 3]] sind [[#^p-500-abs-2|§ 500 Absatz 2]], [[#^p-501-abs-1|§ 501 Absatz 1]] und [[#^p-502|§ 502]] nicht anzuwenden. ^p-506-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-506-abs-3
 
@@ -8422,9 +8488,9 @@ Für Verträge, die die Lieferung einer bestimmten Sache oder die Erbringung ein
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-506-abs-4
 
-Die Vorschriften dieses Untertitels sind in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und [[#^p-506-abs-4|Absatz 4]] bestimmten Umfang nicht anzuwenden. ^p-506-abs-4-s-1
+Die Vorschriften dieses Untertitels sind in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, [[#^p-506-abs-3-s-2|Absatz 3 Satz 2]] und [[#^p-506-abs-4|Absatz 4]] bestimmten Umfang nicht anzuwenden. ^p-506-abs-4-s-1
 
-Soweit nach der Vertragsart ein Nettodarlehensbetrag ([[#^p-491-abs-2-s-2-nr-1|§ 491 Absatz 2 Satz 2 Nummer 1]]) nicht vorhanden ist, tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand für den Verbraucher erworben hat, der Anschaffungspreis. ^p-506-abs-4-s-2
+Soweit nach der Vertragsart ein Nettodarlehensbetrag ([[#^p-491-abs-2-s-2|§ 491 Absatz 2 Satz 2 Nummer 1]]) nicht vorhanden ist, tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand für den Verbraucher erworben hat, der Anschaffungspreis. ^p-506-abs-4-s-2
 
 ###### § 507 — Teilzahlungsgeschäfte ^p-507
 
@@ -8436,7 +8502,7 @@ Gibt der Verbraucher sein Angebot zum Vertragsabschluss im Fernabsatz auf Grund 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-507-abs-2
 
-Das Teilzahlungsgeschäft ist nichtig, wenn die vorgeschriebene Schriftform des [[#^p-492-abs-1|§ 492 Abs. 1]] nicht eingehalten ist oder im Vertrag eine der in Artikel 247 §§ 6, 12 und 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen Angaben fehlt. ^p-507-abs-2-s-1
+Das Teilzahlungsgeschäft ist nichtig, wenn die vorgeschriebene Schriftform des [[#^p-492-abs-1|§ 492 Abs. 1]] nicht eingehalten ist oder im Vertrag eine der in [[#^art-247|Artikel 247]] §§ 6, 12 und 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen Angaben fehlt. ^p-507-abs-2-s-1
 
 Ungeachtet eines Mangels nach [[#^p-507-abs-2-s-1|Satz 1]] wird das Teilzahlungsgeschäft gültig, wenn dem Verbraucher die Sache übergeben oder die Leistung erbracht wird. ^p-507-abs-2-s-2
 
@@ -8448,7 +8514,7 @@ Ist der effektive Jahreszins zu niedrig angegeben, so vermindert sich der Gesamt
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-507-abs-3
 
-Abweichend von den §§ 491a und 492 Abs. 2 dieses Gesetzes und von Artikel 247 §§ 3, 6 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche müssen in der vorvertraglichen Information und im Vertrag der Barzahlungspreis und der effektive Jahreszins nicht angegeben werden, wenn der Unternehmer nur gegen Teilzahlungen Sachen liefert oder Leistungen erbringt. ^p-507-abs-3-s-1
+Abweichend von den §§ 491a und 492 Abs. 2 dieses Gesetzes und von [[#^art-247|Artikel 247]] §§ 3, 6 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche müssen in der vorvertraglichen Information und im Vertrag der Barzahlungspreis und der effektive Jahreszins nicht angegeben werden, wenn der Unternehmer nur gegen Teilzahlungen Sachen liefert oder Leistungen erbringt. ^p-507-abs-3-s-1
 
 Im Fall des [[#^p-501|§ 501]] ist der Berechnung der Kostenermäßigung der gesetzliche Zinssatz ([[#^p-246|§ 246]]) zugrunde zu legen. ^p-507-abs-3-s-2
 
@@ -8496,9 +8562,9 @@ Dem Verbraucher steht vorbehaltlich des Absatzes 3 bei Verträgen nach [[#^p-510
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-510-abs-3
 
-Das Widerrufsrecht nach [[#^p-510-abs-2|Absatz 2]] gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, [[#^p-510-abs-3-s-2|Absatz 3 Satz 2]] und Absatz 4 bestimmten Umfang. ^p-510-abs-3-s-1
+Das Widerrufsrecht nach [[#^p-510-abs-2|Absatz 2]] gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, [[#^p-510-abs-3-s-2|Absatz 3 Satz 2]] und [[#^p-510-abs-4|Absatz 4]] bestimmten Umfang. ^p-510-abs-3-s-1
 
-Dem in [[#^p-491-abs-2-s-2-nr-1|§ 491 Absatz 2 Satz 2 Nummer 1]] genannten Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden Teilzahlungen. ^p-510-abs-3-s-2
+Dem in [[#^p-491-abs-2-s-2|§ 491 Absatz 2 Satz 2 Nummer 1]] genannten Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden Teilzahlungen. ^p-510-abs-3-s-2
 
 ##### Untertitel 4 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
 
@@ -8508,7 +8574,7 @@ Dem in [[#^p-491-abs-2-s-2-nr-1|§ 491 Absatz 2 Satz 2 Nummer 1]] genannten Nett
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-511-abs-1
 
-Bevor der Darlehensgeber dem Darlehensnehmer individuelle Empfehlungen zu einem oder mehreren Geschäften erteilt, die im Zusammenhang mit einem Immobiliar-Verbraucherdarlehensvertrag stehen (Beratungsleistungen), hat er den Darlehensnehmer über die sich aus Artikel 247 § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu informieren. ^p-511-abs-1-s-1
+Bevor der Darlehensgeber dem Darlehensnehmer individuelle Empfehlungen zu einem oder mehreren Geschäften erteilt, die im Zusammenhang mit einem Immobiliar-Verbraucherdarlehensvertrag stehen (Beratungsleistungen), hat er den Darlehensnehmer über die sich aus [[#^art-247|Artikel 247]] § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu informieren. ^p-511-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-511-abs-2
 
@@ -8546,15 +8612,15 @@ Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehm
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-514-abs-1
 
-§ 497 Absatz 1 und 3 sowie [[#^p-498|§ 498]] und die [[#^p-505a|§§ 505a]] bis [[#^p-505c|505c]] sowie 505d [[#^p-514-abs-2|Absatz 2]] und 3 sowie [[#^p-505e|§ 505e]] sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. ^p-514-abs-1-s-1
+§ 497 Absatz 1 und 3 sowie [[#^p-498|§ 498]] und die [[#^p-505a|§§ 505a]] bis [[#^p-505c|505c]] sowie 505d [[#^p-514-abs-2|Absatz 2]] und [[#^p-514-abs-3|3]] sowie [[#^p-505e|§ 505e]] sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. ^p-514-abs-1-s-1
 
-Dies gilt nicht in dem in [[#^p-491-abs-2-s-2-nr-1|§ 491 Absatz 2 Satz 2 Nummer 1]] bestimmten Umfang. ^p-514-abs-1-s-2
+Dies gilt nicht in dem in [[#^p-491-abs-2-s-2|§ 491 Absatz 2 Satz 2 Nummer 1]] bestimmten Umfang. ^p-514-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-514-abs-2
 
 Bei unentgeltlichen Darlehensverträgen gemäß [[#^p-514-abs-1|Absatz 1]] steht dem Verbraucher ein Widerrufsrecht nach [[#^p-355|§ 355]] zu. ^p-514-abs-2-s-1
 
-Dies gilt nicht, wenn bereits ein Widerrufsrecht nach [[#^p-312g-abs-1|§ 312g Absatz 1]] besteht, und nicht bei Verträgen, die [[#^p-495-abs-2-s-1-nr-1|§ 495 Absatz 2 Nummer 1]] entsprechen. ^p-514-abs-2-s-2
+Dies gilt nicht, wenn bereits ein Widerrufsrecht nach [[#^p-312g-abs-1|§ 312g Absatz 1]] besteht, und nicht bei Verträgen, die [[#^p-495-abs-2|§ 495 Absatz 2 Nummer 1]] entsprechen. ^p-514-abs-2-s-2
 
 Der Unternehmer hat den Verbraucher rechtzeitig vor der Abgabe von dessen Willenserklärung gemäß Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht zu unterrichten. ^p-514-abs-2-s-3
 
@@ -8782,7 +8848,7 @@ Eine unerhebliche Minderung der Tauglichkeit bleibt außer Betracht. ^p-536-abs-
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1a</strong></span> ^p-536-abs-1a
 
-Für die Dauer von drei Monaten bleibt eine Minderung der Tauglichkeit außer Betracht, soweit diese auf Grund einer Maßnahme eintritt, die einer energetischen Modernisierung nach [[#^p-555b-s-1-nr-1|§ 555b Nummer 1]] dient. ^p-536-abs-1a-s-1
+Für die Dauer von drei Monaten bleibt eine Minderung der Tauglichkeit außer Betracht, soweit diese auf Grund einer Maßnahme eintritt, die einer energetischen Modernisierung nach [[#^p-555b|§ 555b Nummer 1]] dient. ^p-536-abs-1a-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-536-abs-2
 
@@ -8920,7 +8986,7 @@ Ein wichtiger Grund liegt insbesondere vor, wenn ^p-543-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> in einem Zeitraum, der sich über mehr als zwei Termine erstreckt, mit der Entrichtung der Miete in Höhe eines Betrages in Verzug ist, der die Miete für zwei Monate erreicht. ^p-543-abs-2-s-1-nr-3-lit-b
 
-Im Falle des Satzes 1 [[#^p-543-abs-2-s-1-nr-3|Nr. 3]] ist die Kündigung ausgeschlossen, wenn der Vermieter vorher befriedigt wird. ^p-543-abs-2-s-2
+Im Falle des Satzes 1 [[#^p-543-abs-2|Nr. 3]] ist die Kündigung ausgeschlossen, wenn der Vermieter vorher befriedigt wird. ^p-543-abs-2-s-2
 
 Sie wird unwirksam, wenn sich der Mieter von seiner Schuld durch Aufrechnung befreien konnte und unverzüglich nach der Kündigung die Aufrechnung erklärt. ^p-543-abs-2-s-3
 
@@ -8934,11 +9000,11 @@ Dies gilt nicht, wenn ^p-543-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die sofortige Kündigung aus besonderen Gründen unter Abwägung der beiderseitigen Interessen gerechtfertigt ist oder ^p-543-abs-3-s-2-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> der Mieter mit der Entrichtung der Miete im Sinne des Absatzes 2 [[#^p-543-abs-3-s-2-nr-3|Nr. 3]] in Verzug ist. ^p-543-abs-3-s-2-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> der Mieter mit der Entrichtung der Miete im Sinne des Absatzes 2 [[#^p-543-abs-3|Nr. 3]] in Verzug ist. ^p-543-abs-3-s-2-nr-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-543-abs-4
 
-Auf das dem Mieter nach [[#^p-543-abs-2-s-1-nr-1|Absatz 2 Nr. 1]] zustehende Kündigungsrecht sind die [[#^p-536b|§§ 536b]] und [[#^p-536d|536d]] entsprechend anzuwenden. ^p-543-abs-4-s-1
+Auf das dem Mieter nach [[#^p-543-abs-2|Absatz 2 Nr. 1]] zustehende Kündigungsrecht sind die [[#^p-536b|§§ 536b]] und [[#^p-536d|536d]] entsprechend anzuwenden. ^p-543-abs-4-s-1
 
 Ist streitig, ob der Vermieter den Gebrauch der Mietsache rechtzeitig gewährt oder die Abhilfe vor Ablauf der hierzu bestimmten Frist bewirkt hat, so trifft ihn die Beweislast. ^p-543-abs-4-s-2
 
@@ -9052,7 +9118,7 @@ Die Kündigung ist jedoch frühestens zum Ablauf eines Jahres nach Überlassung 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-551-abs-1
 
-Hat der Mieter dem Vermieter für die Erfüllung seiner Pflichten Sicherheit zu leisten, so darf diese vorbehaltlich des Absatzes 3 Satz 4 höchstens das Dreifache der auf einen Monat entfallenden Miete ohne die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten betragen. ^p-551-abs-1-s-1
+Hat der Mieter dem Vermieter für die Erfüllung seiner Pflichten Sicherheit zu leisten, so darf diese vorbehaltlich des Absatzes 3 [[#^p-551-abs-1-s-4|Satz 4]] höchstens das Dreifache der auf einen Monat entfallenden Miete ohne die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten betragen. ^p-551-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-551-abs-2
 
@@ -9154,9 +9220,9 @@ Modernisierungsmaßnahmen sind bauliche Veränderungen, ^p-555b-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart wird (energetische Modernisierung), ^p-555b-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">1a.</span> durch die eine Heizungsanlage im Sinne des § 42 des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung, eingebaut oder aufgestellt wird, ^p-555b-s-1-nr-1a
+<span style="color:var(--text-error,#c52d3d)">1a.</span> durch die eine Heizungsanlage im Sinne des § 42 des Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch [[#^art-4|Artikel 4]] des Gesetzes vom 23. Juli 2026 (BGBl. 2026 I [[#^p-555b|Nr. 226]]) geändert worden ist, in der jeweils geltenden Fassung, eingebaut oder aufgestellt wird, ^p-555b-s-1-nr-1a
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine energetische Modernisierung nach [[#^p-555b-s-1-nr-1|Nummer 1]] vorliegt, ^p-555b-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine energetische Modernisierung nach [[#^p-555b|Nummer 1]] vorliegt, ^p-555b-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> durch die der Wasserverbrauch nachhaltig reduziert wird, ^p-555b-s-1-nr-3
 
@@ -9374,7 +9440,7 @@ Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu tragen und stel
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die Kosten der Wärmelieferung die Betriebskosten für die bisherige Eigenversorgung mit Wärme oder Warmwasser nicht übersteigen. ^p-556c-abs-1-s-1-nr-2
 
-Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant anstelle der Maßnahmen nach [[#^p-556c-abs-1-s-1-nr-1|Nummer 1]] auf die Verbesserung der Betriebsführung der Anlage beschränken. ^p-556c-abs-1-s-2
+Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant anstelle der Maßnahmen nach [[#^p-556c-abs-1|Nummer 1]] auf die Verbesserung der Betriebsführung der Anlage beschränken. ^p-556c-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-556c-abs-2
 
@@ -9436,7 +9502,7 @@ Ferner muss sich aus der Begründung ergeben, welche Maßnahmen die Landesregier
 
 (&#43;&#43;&#43; [[#^p-556d|§ 556d]]: Zur Anwendung vgl. [[#^p-557a|§§ 557a]], [[#^p-557b|557b]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-556d|§ 556d]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-556d|§ 556d]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 556e — Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung ^p-556e
 
@@ -9458,7 +9524,7 @@ Bei der Berechnung nach [[#^p-556e-abs-2-s-1|Satz 1]] ist von der ortsüblichen 
 
 (&#43;&#43;&#43; [[#^p-556e|§ 556e]]: Zur Anwendung vgl. [[#^p-557a|§§ 557a]], [[#^p-557b|557b]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-556e|§ 556e]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-556e|§ 556e]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 556f — Ausnahmen ^p-556f
 
@@ -9472,7 +9538,7 @@ Die [[#^p-556d|§§ 556d]] und [[#^p-556e|556e]] sind nicht anzuwenden auf die e
 
 (&#43;&#43;&#43; [[#^p-556f|§ 556f]]: Zur Anwendung vgl. [[#^p-557a|§§ 557a]], [[#^p-557b|557b]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-556f|§ 556f]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-556f|§ 556f]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 556g — Rechtsfolgen; Auskunft über die Miete ^p-556g
 
@@ -9526,9 +9592,9 @@ Sämtliche Erklärungen nach den [[#^p-556g-abs-1a|Absätzen 1a]] bis [[#^p-556g
 
 (&#43;&#43;&#43; [[#^p-556g|§ 556g]]: Zur Anwendung vgl. [[#^p-557a|§§ 557a]], [[#^p-557b|557b]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-556g|§ 556g]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-556g|§ 556g]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-556g|§ 556g]]: Zur Anwendung vgl. Art. 229 § 49 Abs. 2 BGBEG u. Art. 229 § 51 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-556g|§ 556g]]: Zur Anwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-49-abs-2|§ 49 Abs. 2 BGBEG]] u. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-51|§ 51 BGBEG]] &#43;&#43;&#43;)
 
 ###### Unterkapitel 2 Regelungen über die Miethöhe
 
@@ -9594,7 +9660,7 @@ Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam. ^p-557a-ab
 
 (&#43;&#43;&#43; § 557a Abs. 1 bis 3, 5: Zur Anwendung vgl. [[#^p-578-abs-3-s-1|§ 578 Abs. 3 Satz 1]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-557a-abs-4|§ 557a Abs. 4]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-557a-abs-4|§ 557a Abs. 4]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 557b — Indexmiete ^p-557b
 
@@ -9606,7 +9672,7 @@ Die Vertragsparteien können schriftlich vereinbaren, dass die Miete durch den v
 
 Während der Geltung einer Indexmiete muss die Miete, von Erhöhungen nach den [[#^p-559|§§ 559]] bis [[#^p-560|560]] abgesehen, jeweils mindestens ein Jahr unverändert bleiben. ^p-557b-abs-2-s-1
 
-Eine Erhöhung nach [[#^p-559|§ 559]] oder [[#^p-559e|§ 559e]] kann nur verlangt werden, soweit der Vermieter bauliche Maßnahmen auf Grund von Umständen durchgeführt hat, die er nicht zu vertreten hat, es sei denn, es wurde eine Modernisierungsmaßnahme nach [[#^p-555b-s-1-nr-1a|§ 555b Nummer 1a]] durchgeführt. ^p-557b-abs-2-s-2
+Eine Erhöhung nach [[#^p-559|§ 559]] oder [[#^p-559e|§ 559e]] kann nur verlangt werden, soweit der Vermieter bauliche Maßnahmen auf Grund von Umständen durchgeführt hat, die er nicht zu vertreten hat, es sei denn, es wurde eine Modernisierungsmaßnahme nach [[#^p-555b|§ 555b Nummer 1a]] durchgeführt. ^p-557b-abs-2-s-2
 
 Eine Erhöhung nach [[#^p-558|§ 558]] ist ausgeschlossen. ^p-557b-abs-2-s-3
 
@@ -9630,7 +9696,7 @@ Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam. ^p-557b-ab
 
 (&#43;&#43;&#43; § 557b Abs. 1 bis 3, 5: Zur Anwendung vgl. [[#^p-578-abs-3-s-1|§ 578 Abs. 3 Satz 1]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-557b-abs-4|§ 557b Abs. 4]]: Zur Nichtanwendung vgl. Art. 229 § 35 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-557b-abs-4|§ 557b Abs. 4]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-35|§ 35 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 558 — Mieterhöhung bis zur ortsüblichen Vergleichsmiete ^p-558
 
@@ -9796,7 +9862,7 @@ Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete for
 
 Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 8 Prozent der für die Wohnung aufgewendeten Kosten erhöhen. ^p-559-abs-1-s-1
 
-Im Fall des [[#^p-555b-s-1-nr-4a|§ 555b Nummer 4a]] ist die Erhöhung nur zulässig, wenn der Mieter seinen Anbieter von öffentlich zugänglichen Telekommunikationsdiensten über den errichteten Anschluss frei wählen kann und der Vermieter kein Bereitstellungsentgelt gemäß § 72 des Telekommunikationsgesetzes als Betriebskosten umlegt oder umgelegt hat. ^p-559-abs-1-s-2
+Im Fall des [[#^p-555b|§ 555b Nummer 4a]] ist die Erhöhung nur zulässig, wenn der Mieter seinen Anbieter von öffentlich zugänglichen Telekommunikationsdiensten über den errichteten Anschluss frei wählen kann und der Vermieter kein Bereitstellungsentgelt gemäß § 72 des Telekommunikationsgesetzes als Betriebskosten umlegt oder umgelegt hat. ^p-559-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-559-abs-2
 
@@ -9814,7 +9880,7 @@ Bei Erhöhungen der jährlichen Miete nach [[#^p-559-abs-1|Absatz 1]] darf sich 
 
 Beträgt die monatliche Miete vor der Mieterhöhung weniger als 7 Euro pro Quadratmeter Wohnfläche, so darf sie sich abweichend von [[#^p-559-abs-3a-s-1|Satz 1]] nicht um mehr als 2 Euro je Quadratmeter Wohnfläche erhöhen. ^p-559-abs-3a-s-2
 
-Sind bei einer Modernisierungsmaßnahme, die mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wird und die zu einer Erhöhung der jährlichen Miete nach [[#^p-559-abs-1|Absatz 1]] berechtigt, zugleich die Voraussetzungen des [[#^p-555b-s-1-nr-1|§ 555b Nummer 1]] oder Nummer 1a erfüllt, so darf sich die monatliche Miete insoweit um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen; die [[#^p-559-abs-3a-s-1|Sätze 1]] und [[#^p-559-abs-3a-s-2|2]] bleiben unberührt. ^p-559-abs-3a-s-3
+Sind bei einer Modernisierungsmaßnahme, die mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wird und die zu einer Erhöhung der jährlichen Miete nach [[#^p-559-abs-1|Absatz 1]] berechtigt, zugleich die Voraussetzungen des [[#^p-555b|§ 555b Nummer 1]] oder [[#^p-559-abs-3a|Nummer 1a]] erfüllt, so darf sich die monatliche Miete insoweit um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen; die [[#^p-559-abs-3a-s-1|Sätze 1]] und [[#^p-559-abs-3a-s-2|2]] bleiben unberührt. ^p-559-abs-3a-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-559-abs-4
 
@@ -9824,7 +9890,7 @@ Eine Abwägung nach [[#^p-559-abs-4-s-1|Satz 1]] findet nicht statt, wenn ^p-559
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> die Mietsache lediglich in einen Zustand versetzt wurde, der allgemein üblich ist, oder ^p-559-abs-4-s-2-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte, es sei denn, die Modernisierungsmaßnahme erfüllt auch die Voraussetzungen des [[#^p-555b-s-1-nr-1|§ 555b Nummer 1]] oder Nummer 1a und wurde mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt. ^p-559-abs-4-s-2-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte, es sei denn, die Modernisierungsmaßnahme erfüllt auch die Voraussetzungen des [[#^p-555b|§ 555b Nummer 1]] oder [[#^p-559-abs-4|Nummer 1a]] und wurde mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt. ^p-559-abs-4-s-2-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-559-abs-5
 
@@ -9914,7 +9980,7 @@ Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam. ^p-559b-ab
 
 Als Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären ([[#^p-559-abs-2|§ 559 Absatz 2]]), werden pauschal 30 Prozent der nach [[#^p-559c-abs-1-s-1|Satz 1]] geltend gemachten Kosten abgezogen. ^p-559c-abs-1-s-2
 
-[[#^p-559-abs-4|§ 559 Absatz 4]] und § 559a Absatz 2 Satz 1 bis 3 finden keine Anwendung; dies gilt im Hinblick auf [[#^p-559-abs-4|§ 559 Absatz 4]] nicht, wenn die Modernisierungsmaßnahme auch die Voraussetzungen des [[#^p-555b-s-1-nr-1|§ 555b Nummer 1]] oder Nummer 1a erfüllt und mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wurde. ^p-559c-abs-1-s-3
+[[#^p-559-abs-4|§ 559 Absatz 4]] und § 559a Absatz 2 Satz 1 bis 3 finden keine Anwendung; dies gilt im Hinblick auf [[#^p-559-abs-4|§ 559 Absatz 4]] nicht, wenn die Modernisierungsmaßnahme auch die Voraussetzungen des [[#^p-555b|§ 555b Nummer 1]] oder [[#^p-559c-abs-1|Nummer 1a]] erfüllt und mittels Einbaus oder Aufstellung einer Heizungsanlage zum Zwecke der Inbetriebnahme in einem Gebäude durchgeführt wurde. ^p-559c-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-559c-abs-2
 
@@ -9942,13 +10008,13 @@ Für die Modernisierungsankündigung, die zu einer Mieterhöhung nach dem verein
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Vermieter in der Modernisierungsankündigung angeben muss, dass er von dem vereinfachten Verfahren Gebrauch macht, ^p-559c-abs-5-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> es der Angabe der voraussichtlichen künftigen Betriebskosten nach [[#^p-555c-abs-1-s-2-nr-3|§ 555c Absatz 1 Satz 2 Nummer 3]] nicht bedarf. ^p-559c-abs-5-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> es der Angabe der voraussichtlichen künftigen Betriebskosten nach [[#^p-555c-abs-1-s-2|§ 555c Absatz 1 Satz 2 Nummer 3]] nicht bedarf. ^p-559c-abs-5-s-1-nr-2
 
 **Hinweise und Fußnoten**
 
 (&#43;&#43;&#43; [[#^p-559c|§ 559c]]: Zur Anwendung vgl. [[#^p-578-abs-3-s-1|§ 578 Abs. 3 Satz 1]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-559c|§ 559c]]: Zur Anwendung vgl. Art. 229 § 49 Abs. 1 Satz 3 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-559c|§ 559c]]: Zur Anwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-49-abs-1-s-3|§ 49 Abs. 1 Satz 3 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 559d — Pflichtverletzungen bei Ankündigung oder Durchführung einer baulichen Veränderung ^p-559d
 
@@ -9968,13 +10034,13 @@ Diese Vermutung gilt nicht, wenn der Vermieter darlegt, dass für das Verhalten 
 
 (&#43;&#43;&#43; [[#^p-559d|§ 559d]]: Zur Anwendung vgl. [[#^p-578-abs-3-s-1|§ 578 Abs. 3 Satz 1]] &#43;&#43;&#43;)
 
-(&#43;&#43;&#43; [[#^p-559d|§ 559d]]: Zur Anwendung vgl. Art. 229 § 49 Abs. 1 Satz 4 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-559d|§ 559d]]: Zur Anwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-49-abs-1-s-4|§ 49 Abs. 1 Satz 4 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 559e — Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage ^p-559e
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-559e-abs-1
 
-Hat der Vermieter Modernisierungsmaßnahmen nach [[#^p-555b-s-1-nr-1a|§ 555b Nummer 1a]] durchgeführt, welche die Voraussetzungen für Zuschüsse aus öffentlichen Haushalten dem Grunde nach erfüllen, und dabei Drittmittel nach [[#^p-559a|§ 559a]] in Anspruch genommen, so kann er die jährliche Miete um 10 Prozent der für die Wohnung aufgewendeten Kosten abzüglich der in Anspruch genommenen Drittmittel erhöhen. ^p-559e-abs-1-s-1
+Hat der Vermieter Modernisierungsmaßnahmen nach [[#^p-555b|§ 555b Nummer 1a]] durchgeführt, welche die Voraussetzungen für Zuschüsse aus öffentlichen Haushalten dem Grunde nach erfüllen, und dabei Drittmittel nach [[#^p-559a|§ 559a]] in Anspruch genommen, so kann er die jährliche Miete um 10 Prozent der für die Wohnung aufgewendeten Kosten abzüglich der in Anspruch genommenen Drittmittel erhöhen. ^p-559e-abs-1-s-1
 
 Wenn eine Förderung nicht erfolgt, obwohl die Voraussetzungen für eine Förderung dem Grunde nach erfüllt sind, kann der Vermieter die jährliche Miete nach Maßgabe des [[#^p-559|§ 559]] erhöhen. ^p-559e-abs-1-s-2
 
@@ -9986,7 +10052,7 @@ Dies gilt nicht, soweit Kosten durch den Einbau einer Heizungsanlage im Sinne de
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-559e-abs-3
 
-[[#^p-559-abs-3a-s-1|§ 559 Absatz 3a Satz 1]] ist mit der Maßgabe anwendbar, dass sich im Hinblick auf eine Modernisierungsmaßnahme nach [[#^p-555b-s-1-nr-1a|§ 555b Nummer 1a]] die monatliche Miete um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen darf. ^p-559e-abs-3-s-1
+[[#^p-559-abs-3a-s-1|§ 559 Absatz 3a Satz 1]] ist mit der Maßgabe anwendbar, dass sich im Hinblick auf eine Modernisierungsmaßnahme nach [[#^p-555b|§ 555b Nummer 1a]] die monatliche Miete um nicht mehr als 0,50 Euro je Quadratmeter Wohnfläche innerhalb von sechs Jahren erhöhen darf. ^p-559e-abs-3-s-1
 
 Ist der Vermieter daneben zu Mieterhöhungen nach [[#^p-559-abs-1|§ 559 Absatz 1]] berechtigt, so dürfen die in § 559 Absatz 3a Satz 1 und 2 genannten Grenzen nicht überschritten werden. ^p-559e-abs-3-s-2
 
@@ -10326,13 +10392,13 @@ Die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten sind bei d
 
 Einer Abhilfefrist oder einer Abmahnung nach [[#^p-543-abs-3-s-1|§ 543 Absatz 3 Satz 1]] bedarf es nicht. ^p-569-abs-2a-s-3
 
-Absatz 3 Nummer 2 Satz 1 sowie [[#^p-543-abs-2-s-2|§ 543 Absatz 2 Satz 2]] sind entsprechend anzuwenden. ^p-569-abs-2a-s-4
+[[#^p-569-abs-3|Absatz 3 Nummer 2 Satz 1]] sowie [[#^p-543-abs-2-s-2|§ 543 Absatz 2 Satz 2]] sind entsprechend anzuwenden. ^p-569-abs-2a-s-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-569-abs-3
 
-Ergänzend zu [[#^p-543-abs-2-s-1-nr-3|§ 543 Abs. 2 Satz 1 Nr. 3]] gilt: ^p-569-abs-3-s-1
+Ergänzend zu [[#^p-543-abs-2-s-1|§ 543 Abs. 2 Satz 1 Nr. 3]] gilt: ^p-569-abs-3-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> Im Falle des [[#^p-543-abs-2-s-1-nr-3-lit-a|§ 543 Abs. 2 Satz 1 Nr. 3 Buchstabe a]] ist der rückständige Teil der Miete nur dann als nicht unerheblich anzusehen, wenn er die Miete für einen Monat übersteigt. Dies gilt nicht, wenn der Wohnraum nur zum vorübergehenden Gebrauch vermietet ist. ^p-569-abs-3-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> Im Falle des [[#^p-543-abs-2-s-1|§ 543 Abs. 2 Satz 1 Nr. 3 Buchstabe a]] ist der rückständige Teil der Miete nur dann als nicht unerheblich anzusehen, wenn er die Miete für einen Monat übersteigt. Dies gilt nicht, wenn der Wohnraum nur zum vorübergehenden Gebrauch vermietet ist. ^p-569-abs-3-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> Die Kündigung wird auch dann unwirksam, wenn der Vermieter spätestens bis zum Ablauf von zwei Monaten nach Eintritt der Rechtshängigkeit des Räumungsanspruchs hinsichtlich der fälligen Miete und der fälligen Entschädigung nach [[#^p-546a-abs-1|§ 546a Abs. 1]] befriedigt wird oder sich eine öffentliche Stelle zur Befriedigung verpflichtet. Dies gilt nicht, wenn der Kündigung vor nicht länger als zwei Jahren bereits eine nach [[#^p-569-abs-3-s-1|Satz 1]] unwirksam gewordene Kündigung vorausgegangen ist. ^p-569-abs-3-s-1-nr-2
 
@@ -10368,7 +10434,7 @@ Dies gilt nicht, wenn der Mieter gekündigt hat. ^p-571-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-571-abs-2
 
-Wird dem Mieter nach [[#^p-721|§ 721]] oder § 794a der Zivilprozessordnung eine Räumungsfrist gewährt, so ist er für die Zeit von der Beendigung des Mietverhältnisses bis zum Ablauf der Räumungsfrist zum Ersatz eines weiteren Schadens nicht verpflichtet. ^p-571-abs-2-s-1
+Wird dem Mieter nach [[#^p-721|§ 721]] oder [[Bundesrecht/zpo#^p-794a|§ 794a der Zivilprozessordnung]] eine Räumungsfrist gewährt, so ist er für die Zeit von der Beendigung des Mietverhältnisses bis zum Ablauf der Räumungsfrist zum Ersatz eines weiteren Schadens nicht verpflichtet. ^p-571-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-571-abs-3
 
@@ -10434,7 +10500,7 @@ Die Kündigungsfrist verlängert sich in diesem Fall um drei Monate. ^p-573a-abs
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-573a-abs-2
 
-[[#^p-573a-abs-1|Absatz 1]] gilt entsprechend für Wohnraum innerhalb der vom Vermieter selbst bewohnten Wohnung, sofern der Wohnraum nicht nach [[#^p-549-abs-2-s-1-nr-2|§ 549 Abs. 2 Nr. 2]] vom Mieterschutz ausgenommen ist. ^p-573a-abs-2-s-1
+[[#^p-573a-abs-1|Absatz 1]] gilt entsprechend für Wohnraum innerhalb der vom Vermieter selbst bewohnten Wohnung, sofern der Wohnraum nicht nach [[#^p-549-abs-2|§ 549 Abs. 2 Nr. 2]] vom Mieterschutz ausgenommen ist. ^p-573a-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-573a-abs-3
 
@@ -10492,7 +10558,7 @@ Bei Wohnraum, der nur zum vorübergehenden Gebrauch vermietet worden ist, kann e
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-573c-abs-3
 
-Bei Wohnraum nach [[#^p-549-abs-2-s-1-nr-2|§ 549 Abs. 2 Nr. 2]] ist die Kündigung spätestens am 15. eines Monats zum Ablauf dieses Monats zulässig. ^p-573c-abs-3-s-1
+Bei Wohnraum nach [[#^p-549-abs-2|§ 549 Abs. 2 Nr. 2]] ist die Kündigung spätestens am 15. eines Monats zum Ablauf dieses Monats zulässig. ^p-573c-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-573c-abs-4
 
@@ -10510,7 +10576,7 @@ Kann ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-573d-abs-2
 
-Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach [[#^p-549-abs-2-s-1-nr-2|§ 549 Abs. 2 Nr. 2]] spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). ^p-573d-abs-2-s-1
+Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach [[#^p-549-abs-2|§ 549 Abs. 2 Nr. 2]] spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). ^p-573d-abs-2-s-1
 
 [[#^p-573a-abs-1-s-2|§ 573a Abs. 1 Satz 2]] findet keine Anwendung. ^p-573d-abs-2-s-2
 
@@ -10652,7 +10718,7 @@ Die [[#^p-574|§§ 574]] bis [[#^p-574c|574c]] gelten entsprechend mit der Maßg
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-575a-abs-3
 
-Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach [[#^p-549-abs-2-s-1-nr-2|§ 549 Abs. 2 Nr. 2]] spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). ^p-575a-abs-3-s-1
+Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig, bei Wohnraum nach [[#^p-549-abs-2|§ 549 Abs. 2 Nr. 2]] spätestens am 15. eines Monats zum Ablauf dieses Monats (gesetzliche Frist). ^p-575a-abs-3-s-1
 
 [[#^p-573a-abs-1-s-2|§ 573a Abs. 1 Satz 2]] findet keine Anwendung. ^p-575a-abs-3-s-2
 
@@ -10696,7 +10762,7 @@ Bei der Anwendung der [[#^p-574|§§ 574]] bis [[#^p-574c|574c]] auf Werkmietwoh
 
 Die [[#^p-574|§§ 574]] bis [[#^p-574c|574c]] gelten nicht, wenn ^p-576a-abs-2-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> der Vermieter nach [[#^p-576-abs-1-s-1-nr-2|§ 576 Abs. 1 Nr. 2]] gekündigt hat; ^p-576a-abs-2-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> der Vermieter nach [[#^p-576-abs-1|§ 576 Abs. 1 Nr. 2]] gekündigt hat; ^p-576a-abs-2-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> der Mieter das Dienstverhältnis gelöst hat, ohne dass ihm von dem Dienstberechtigten gesetzlich begründeter Anlass dazu gegeben war, oder der Mieter durch sein Verhalten dem Dienstberechtigten gesetzlich begründeten Anlass zur Auflösung des Dienstverhältnisses gegeben hat. ^p-576a-abs-2-s-1-nr-2
 
@@ -10812,7 +10878,7 @@ Solche Verträge können zusätzlich zu den in [[#^p-575-abs-1-s-1|§ 575 Absatz
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-578-abs-3|§ 578 Abs. 3]]: Zur Nichtanwendung vgl. Art. 229 § 49 Abs. 3 BGBEG &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-578-abs-3|§ 578 Abs. 3]]: Zur Nichtanwendung vgl. [[#^art-229|Art. 229]] [[Bundesrecht/bgbeg#^p-49-abs-3|§ 49 Abs. 3 BGBEG]] &#43;&#43;&#43;)
 
 ###### § 578a — Mietverhältnisse über eingetragene Schiffe ^p-578a
 
@@ -10836,11 +10902,11 @@ Auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, dem Ver
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> [[#^p-535-abs-1-s-2|§ 535 Absatz 1 Satz 2]] und die [[#^p-536|§§ 536]] bis [[#^p-536d|536d]] über die Rechte bei Mängeln und ^p-578b-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-543-abs-2-s-1-nr-1|§ 543 Absatz 2 Satz 1 Nummer 1]] und [[#^p-578b-abs-4|Absatz 4]] über die Rechte bei unterbliebener Bereitstellung. ^p-578b-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-543-abs-2-s-1|§ 543 Absatz 2 Satz 1 Nummer 1]] und [[#^p-578b-abs-4|Absatz 4]] über die Rechte bei unterbliebener Bereitstellung. ^p-578b-abs-1-s-1-nr-2
 
 An die Stelle der nach [[#^p-578b-abs-1-s-1|Satz 1]] nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a. ^p-578b-abs-1-s-2
 
-Der Anwendungsausschluss nach [[#^p-578b-abs-1-s-1-nr-2|Satz 1 Nummer 2]] gilt nicht, wenn der Vertrag die Bereitstellung eines körperlichen Datenträgers zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient. ^p-578b-abs-1-s-3
+Der Anwendungsausschluss nach [[#^p-578b-abs-1-s-1|Satz 1 Nummer 2]] gilt nicht, wenn der Vertrag die Bereitstellung eines körperlichen Datenträgers zum Gegenstand hat, der ausschließlich als Träger digitaler Inhalte dient. ^p-578b-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-578b-abs-2
 
@@ -10904,11 +10970,11 @@ Die Vorschriften über die Beendigung von Verbraucherverträgen über digitale P
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-580a-abs-4
 
-[[#^p-580a-abs-1-s-1-nr-3|Absatz 1 Nr. 3]], Absatz 2 und 3 Nr. 2 sind auch anzuwenden, wenn ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden kann. ^p-580a-abs-4-s-1
+[[#^p-580a-abs-1|Absatz 1 Nr. 3]], Absatz 2 und 3 Nr. 2 sind auch anzuwenden, wenn ein Mietverhältnis außerordentlich mit der gesetzlichen Frist gekündigt werden kann. ^p-580a-abs-4-s-1
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; Die Neubekanntmachung (Bek v. 2.1.2002 I 42) weicht von der dieser vorhergehenden letzten konsolidierten Fassung vom 19.6.2001 wie folgt ab: In [[#^p-580a-abs-1-s-1-nr-3|Abs. 1 Nr. 3]] und [[#^p-580a-abs-2|Abs. 2]] steht jeweils anstelle von "Kalendervierteljahres" jetzt "Kalendervierteljahrs"&#43;&#43;&#43;)
+(&#43;&#43;&#43; Die Neubekanntmachung (Bek v. 2.1.2002 I 42) weicht von der dieser vorhergehenden letzten konsolidierten Fassung vom 19.6.2001 wie folgt ab: In [[#^p-580a-abs-1|Abs. 1 Nr. 3]] und [[#^p-580a-abs-2|Abs. 2]] steht jeweils anstelle von "Kalendervierteljahres" jetzt "Kalendervierteljahrs"&#43;&#43;&#43;)
 
 ##### Untertitel 4 Pachtvertrag
 
@@ -11136,7 +11202,7 @@ Dies gilt nicht, wenn der Pachtvertrag gekündigt ist oder das Pachtverhältnis 
 
 Das Landwirtschaftsgericht kann die Erlaubnis unter Bedingungen und Auflagen ersetzen, insbesondere eine Sicherheitsleistung anordnen sowie Art und Umfang der Sicherheit bestimmen. ^p-590-abs-2-s-5
 
-Ist die Veranlassung für die Sicherheitsleistung weggefallen, so entscheidet auf Antrag das Landwirtschaftsgericht über die Rückgabe der Sicherheit; [[#^p-109|§ 109]] der Zivilprozessordnung gilt entsprechend. ^p-590-abs-2-s-6
+Ist die Veranlassung für die Sicherheitsleistung weggefallen, so entscheidet auf Antrag das Landwirtschaftsgericht über die Rückgabe der Sicherheit; [[Bundesrecht/zpo#^p-109|§ 109 der Zivilprozessordnung]] gilt entsprechend. ^p-590-abs-2-s-6
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-590-abs-3
 
@@ -11204,7 +11270,7 @@ Der Verpächter hat für seine Forderungen aus dem Pachtverhältnis ein Pfandrec
 
 Für künftige Entschädigungsforderungen kann das Pfandrecht nicht geltend gemacht werden. ^p-592-s-2
 
-Das Pfandrecht erstreckt sich nur auf Sachen, die der Pfändung unterliegen; betreibt der Pächter Landwirtschaft, erstreckt sich das Pfandrecht auch auf Sachen im Sinne des § 811 Absatz 1 Nummer 1 Buchstabe b und Tiere im Sinne des § 811 Absatz 1 Nummer 8 Buchstabe b der Zivilprozessordnung. ^p-592-s-3
+Das Pfandrecht erstreckt sich nur auf Sachen, die der Pfändung unterliegen; betreibt der Pächter Landwirtschaft, erstreckt sich das Pfandrecht auch auf Sachen im Sinne des [[#^p-811-abs-1|§ 811 Absatz 1 Nummer 1 Buchstabe b]] und Tiere im Sinne des [[Bundesrecht/zpo#^p-811-abs-1|§ 811 Absatz 1 Nummer 8 Buchstabe b der Zivilprozessordnung]]. ^p-592-s-3
 
 Die Vorschriften der [[#^p-562a|§§ 562a]] bis [[#^p-562c|562c]] gelten entsprechend. ^p-592-s-4
 
@@ -11312,7 +11378,7 @@ Die außerordentliche fristlose Kündigung des Pachtverhältnisses ist in entspr
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-594e-abs-2
 
-Abweichend von [[#^p-543-abs-2-s-1-nr-3-lit-a|§ 543 Abs. 2 Nr. 3 Buchstaben a]] und b liegt ein wichtiger Grund insbesondere vor, wenn der Pächter mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht länger als drei Monate in Verzug ist. ^p-594e-abs-2-s-1
+Abweichend von [[#^p-543-abs-2|§ 543 Abs. 2 Nr. 3 Buchstaben a]] und b liegt ein wichtiger Grund insbesondere vor, wenn der Pächter mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht länger als drei Monate in Verzug ist. ^p-594e-abs-2-s-1
 
 Ist die Pacht nach Zeitabschnitten von weniger als einem Jahr bemessen, so ist die Kündigung erst zulässig, wenn der Pächter für zwei aufeinander folgende Termine mit der Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht in Verzug ist. ^p-594e-abs-2-s-2
 
@@ -11368,7 +11434,7 @@ Ist eine zwölfmonatige oder kürzere Kündigungsfrist vereinbart, so genügt es
 
 Kommt keine Einigung zustande, so entscheidet auf Antrag das Landwirtschaftsgericht über eine Fortsetzung und über die Dauer des Pachtverhältnisses sowie über die Bedingungen, zu denen es fortgesetzt wird. ^p-595-abs-6-s-1
 
-Das Gericht kann die Fortsetzung des Pachtverhältnisses jedoch nur bis zu einem Zeitpunkt anordnen, der die in [[#^p-595-abs-3-s-1-nr-3|Absatz 3 Nr. 3]] genannten Fristen, ausgehend vom Beginn des laufenden Pachtverhältnisses, nicht übersteigt. ^p-595-abs-6-s-2
+Das Gericht kann die Fortsetzung des Pachtverhältnisses jedoch nur bis zu einem Zeitpunkt anordnen, der die in [[#^p-595-abs-3|Absatz 3 Nr. 3]] genannten Fristen, ausgehend vom Beginn des laufenden Pachtverhältnisses, nicht übersteigt. ^p-595-abs-6-s-2
 
 Die Fortsetzung kann auch auf einen Teil der Pachtsache beschränkt werden. ^p-595-abs-6-s-3
 
@@ -11528,7 +11594,7 @@ Der Verleiher kann die Leihe kündigen: ^p-605-s-1
 
 Die Ersatzansprüche des Verleihers wegen Veränderungen oder Verschlechterungen der verliehenen Sache sowie die Ansprüche des Entleihers auf Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten. ^p-606-s-1
 
-Die Vorschriften des § 548 Abs. 1 Satz 2 und 3, Abs. 2 finden entsprechende Anwendung. ^p-606-s-2
+Die Vorschriften des § 548 Abs. 1 Satz 2 und 3, [[#^p-606-abs-2|Abs. 2]] finden entsprechende Anwendung. ^p-606-s-2
 
 #### Titel 7 Sachdarlehensvertrag
 
@@ -11678,7 +11744,7 @@ Der Widerspruch kann gegenüber dem bisherigen Arbeitgeber oder dem neuen Inhabe
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-613a|§ 613a]]: Zur Anwendung im beigetretenen Gebiet vgl. BGBEG Art. 232 § 5 &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-613a|§ 613a]]: Zur Anwendung im beigetretenen Gebiet vgl. BGBEG [[#^art-232|Art. 232]] [[#^p-5|§ 5]] &#43;&#43;&#43;)
 
 ###### § 614 — Fälligkeit der Vergütung ^p-614
 
@@ -11918,7 +11984,7 @@ Der Behandelnde ist verpflichtet, dem Patienten in verständlicher Weise zu Begi
 
 Sind für den Behandelnden Umstände erkennbar, die die Annahme eines Behandlungsfehlers begründen, hat er den Patienten über diese auf Nachfrage oder zur Abwendung gesundheitlicher Gefahren zu informieren. ^p-630c-abs-2-s-2
 
-Ist dem Behandelnden oder einem seiner in [[#^p-52-abs-1|§ 52 Absatz 1]] der Strafprozessordnung bezeichneten Angehörigen ein Behandlungsfehler unterlaufen, darf die Information nach [[#^p-630c-abs-2-s-2|Satz 2]] zu Beweiszwecken in einem gegen den Behandelnden oder gegen seinen Angehörigen geführten Straf- oder Bußgeldverfahren nur mit Zustimmung des Behandelnden verwendet werden. ^p-630c-abs-2-s-3
+Ist dem Behandelnden oder einem seiner in [[Bundesrecht/stpo#^p-52-abs-1|§ 52 Absatz 1 der Strafprozessordnung]] bezeichneten Angehörigen ein Behandlungsfehler unterlaufen, darf die Information nach [[#^p-630c-abs-2-s-2|Satz 2]] zu Beweiszwecken in einem gegen den Behandelnden oder gegen seinen Angehörigen geführten Straf- oder Bußgeldverfahren nur mit Zustimmung des Behandelnden verwendet werden. ^p-630c-abs-2-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-630c-abs-3
 
@@ -11944,7 +12010,7 @@ Kann eine Einwilligung für eine unaufschiebbare Maßnahme nicht rechtzeitig ein
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-630d-abs-2
 
-Die Wirksamkeit der Einwilligung setzt voraus, dass der Patient oder im Fall des Absatzes 1 Satz 2 der zur Einwilligung Berechtigte vor der Einwilligung nach Maßgabe von § 630e Absatz 1 bis 4 aufgeklärt worden ist. ^p-630d-abs-2-s-1
+Die Wirksamkeit der Einwilligung setzt voraus, dass der Patient oder im Fall des Absatzes 1 [[#^p-630d-abs-2-s-2|Satz 2]] der zur Einwilligung Berechtigte vor der Einwilligung nach Maßgabe von § 630e Absatz 1 bis 4 aufgeklärt worden ist. ^p-630d-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-630d-abs-3
 
@@ -12164,7 +12230,7 @@ Ist das Werk mangelhaft, kann der Besteller, wenn die Voraussetzungen der folgen
 
 Die in § 634 Nr. 1, 2 und 4 bezeichneten Ansprüche verjähren ^p-634a-abs-1-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> vorbehaltlich der [[#^p-634a-abs-1-s-1-nr-2|Nummer 2]] in zwei Jahren bei einem Werk, dessen Erfolg in der Herstellung, Wartung oder Veränderung einer Sache oder in der Erbringung von Planungs- oder Überwachungsleistungen hierfür besteht, ^p-634a-abs-1-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> vorbehaltlich der [[#^p-634a-abs-1|Nummer 2]] in zwei Jahren bei einem Werk, dessen Erfolg in der Herstellung, Wartung oder Veränderung einer Sache oder in der Erbringung von Planungs- oder Überwachungsleistungen hierfür besteht, ^p-634a-abs-1-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> in fünf Jahren bei einem Bauwerk und einem Werk, dessen Erfolg in der Erbringung von Planungs- oder Überwachungsleistungen hierfür besteht, und ^p-634a-abs-1-s-1-nr-2
 
@@ -12172,13 +12238,13 @@ Die in § 634 Nr. 1, 2 und 4 bezeichneten Ansprüche verjähren ^p-634a-abs-1-s-
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-634a-abs-2
 
-Die Verjährung beginnt in den Fällen des Absatzes 1 Nr. 1 und 2 mit der Abnahme. ^p-634a-abs-2-s-1
+Die Verjährung beginnt in den Fällen des Absatzes 1 [[#^p-634a-abs-2|Nr. 1]] und [[#^p-634a-abs-2|2]] mit der Abnahme. ^p-634a-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-634a-abs-3
 
 Abweichend von Absatz 1 Nr. 1 und 2 und [[#^p-634a-abs-2|Absatz 2]] verjähren die Ansprüche in der regelmäßigen Verjährungsfrist, wenn der Unternehmer den Mangel arglistig verschwiegen hat. ^p-634a-abs-3-s-1
 
-Im Falle des Absatzes 1 Nr. 2 tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein. ^p-634a-abs-3-s-2
+Im Falle des Absatzes 1 [[#^p-634a-abs-3|Nr. 2]] tritt die Verjährung jedoch nicht vor Ablauf der dort bestimmten Frist ein. ^p-634a-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-634a-abs-4
 
@@ -12292,7 +12358,7 @@ Die Vergütung des Unternehmers für ein Werk, dessen Herstellung der Besteller 
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> soweit das Werk des Bestellers von dem Dritten abgenommen worden ist oder als abgenommen gilt oder ^p-641-abs-2-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> wenn der Unternehmer dem Besteller erfolglos eine angemessene Frist zur Auskunft über die in den [[#^p-641-abs-2-s-1-nr-1|Nummern 1]] und [[#^p-641-abs-2-s-1-nr-2|2]] bezeichneten Umstände bestimmt hat. ^p-641-abs-2-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> wenn der Unternehmer dem Besteller erfolglos eine angemessene Frist zur Auskunft über die in den [[#^p-641-abs-2|Nummern 1]] und [[#^p-641-abs-2|2]] bezeichneten Umstände bestimmt hat. ^p-641-abs-2-s-1-nr-3
 
 Hat der Besteller dem Dritten wegen möglicher Mängel des Werks Sicherheit geleistet, gilt [[#^p-641-abs-2-s-1|Satz 1]] nur, wenn der Unternehmer dem Besteller entsprechende Sicherheit leistet. ^p-641-abs-2-s-2
 
@@ -12444,7 +12510,7 @@ Die [[#^p-641|§§ 641]], [[#^p-644|644]] und [[#^p-645|645]] sind mit der Maßg
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-650-abs-3
 
-Abweichend von Absatz 1 Satz 1 und 2 sind auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, einen herzustellenden körperlichen Datenträger zu liefern, der ausschließlich als Träger digitaler Inhalte dient, [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1 und Absatz 5 bis 7 sowie die [[#^p-476|§§ 476]] und [[#^p-477|477]] über die Rechte bei Mängeln nicht anzuwenden. ^p-650-abs-3-s-1
+Abweichend von Absatz 1 Satz 1 und 2 sind auf einen Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet, einen herzustellenden körperlichen Datenträger zu liefern, der ausschließlich als Träger digitaler Inhalte dient, [[#^p-433-abs-1-s-2|§ 433 Absatz 1 Satz 2]], die §§ 434 bis 442, 475 Absatz 3 Satz 1 und [[#^p-650-abs-5|Absatz 5]] bis [[#^p-650-abs-7|7]] sowie die [[#^p-476|§§ 476]] und [[#^p-477|477]] über die Rechte bei Mängeln nicht anzuwenden. ^p-650-abs-3-s-1
 
 An die Stelle der nach [[#^p-650-abs-3-s-1|Satz 1]] nicht anzuwendenden Vorschriften treten die Vorschriften des Abschnitts 3 Titel 2a. ^p-650-abs-3-s-2
 
@@ -12484,9 +12550,9 @@ Begehrt der Besteller ^p-650b-abs-1-s-1
 
 streben die Vertragsparteien Einvernehmen über die Änderung und die infolge der Änderung zu leistende Mehr- oder Mindervergütung an.
 
-Der Unternehmer ist verpflichtet, ein Angebot über die Mehr- oder Mindervergütung zu erstellen, im Falle einer Änderung nach [[#^p-650b-abs-1-s-1-nr-1|Satz 1 Nummer 1]] jedoch nur, wenn ihm die Ausführung der Änderung zumutbar ist. ^p-650b-abs-1-s-2
+Der Unternehmer ist verpflichtet, ein Angebot über die Mehr- oder Mindervergütung zu erstellen, im Falle einer Änderung nach [[#^p-650b-abs-1-s-1|Satz 1 Nummer 1]] jedoch nur, wenn ihm die Ausführung der Änderung zumutbar ist. ^p-650b-abs-1-s-2
 
-Macht der Unternehmer betriebsinterne Vorgänge für die Unzumutbarkeit einer Anordnung nach [[#^p-650b-abs-1-s-1-nr-1|Absatz 1 Satz 1 Nummer 1]] geltend, trifft ihn die Beweislast hierfür. ^p-650b-abs-1-s-3
+Macht der Unternehmer betriebsinterne Vorgänge für die Unzumutbarkeit einer Anordnung nach [[#^p-650b-abs-1-s-1|Absatz 1 Satz 1 Nummer 1]] geltend, trifft ihn die Beweislast hierfür. ^p-650b-abs-1-s-3
 
 Trägt der Besteller die Verantwortung für die Planung des Bauwerks oder der Außenanlage, ist der Unternehmer nur dann zur Erstellung eines Angebots über die Mehr- oder Mindervergütung verpflichtet, wenn der Besteller die für die Änderung erforderliche Planung vorgenommen und dem Unternehmer zur Verfügung gestellt hat. ^p-650b-abs-1-s-4
 
@@ -12496,7 +12562,7 @@ Begehrt der Besteller eine Änderung, für die dem Unternehmer nach [[#^p-650c-a
 
 Erzielen die Parteien binnen 30 Tagen nach Zugang des Änderungsbegehrens beim Unternehmer keine Einigung nach [[#^p-650b-abs-1|Absatz 1]], kann der Besteller die Änderung in Textform anordnen. ^p-650b-abs-2-s-1
 
-Der Unternehmer ist verpflichtet, der Anordnung des Bestellers nachzukommen, einer Anordnung nach [[#^p-650b-abs-1-s-1-nr-1|Absatz 1 Satz 1 Nummer 1]] jedoch nur, wenn ihm die Ausführung zumutbar ist. ^p-650b-abs-2-s-2
+Der Unternehmer ist verpflichtet, der Anordnung des Bestellers nachzukommen, einer Anordnung nach [[#^p-650b-abs-1-s-1|Absatz 1 Satz 1 Nummer 1]] jedoch nur, wenn ihm die Ausführung zumutbar ist. ^p-650b-abs-2-s-2
 
 [[#^p-650b-abs-1-s-3|Absatz 1 Satz 3]] gilt entsprechend. ^p-650b-abs-2-s-3
 
@@ -12506,7 +12572,7 @@ Der Unternehmer ist verpflichtet, der Anordnung des Bestellers nachzukommen, ein
 
 Die Höhe des Vergütungsanspruchs für den infolge einer Anordnung des Bestellers nach [[#^p-650b-abs-2|§ 650b Absatz 2]] vermehrten oder verminderten Aufwand ist nach den tatsächlich erforderlichen Kosten mit angemessenen Zuschlägen für allgemeine Geschäftskosten, Wagnis und Gewinn zu ermitteln. ^p-650c-abs-1-s-1
 
-Umfasst die Leistungspflicht des Unternehmers auch die Planung des Bauwerks oder der Außenanlage, steht diesem im Fall des [[#^p-650b-abs-1-s-1-nr-2|§ 650b Absatz 1 Satz 1 Nummer 2]] kein Anspruch auf Vergütung für vermehrten Aufwand zu. ^p-650c-abs-1-s-2
+Umfasst die Leistungspflicht des Unternehmers auch die Planung des Bauwerks oder der Außenanlage, steht diesem im Fall des [[#^p-650b-abs-1-s-1|§ 650b Absatz 1 Satz 1 Nummer 2]] kein Anspruch auf Vergütung für vermehrten Aufwand zu. ^p-650c-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-650c-abs-2
 
@@ -12582,7 +12648,7 @@ Die [[#^p-650f-abs-1|Absätze 1]] bis [[#^p-650f-abs-5|5]] finden keine Anwendun
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> Verbraucher ist und es sich um einen Verbraucherbauvertrag nach [[#^p-650i|§ 650i]] oder um einen Bauträgervertrag nach [[#^p-650u|§ 650u]] handelt. ^p-650f-abs-6-s-1-nr-2
 
-[[#^p-650f-abs-6-s-1-nr-2|Satz 1 Nummer 2]] gilt nicht bei Betreuung des Bauvorhabens durch einen zur Verfügung über die Finanzierungsmittel des Bestellers ermächtigten Baubetreuer. ^p-650f-abs-6-s-2
+[[#^p-650f-abs-6-s-1|Satz 1 Nummer 2]] gilt nicht bei Betreuung des Bauvorhabens durch einen zur Verfügung über die Finanzierungsmittel des Bestellers ermächtigten Baubetreuer. ^p-650f-abs-6-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 7</strong></span> ^p-650f-abs-7
 
@@ -12808,7 +12874,7 @@ Verweis zur Überschrift: [[#^p-650|§ 650]]
 
 **Hinweise und Fußnoten**
 
-(&#43;&#43;&#43; [[#^p-651|§ 651]]: Jetzt [[#^p-650|§ 650]] gem. Art. 1 Nr. 24 G v. 28.4.2017 I 969 mWv 1.1.2018 &#43;&#43;&#43;)
+(&#43;&#43;&#43; [[#^p-651|§ 651]]: Jetzt [[#^p-650|§ 650]] gem. [[#^art-1|Art. 1 Nr. 24]] G v. 28.4.2017 I 969 mWv 1.1.2018 &#43;&#43;&#43;)
 
 ##### Untertitel 4 Pauschalreisevertrag, Reisevermittlung und Vermittlung verbundener Reiseleistungen
 
@@ -12842,23 +12908,23 @@ Reiseleistungen im Sinne dieses Gesetzes sind ^p-651a-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> die Vermietung ^p-651a-abs-3-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">a)</span> von vierrädrigen Kraftfahrzeugen gemäß § 3 Absatz 1 der EG-Fahrzeuggenehmigungsverordnung vom 3. Februar 2011 (BGBl. I S. 126), die zuletzt durch Artikel 7 der Verordnung vom 23. März 2017 (BGBl. I S. 522) geändert worden ist, und ^p-651a-abs-3-s-1-nr-3-lit-a
+<span style="color:var(--text-error,#c52d3d)">a)</span> von vierrädrigen Kraftfahrzeugen gemäß § 3 Absatz 1 der EG-Fahrzeuggenehmigungsverordnung vom 3. Februar 2011 (BGBl. I S. 126), die zuletzt durch [[#^art-7|Artikel 7]] der Verordnung vom 23. März 2017 (BGBl. I S. 522) geändert worden ist, und ^p-651a-abs-3-s-1-nr-3-lit-a
 
-<span style="color:var(--text-error,#c52d3d)">b)</span> von Krafträdern der Fahrerlaubnisklasse A gemäß § 6 Absatz 1 der Fahrerlaubnis-Verordnung vom 13. Dezember 2010 (BGBl. I S. 1980), die zuletzt durch Artikel 4 der Verordnung vom 18. Mai 2017 (BGBl. I S. 1282) geändert worden ist, ^p-651a-abs-3-s-1-nr-3-lit-b
+<span style="color:var(--text-error,#c52d3d)">b)</span> von Krafträdern der Fahrerlaubnisklasse A gemäß [[#^p-6-abs-1|§ 6 Absatz 1]] der Fahrerlaubnis-Verordnung vom 13. Dezember 2010 (BGBl. I S. 1980), die zuletzt durch [[#^art-4|Artikel 4]] der Verordnung vom 18. Mai 2017 (BGBl. I S. 1282) geändert worden ist, ^p-651a-abs-3-s-1-nr-3-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> jede touristische Leistung, die nicht Reiseleistung im Sinne der [[#^p-651a-abs-3-s-1-nr-1|Nummern 1]] bis [[#^p-651a-abs-3-s-1-nr-3|3]] ist. ^p-651a-abs-3-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> jede touristische Leistung, die nicht Reiseleistung im Sinne der [[#^p-651a-abs-3|Nummern 1]] bis [[#^p-651a-abs-3|3]] ist. ^p-651a-abs-3-s-1-nr-4
 
 Nicht als Reiseleistungen nach [[#^p-651a-abs-3-s-1|Satz 1]] gelten Reiseleistungen, die wesensmäßig Bestandteil einer anderen Reiseleistung sind. ^p-651a-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-651a-abs-4
 
-Keine Pauschalreise liegt vor, wenn nur eine Art von Reiseleistung im Sinne des Absatzes 3 Satz 1 Nummer 1 bis 3 mit einer oder mehreren touristischen Leistungen im Sinne des Absatzes 3 Satz 1 Nummer 4 zusammengestellt wird und die touristischen Leistungen ^p-651a-abs-4-s-1
+Keine Pauschalreise liegt vor, wenn nur eine Art von Reiseleistung im Sinne des Absatzes 3 Satz 1 Nummer 1 bis 3 mit einer oder mehreren touristischen Leistungen im Sinne des Absatzes 3 [[#^p-651a-abs-4-s-1|Satz 1 Nummer 4]] zusammengestellt wird und die touristischen Leistungen ^p-651a-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> keinen erheblichen Anteil am Gesamtwert der Zusammenstellung ausmachen und weder ein wesentliches Merkmal der Zusammenstellung darstellen noch als solches beworben werden oder ^p-651a-abs-4-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> erst nach Beginn der Erbringung einer Reiseleistung im Sinne des Absatzes 3 Satz 1 Nummer 1 bis 3 ausgewählt und vereinbart werden. ^p-651a-abs-4-s-1-nr-2
 
-Touristische Leistungen machen im Sinne des Satzes 1 [[#^p-651a-abs-4-s-1-nr-1|Nummer 1]] keinen erheblichen Anteil am Gesamtwert der Zusammenstellung aus, wenn auf sie weniger als 25 Prozent des Gesamtwertes entfallen. ^p-651a-abs-4-s-2
+Touristische Leistungen machen im Sinne des Satzes 1 [[#^p-651a-abs-4|Nummer 1]] keinen erheblichen Anteil am Gesamtwert der Zusammenstellung aus, wenn auf sie weniger als 25 Prozent des Gesamtwertes entfallen. ^p-651a-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-651a-abs-5
 
@@ -12886,7 +12952,7 @@ Ein Unternehmer kann sich jedoch nicht darauf berufen, nur Verträge mit den Per
 
 In diesen Fällen ist der Unternehmer Reiseveranstalter. ^p-651b-abs-1-s-3
 
-Der Buchungsvorgang im Sinne des Satzes 2 [[#^p-651b-abs-1-s-2-nr-1|Nummer 1]] beginnt noch nicht, wenn der Reisende hinsichtlich seines Reisewunsches befragt wird und zu Reiseangeboten lediglich beraten wird. ^p-651b-abs-1-s-4
+Der Buchungsvorgang im Sinne des Satzes 2 [[#^p-651b-abs-1|Nummer 1]] beginnt noch nicht, wenn der Reisende hinsichtlich seines Reisewunsches befragt wird und zu Reiseangeboten lediglich beraten wird. ^p-651b-abs-1-s-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-651b-abs-2
 
@@ -12898,7 +12964,7 @@ Vertriebsstellen im Sinne dieses Gesetzes sind ^p-651b-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> Telefondienste. ^p-651b-abs-2-s-1-nr-3
 
-Wird bei mehreren Webseiten und ähnlichen Online-Verkaufsplattformen nach [[#^p-651b-abs-2-s-1-nr-2|Satz 1 Nummer 2]] der Anschein eines einheitlichen Auftritts begründet, handelt es sich um eine Vertriebsstelle. ^p-651b-abs-2-s-2
+Wird bei mehreren Webseiten und ähnlichen Online-Verkaufsplattformen nach [[#^p-651b-abs-2-s-1|Satz 1 Nummer 2]] der Anschein eines einheitlichen Auftritts begründet, handelt es sich um eine Vertriebsstelle. ^p-651b-abs-2-s-2
 
 ###### § 651c — Verbundene Online-Buchungsverfahren ^p-651c
 
@@ -12918,7 +12984,7 @@ Kommen nach [[#^p-651c-abs-1|Absatz 1]] ein Vertrag über eine andere Art von Re
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-651c-abs-3
 
-[[#^p-651a-abs-5-s-1-nr-2|§ 651a Absatz 5 Nummer 2]] ist unabhängig von der Höhe des Reisepreises anzuwenden. ^p-651c-abs-3-s-1
+[[#^p-651a-abs-5|§ 651a Absatz 5 Nummer 2]] ist unabhängig von der Höhe des Reisepreises anzuwenden. ^p-651c-abs-3-s-1
 
 ###### § 651d — Informationspflichten; Vertragsinhalt ^p-651d
 
@@ -12930,15 +12996,15 @@ Er erfüllt damit zugleich die Verpflichtungen des Reisevermittlers aus [[#^p-65
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-651d-abs-2
 
-Dem Reisenden fallen zusätzliche Gebühren, Entgelte und sonstige Kosten nur dann zur Last, wenn er über diese vor Abgabe seiner Vertragserklärung gemäß Artikel 250 § 3 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert worden ist. ^p-651d-abs-2-s-1
+Dem Reisenden fallen zusätzliche Gebühren, Entgelte und sonstige Kosten nur dann zur Last, wenn er über diese vor Abgabe seiner Vertragserklärung gemäß [[#^art-250|Artikel 250]] § 3 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert worden ist. ^p-651d-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-651d-abs-3
 
-Die gemäß Artikel 250 § 3 Nummer 1, 3 bis 5 und 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gemachten Angaben werden Inhalt des Vertrags, es sei denn, die Vertragsparteien haben ausdrücklich etwas anderes vereinbart. ^p-651d-abs-3-s-1
+Die gemäß [[#^art-250|Artikel 250]] § 3 Nummer 1, 3 bis 5 und 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gemachten Angaben werden Inhalt des Vertrags, es sei denn, die Vertragsparteien haben ausdrücklich etwas anderes vereinbart. ^p-651d-abs-3-s-1
 
 Der Reiseveranstalter hat dem Reisenden bei oder unverzüglich nach Vertragsschluss nach Maßgabe des Artikels 250 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche eine Abschrift oder Bestätigung des Vertrags zur Verfügung zu stellen. ^p-651d-abs-3-s-2
 
-Er hat dem Reisenden rechtzeitig vor Reisebeginn gemäß Artikel 250 § 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die notwendigen Reiseunterlagen zu übermitteln. ^p-651d-abs-3-s-3
+Er hat dem Reisenden rechtzeitig vor Reisebeginn gemäß [[#^art-250|Artikel 250]] § 7 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die notwendigen Reiseunterlagen zu übermitteln. ^p-651d-abs-3-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-651d-abs-4
 
@@ -12946,7 +13012,7 @@ Der Reiseveranstalter trägt gegenüber dem Reisenden die Beweislast für die Er
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-651d-abs-5
 
-Bei Pauschalreiseverträgen nach [[#^p-651c|§ 651c]] gelten für den als Reiseveranstalter anzusehenden Unternehmer sowie für jeden anderen Unternehmer, dem nach [[#^p-651c-abs-1-s-1-nr-2|§ 651c Absatz 1 Nummer 2]] Daten übermittelt werden, die besonderen Vorschriften des Artikels 250 §§ 4 und 8 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche. ^p-651d-abs-5-s-1
+Bei Pauschalreiseverträgen nach [[#^p-651c|§ 651c]] gelten für den als Reiseveranstalter anzusehenden Unternehmer sowie für jeden anderen Unternehmer, dem nach [[#^p-651c-abs-1|§ 651c Absatz 1 Nummer 2]] Daten übermittelt werden, die besonderen Vorschriften des Artikels 250 §§ 4 und 8 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche. ^p-651d-abs-5-s-1
 
 Im Übrigen bleiben die vorstehenden Absätze unberührt. ^p-651d-abs-5-s-2
 
@@ -13002,11 +13068,11 @@ Eine Änderung ist nur wirksam, wenn sie diesen Anforderungen entspricht und vor
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-651f-abs-3
 
-[[#^p-308-s-1-nr-4|§ 308 Nummer 4]] und [[#^p-309-s-1-nr-1|§ 309 Nummer 1]] sind auf Änderungsvorbehalte nach den [[#^p-651f-abs-1|Absätzen 1]] und [[#^p-651f-abs-2|2]], die durch vorformulierte Vertragsbedingungen vereinbart werden, nicht anzuwenden. ^p-651f-abs-3-s-1
+[[#^p-308|§ 308 Nummer 4]] und [[#^p-309|§ 309 Nummer 1]] sind auf Änderungsvorbehalte nach den [[#^p-651f-abs-1|Absätzen 1]] und [[#^p-651f-abs-2|2]], die durch vorformulierte Vertragsbedingungen vereinbart werden, nicht anzuwenden. ^p-651f-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-651f-abs-4
 
-Sieht der Vertrag die Möglichkeit einer Erhöhung des Reisepreises vor, kann der Reisende eine Senkung des Reisepreises verlangen, wenn und soweit sich die in [[#^p-651f-abs-1-s-1-nr-2|Absatz 1 Satz 1 Nummer 2]] genannten Preise, Abgaben oder Wechselkurse nach Vertragsschluss und vor Reisebeginn geändert haben und dies zu niedrigeren Kosten für den Reiseveranstalter führt. ^p-651f-abs-4-s-1
+Sieht der Vertrag die Möglichkeit einer Erhöhung des Reisepreises vor, kann der Reisende eine Senkung des Reisepreises verlangen, wenn und soweit sich die in [[#^p-651f-abs-1-s-1|Absatz 1 Satz 1 Nummer 2]] genannten Preise, Abgaben oder Wechselkurse nach Vertragsschluss und vor Reisebeginn geändert haben und dies zu niedrigeren Kosten für den Reiseveranstalter führt. ^p-651f-abs-4-s-1
 
 Hat der Reisende mehr als den hiernach geschuldeten Betrag gezahlt, ist der Mehrbetrag vom Reiseveranstalter zu erstatten. ^p-651f-abs-4-s-2
 
@@ -13026,7 +13092,7 @@ Er kann dem Reisenden jedoch eine entsprechende Preiserhöhung anbieten und verl
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> seinen Rücktritt vom Vertrag erklärt. ^p-651g-abs-1-s-2-nr-2
 
-[[#^p-651g-abs-1-s-2|Satz 2]] gilt für andere Vertragsänderungen als Preiserhöhungen entsprechend, wenn der Reiseveranstalter die Pauschalreise aus einem nach Vertragsschluss eingetretenen Umstand nur unter erheblicher Änderung einer der wesentlichen Eigenschaften der Reiseleistungen (Artikel 250 § 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) oder nur unter Abweichung von besonderen Vorgaben des Reisenden, die Inhalt des Vertrags geworden sind, verschaffen kann. ^p-651g-abs-1-s-3
+[[#^p-651g-abs-1-s-2|Satz 2]] gilt für andere Vertragsänderungen als Preiserhöhungen entsprechend, wenn der Reiseveranstalter die Pauschalreise aus einem nach Vertragsschluss eingetretenen Umstand nur unter erheblicher Änderung einer der wesentlichen Eigenschaften der Reiseleistungen ([[#^art-250|Artikel 250]] § 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) oder nur unter Abweichung von besonderen Vorgaben des Reisenden, die Inhalt des Vertrags geworden sind, verschaffen kann. ^p-651g-abs-1-s-3
 
 Das Angebot zu einer Preiserhöhung kann nicht später als 20 Tage vor Reisebeginn, das Angebot zu sonstigen Vertragsänderungen nicht nach Reisebeginn unterbreitet werden. ^p-651g-abs-1-s-4
 
@@ -13040,7 +13106,7 @@ Nach dem Ablauf der vom Reiseveranstalter bestimmten Frist gilt das Angebot zur 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-651g-abs-3
 
-Tritt der Reisende vom Vertrag zurück, findet [[#^p-651h-abs-1-s-2|§ 651h Absatz 1 Satz 2]] und Absatz 5 entsprechende Anwendung; Ansprüche des Reisenden nach [[#^p-651i-abs-3-s-1-nr-7|§ 651i Absatz 3 Nummer 7]] bleiben unberührt. ^p-651g-abs-3-s-1
+Tritt der Reisende vom Vertrag zurück, findet [[#^p-651h-abs-1-s-2|§ 651h Absatz 1 Satz 2]] und [[#^p-651g-abs-5|Absatz 5]] entsprechende Anwendung; Ansprüche des Reisenden nach [[#^p-651i-abs-3|§ 651i Absatz 3 Nummer 7]] bleiben unberührt. ^p-651g-abs-3-s-1
 
 Nimmt er das Angebot zur Vertragsänderung oder zur Teilnahme an einer Ersatzreise an und ist die Pauschalreise im Vergleich zur ursprünglich geschuldeten nicht von mindestens gleichwertiger Beschaffenheit, gilt [[#^p-651m|§ 651m]] entsprechend; ist sie von gleichwertiger Beschaffenheit, aber für den Reiseveranstalter mit geringeren Kosten verbunden, ist im Hinblick auf den Unterschiedsbetrag [[#^p-651m-abs-2|§ 651m Absatz 2]] entsprechend anzuwenden. ^p-651g-abs-3-s-2
 
@@ -13176,7 +13242,7 @@ Der Reiseveranstalter kann sich auf die Begrenzung des Zeitraums auf höchstens 
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> der Reisende gehört zu einem der folgenden Personenkreise und der Reiseveranstalter wurde mindestens 48 Stunden vor Reisebeginn von den besonderen Bedürfnissen des Reisenden in Kenntnis gesetzt: ^p-651k-abs-5-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">a)</span> Personen mit eingeschränkter Mobilität im Sinne des Artikels 2 [[#^p-651k-abs-5-s-1-nr-2-lit-a|Buchstabe a]] der Verordnung (EG) Nr. 1107/2006 des Europäischen Parlaments und des Rates vom 5. Juli 2006 über die Rechte von behinderten Flugreisenden und Flugreisenden mit eingeschränkter Mobilität (ABl. L 204 vom 26.7.2006, S. 1; L 26 vom 26.1.2013, S. 34) und deren Begleitpersonen, ^p-651k-abs-5-s-1-nr-2-lit-a
+<span style="color:var(--text-error,#c52d3d)">a)</span> Personen mit eingeschränkter Mobilität im Sinne des Artikels 2 [[#^p-651k-abs-5|Buchstabe a]] der Verordnung (EG) [[#^p-651k-abs-5|Nr. 1107]]/2006 des Europäischen Parlaments und des Rates vom 5. Juli 2006 über die Rechte von behinderten Flugreisenden und Flugreisenden mit eingeschränkter Mobilität (ABl. L 204 vom 26.7.2006, S. 1; L 26 vom 26.1.2013, S. 34) und deren Begleitpersonen, ^p-651k-abs-5-s-1-nr-2-lit-a
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> Schwangere, ^p-651k-abs-5-s-1-nr-2-lit-b
 
@@ -13272,15 +13338,15 @@ Gelten für eine Reiseleistung internationale Übereinkünfte oder auf solchen b
 
 Hat der Reisende gegen den Reiseveranstalter Anspruch auf Schadensersatz oder auf Erstattung eines infolge einer Minderung zu viel gezahlten Betrages, so muss sich der Reisende den Betrag anrechnen lassen, den er aufgrund desselben Ereignisses als Entschädigung oder als Erstattung infolge einer Minderung nach Maßgabe internationaler Übereinkünfte oder von auf solchen beruhenden gesetzlichen Vorschriften erhalten hat oder nach Maßgabe ^p-651p-abs-3-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) Nr. 295/91 (ABl. L 46 vom 17.2.2004, S. 1), ^p-651p-abs-3-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> der Verordnung (EG) [[#^p-651p-abs-3|Nr. 261]]/2004 des Europäischen Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) [[#^p-651p-abs-3|Nr. 295]]/91 (ABl. L 46 vom 17.2.2004, S. 1), ^p-651p-abs-3-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. L 172 vom 17.5.2021, S. 1), ^p-651p-abs-3-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24), ^p-651p-abs-3-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> der Verordnung (EG) [[#^p-651p-abs-3|Nr. 392]]/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24), ^p-651p-abs-3-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 über die Fahrgastrechte im See- und Binnenschiffsverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 334 vom 17.12.2010, S. 1) oder ^p-651p-abs-3-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> der Verordnung (EU) [[#^p-651p-abs-3|Nr. 1177]]/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 über die Fahrgastrechte im See- und Binnenschiffsverkehr und zur Änderung der Verordnung (EG) [[#^p-651p-abs-3|Nr. 2006]]/2004 (ABl. L 334 vom 17.12.2010, S. 1) oder ^p-651p-abs-3-s-1-nr-4
 
-<span style="color:var(--text-error,#c52d3d)">5.</span> der Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom 28.2.2011, S. 1). ^p-651p-abs-3-s-1-nr-5
+<span style="color:var(--text-error,#c52d3d)">5.</span> der Verordnung (EU) [[#^p-651p-abs-3|Nr. 181]]/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) [[#^p-651p-abs-3|Nr. 2006]]/2004 (ABl. L 55 vom 28.2.2011, S. 1). ^p-651p-abs-3-s-1-nr-5
 
 Hat der Reisende vom Reiseveranstalter bereits Schadensersatz erhalten oder ist ihm infolge einer Minderung vom Reiseveranstalter bereits ein Betrag erstattet worden, so muss er sich den erhaltenen Betrag auf dasjenige anrechnen lassen, was ihm aufgrund desselben Ereignisses als Entschädigung oder als Erstattung infolge einer Minderung nach Maßgabe internationaler Übereinkünfte oder von auf solchen beruhenden gesetzlichen Vorschriften oder nach Maßgabe der in [[#^p-651p-abs-3-s-1|Satz 1]] genannten Verordnungen geschuldet ist. ^p-651p-abs-3-s-2
 
@@ -13342,15 +13408,15 @@ Versicherer und Kreditinstitute können ihre aus Verträgen nach Absatz 2 Satz 2
 
 Zur Erfüllung seiner Verpflichtungen nach [[#^p-651r-abs-1|Absatz 1]] hat der Reiseveranstalter dem Reisenden einen unmittelbaren Anspruch gegen den Absicherer zu verschaffen und durch eine von diesem oder auf dessen Veranlassung gemäß Artikel 252 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ausgestellte Bestätigung (Sicherungsschein) nachzuweisen. ^p-651r-abs-4-s-1
 
-Der im Vertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannte Absicherer kann sich gegenüber dem Reisenden weder auf Einwendungen aus dem Absicherungsvertrag berufen noch auf dessen Beendigung, wenn die Beendigung nach Abschluss des Pauschalreisevertrags erfolgt ist. ^p-651r-abs-4-s-2
+Der im Vertrag gemäß [[#^art-250|Artikel 250]] § 6 Absatz 2 Nummer 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannte Absicherer kann sich gegenüber dem Reisenden weder auf Einwendungen aus dem Absicherungsvertrag berufen noch auf dessen Beendigung, wenn die Beendigung nach Abschluss des Pauschalreisevertrags erfolgt ist. ^p-651r-abs-4-s-2
 
 In den Fällen des Satzes 2 geht der Anspruch des Reisenden gegen den Reiseveranstalter auf den Absicherer über, soweit dieser den Reisenden befriedigt. ^p-651r-abs-4-s-3
 
 ###### § 651s — Insolvenzsicherung der im Europäischen Wirtschaftsraum niedergelassenen Reiseveranstalter ^p-651s
 
-Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung in einem anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, so genügt er seiner Verpflichtung zur Insolvenzsicherung auch dann, wenn er dem Reisenden Sicherheit in Übereinstimmung mit den Vorschriften dieses anderen Staates zur Umsetzung des Artikels 17 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. ^p-651s-s-1
+Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des [[#^p-4-abs-3|§ 4 Absatz 3]] der Gewerbeordnung in einem anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, so genügt er seiner Verpflichtung zur Insolvenzsicherung auch dann, wenn er dem Reisenden Sicherheit in Übereinstimmung mit den Vorschriften dieses anderen Staates zur Umsetzung des Artikels 17 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. ^p-651s-s-1
 
-November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1) leistet. ^p-651s-s-2
+November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) [[#^p-651s|Nr. 2006]]/2004 und der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1) leistet. ^p-651s-s-2
 
 ###### § 651t — Rückbeförderung; Vorauszahlungen ^p-651t
 
@@ -13408,7 +13474,7 @@ Der Reisevermittler trägt gegenüber dem Reisenden die Beweislast für die Erf�
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-651v-abs-2
 
-Für die Annahme von Zahlungen auf den Reisepreis durch den Reisevermittler gilt [[#^p-651t-s-1-nr-2|§ 651t Nummer 2]] entsprechend. ^p-651v-abs-2-s-1
+Für die Annahme von Zahlungen auf den Reisepreis durch den Reisevermittler gilt [[#^p-651t|§ 651t Nummer 2]] entsprechend. ^p-651v-abs-2-s-1
 
 Ein Reisevermittler gilt als vom Reiseveranstalter zur Annahme von Zahlungen auf den Reisepreis ermächtigt, wenn er dem Reisenden eine den Anforderungen des Artikels 250 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechende Abschrift oder Bestätigung des Vertrags zur Verfügung stellt oder sonstige dem Reiseveranstalter zuzurechnende Umstände ergeben, dass er von diesem damit betraut ist, Pauschalreiseverträge für ihn zu vermitteln. ^p-651v-abs-2-s-2
 
@@ -13438,11 +13504,11 @@ Ein Unternehmer ist Vermittler verbundener Reiseleistungen, wenn er für den Zwe
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> dem Reisenden, mit dem er einen Vertrag über eine Reiseleistung geschlossen hat oder dem er einen solchen Vertrag vermittelt hat, in gezielter Weise mindestens einen Vertrag mit einem anderen Unternehmer über eine andere Art von Reiseleistung vermittelt und der weitere Vertrag spätestens 24 Stunden nach der Bestätigung des Vertragsschlusses über die erste Reiseleistung geschlossen wird. ^p-651w-abs-1-s-1-nr-2
 
-Eine Vermittlung in gezielter Weise im Sinne des Satzes 1 [[#^p-651w-abs-1-s-1-nr-2|Nummer 2]] liegt insbesondere dann nicht vor, wenn der Unternehmer den Reisenden lediglich mit einem anderen Unternehmer in Kontakt bringt. ^p-651w-abs-1-s-2
+Eine Vermittlung in gezielter Weise im Sinne des Satzes 1 [[#^p-651w-abs-1|Nummer 2]] liegt insbesondere dann nicht vor, wenn der Unternehmer den Reisenden lediglich mit einem anderen Unternehmer in Kontakt bringt. ^p-651w-abs-1-s-2
 
-Im Übrigen findet auf [[#^p-651w-abs-1-s-1|Satz 1]] [[#^p-651a-abs-4-s-1-nr-1|§ 651a Absatz 4 Satz 1 Nummer 1]], [[#^p-651w-abs-1-s-2|Satz 2]] und Absatz 5 Nummer 1 und 3 entsprechende Anwendung. ^p-651w-abs-1-s-3
+Im Übrigen findet auf [[#^p-651w-abs-1-s-1|Satz 1]] [[#^p-651a-abs-4-s-1|§ 651a Absatz 4 Satz 1 Nummer 1]], [[#^p-651w-abs-1-s-2|Satz 2]] und Absatz 5 Nummer 1 und 3 entsprechende Anwendung. ^p-651w-abs-1-s-3
 
-[[#^p-651a-abs-5-s-1-nr-2|§ 651a Absatz 5 Nummer 2]] ist unabhängig von der Höhe des Reisepreises entsprechend anzuwenden. ^p-651w-abs-1-s-4
+[[#^p-651a-abs-5|§ 651a Absatz 5 Nummer 2]] ist unabhängig von der Höhe des Reisepreises entsprechend anzuwenden. ^p-651w-abs-1-s-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-651w-abs-2
 
@@ -13478,7 +13544,7 @@ Der Reisende hat Anspruch auf Ersatz des Schadens, ^p-651x-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der ihm durch einen technischen Fehler im Buchungssystem des Reiseveranstalters, Reisevermittlers, Vermittlers verbundener Reiseleistungen oder eines Leistungserbringers entsteht, es sei denn, der jeweilige Unternehmer hat den technischen Fehler nicht zu vertreten, ^p-651x-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> den einer der in [[#^p-651x-s-1-nr-1|Nummer 1]] genannten Unternehmer durch einen Fehler während des Buchungsvorgangs verursacht hat, es sei denn, der Fehler ist vom Reisenden verschuldet oder wurde durch unvermeidbare, außergewöhnliche Umstände verursacht. ^p-651x-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> den einer der in [[#^p-651x|Nummer 1]] genannten Unternehmer durch einen Fehler während des Buchungsvorgangs verursacht hat, es sei denn, der Fehler ist vom Reisenden verschuldet oder wurde durch unvermeidbare, außergewöhnliche Umstände verursacht. ^p-651x-s-1-nr-2
 
 ###### § 651y — Abweichende Vereinbarungen ^p-651y
 
@@ -13540,9 +13606,9 @@ Für einen Vertrag, nach dem es ein Unternehmer unternimmt, einem Verbraucher ^p
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> gegen eine vom Verbraucher oder einem Dritten zu leistende Vergütung einen Verbraucherdarlehensvertrag oder eine entgeltliche Finanzierungshilfe zu vermitteln, ^p-655a-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> die Gelegenheit zum Abschluss eines Vertrags nach [[#^p-655a-abs-1-s-1-nr-1|Nummer 1]] nachzuweisen oder ^p-655a-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> die Gelegenheit zum Abschluss eines Vertrags nach [[#^p-655a-abs-1|Nummer 1]] nachzuweisen oder ^p-655a-abs-1-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> auf andere Weise beim Abschluss eines Vertrags nach [[#^p-655a-abs-1-s-1-nr-1|Nummer 1]] behilflich zu sein, ^p-655a-abs-1-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> auf andere Weise beim Abschluss eines Vertrags nach [[#^p-655a-abs-1|Nummer 1]] behilflich zu sein, ^p-655a-abs-1-s-1-nr-3
 
 gelten vorbehaltlich des Satzes 2 die folgenden Vorschriften dieses Untertitels.
 
@@ -13550,7 +13616,7 @@ Bei entgeltlichen Finanzierungshilfen, die den Ausnahmen des § 491 Absatz 2 Sat
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-655a-abs-2
 
-Der Darlehensvermittler ist verpflichtet, den Verbraucher nach Maßgabe des Artikels 247 § 13 Absatz 2 und § 13b Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. ^p-655a-abs-2-s-1
+Der Darlehensvermittler ist verpflichtet, den Verbraucher nach Maßgabe des Artikels 247 [[#^p-13-abs-2|§ 13 Absatz 2]] und § 13b Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. ^p-655a-abs-2-s-1
 
 Der Darlehensvermittler ist gegenüber dem Verbraucher zusätzlich wie ein Darlehensgeber gemäß [[#^p-491a|§ 491a]] verpflichtet. ^p-655a-abs-2-s-2
 
@@ -13576,7 +13642,7 @@ Der Darlehensvermittler hat dem Verbraucher den Vertragsinhalt in Textform mitzu
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-655b-abs-2
 
-Ein Darlehensvermittlungsvertrag mit einem Verbraucher, der den Anforderungen des Absatzes 1 [[#^p-655b-abs-2-s-1|Satz 1]] und 2 nicht genügt oder vor dessen Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 sowie § 13b Absatz 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden sind, ist nichtig. ^p-655b-abs-2-s-1
+Ein Darlehensvermittlungsvertrag mit einem Verbraucher, der den Anforderungen des Absatzes 1 [[#^p-655b-abs-2-s-1|Satz 1]] und [[#^p-655b-abs-2-s-2|2]] nicht genügt oder vor dessen Abschluss die Pflichten aus [[#^art-247|Artikel 247]] [[#^p-13-abs-2|§ 13 Abs. 2]] sowie § 13b Absatz 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden sind, ist nichtig. ^p-655b-abs-2-s-1
 
 ###### § 655c — Vergütung ^p-655c
 
@@ -13590,7 +13656,7 @@ Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung des Verbra
 
 Jedoch kann vereinbart werden, dass dem Darlehensvermittler entstandene, erforderliche Auslagen zu erstatten sind. ^p-655d-s-2
 
-Dieser Anspruch darf die Höhe oder die Höchstbeträge, die der Darlehensvermittler dem Verbraucher gemäß Artikel 247 § 13 Absatz 2 Satz 1 Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht übersteigen. ^p-655d-s-3
+Dieser Anspruch darf die Höhe oder die Höchstbeträge, die der Darlehensvermittler dem Verbraucher gemäß [[#^art-247|Artikel 247]] § 13 Absatz 2 Satz 1 Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht übersteigen. ^p-655d-s-3
 
 ###### § 655e — Abweichende Vereinbarungen, Anwendung auf Existenzgründer ^p-655e
 
@@ -13834,6 +13900,10 @@ Erlischt der Auftrag in anderer Weise als durch Widerruf, so gilt er zugunsten d
 
 <strong>Amtlicher Hinweis:</strong><br>Dieser Untertitel dient der Umsetzung<dl><dt>1.</dt><dd>der Richtlinie 97/5/EG des Europäischen Parlaments und des Rates vom 27. Januar 1997 über grenzüberschreitende Überweisungen (ABl. EG Nr. L 43 S. 25) und</dd><dt>2.</dt><dd>Artikel 3 bis 5 der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates über die Wirksamkeit von Abrechnungen in Zahlungs- und Wertpapierliefer- und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG Nr. L 166 S. 45).</dd></dl>
 
+Verweis: [[#^art-3|Artikel 3]]
+
+Verweis: [[#^art-5|5]]
+
 ###### § 675 — Entgeltliche Geschäftsbesorgung ^p-675
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-675-abs-1
@@ -13888,11 +13958,11 @@ Die Vorschriften dieses Untertitels sind mit Ausnahme von [[#^p-675d-abs-2-s-2|�
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-675d-abs-1
 
-Zahlungsdienstleister haben Zahlungsdienstnutzer bei der Erbringung von Zahlungsdiensten über die in Artikel 248 §§ 1 bis 12, 13 Absatz 1, 3 bis 5 und §§ 14 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der dort vorgesehenen Form zu unterrichten. ^p-675d-abs-1-s-1
+Zahlungsdienstleister haben Zahlungsdienstnutzer bei der Erbringung von Zahlungsdiensten über die in [[#^art-248|Artikel 248]] §§ 1 bis 12, 13 Absatz 1, 3 bis 5 und §§ 14 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der dort vorgesehenen Form zu unterrichten. ^p-675d-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-675d-abs-2
 
-Zahlungsauslösedienstleister haben Zahler ausschließlich über die in Artikel 248 § 13 Absatz 1 bis 3 und § 13a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der Form zu unterrichten, die in Artikel 248 §§ 2 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen ist. ^p-675d-abs-2-s-1
+Zahlungsauslösedienstleister haben Zahler ausschließlich über die in [[#^art-248|Artikel 248]] § 13 Absatz 1 bis 3 und § 13a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände in der Form zu unterrichten, die in [[#^art-248|Artikel 248]] §§ 2 und 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen ist. ^p-675d-abs-2-s-1
 
 Kontoinformationsdienstleister haben Zahlungsdienstnutzer entsprechend den Anforderungen des Artikels 248 §§ 4 und 13 Absatz 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten; sie können die Form und den Zeitpunkt der Unterrichtung mit dem Zahlungsdienstnutzer vereinbaren. ^p-675d-abs-2-s-2
 
@@ -13904,9 +13974,9 @@ Ist die ordnungsgemäße Unterrichtung streitig, so trifft die Beweislast den Za
 
 Für die Unterrichtung darf der Zahlungsdienstleister mit dem Zahlungsdienstnutzer nur dann ein Entgelt vereinbaren, wenn die Information auf Verlangen des Zahlungsdienstnutzers erbracht wird und der Zahlungsdienstleister ^p-675d-abs-4-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> diese Information häufiger erbringt, als in Artikel 248 §§ 1 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen, ^p-675d-abs-4-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> diese Information häufiger erbringt, als in [[#^art-248|Artikel 248]] §§ 1 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehen, ^p-675d-abs-4-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> eine Information erbringt, die über die in Artikel 248 §§ 1 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen hinausgeht, oder ^p-675d-abs-4-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> eine Information erbringt, die über die in [[#^art-248|Artikel 248]] §§ 1 bis 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen hinausgeht, oder ^p-675d-abs-4-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> diese Information mithilfe anderer als der im Zahlungsdiensterahmenvertrag vereinbarten Kommunikationsmittel erbringt. ^p-675d-abs-4-s-1-nr-3
 
@@ -13914,9 +13984,9 @@ Das Entgelt muss angemessen und an den tatsächlichen Kosten des Zahlungsdienstl
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-675d-abs-5
 
-Zahlungsempfänger, Dienstleister, die Bargeldabhebungsdienste erbringen, und Dritte unterrichten über die in Artikel 248 §§ 17 bis 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände. ^p-675d-abs-5-s-1
+Zahlungsempfänger, Dienstleister, die Bargeldabhebungsdienste erbringen, und Dritte unterrichten über die in [[#^art-248|Artikel 248]] §§ 17 bis 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten Umstände. ^p-675d-abs-5-s-1
 
-Der Zahler ist nur dann verpflichtet, die Entgelte gemäß Artikel 248 § 17 Absatz 2 und § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu entrichten, wenn deren volle Höhe vor der Auslösung des Zahlungsvorgangs bekannt gemacht wurde. ^p-675d-abs-5-s-2
+Der Zahler ist nur dann verpflichtet, die Entgelte gemäß [[#^art-248|Artikel 248]] [[#^p-17-abs-2|§ 17 Absatz 2]] und § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu entrichten, wenn deren volle Höhe vor der Auslösung des Zahlungsvorgangs bekannt gemacht wurde. ^p-675d-abs-5-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 6</strong></span> ^p-675d-abs-6
 
@@ -13930,9 +14000,9 @@ Die [[#^p-675d-abs-1|Absätze 1]] bis [[#^p-675d-abs-5|5]] sind nicht anzuwenden
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> Zahlungsvorgänge, bei denen keiner der beteiligten Zahlungsdienstleister innerhalb des Europäischen Wirtschaftsraums belegen ist. ^p-675d-abs-6-s-1-nr-2
 
-In den Fällen des Satzes 1 [[#^p-675d-abs-6-s-1-nr-1|Nummer 1]] sind die Informationspflichten nach Artikel 248 § 4 Absatz 1 Nummer 2 Buchstabe e, § 6 Nummer 1 sowie § 13 Absatz 1 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche auch auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675d-abs-6-s-2
+In den Fällen des Satzes 1 [[#^p-675d-abs-6|Nummer 1]] sind die Informationspflichten nach [[#^art-248|Artikel 248]] [[#^p-4-abs-1|§ 4 Absatz 1 Nummer 2 Buchstabe e]], [[#^p-6|§ 6 Nummer 1]] sowie § 13 Absatz 1 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche auch auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675d-abs-6-s-2
 
-Gleiches gilt im Fall des Satzes 1 [[#^p-675d-abs-6-s-1-nr-1-lit-b|Nummer 1 Buchstabe b]] für die Informationspflicht nach Artikel 248 § 4 Absatz 1 Nummer 5 Buchstabe g des Einführungsgesetzes zum Bürgerlichen Gesetzbuche. ^p-675d-abs-6-s-3
+Gleiches gilt im Fall des Satzes 1 [[#^p-675d-abs-6|Nummer 1 Buchstabe b]] für die Informationspflicht nach [[#^art-248|Artikel 248]] § 4 Absatz 1 Nummer 5 Buchstabe g des Einführungsgesetzes zum Bürgerlichen Gesetzbuche. ^p-675d-abs-6-s-3
 
 ###### § 675e — Abweichende Vereinbarungen ^p-675e
 
@@ -14000,7 +14070,7 @@ In einem Zahlungsdiensterahmenvertrag zwischen dem Zahlungsempfänger und seinem
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-675g-abs-1
 
-Eine Änderung des Zahlungsdiensterahmenvertrags auf Veranlassung des Zahlungsdienstleisters setzt voraus, dass dieser die beabsichtigte Änderung spätestens zwei Monate vor dem vorgeschlagenen Zeitpunkt ihres Wirksamwerdens dem Zahlungsdienstnutzer in der in Artikel 248 §§ 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehenen Form anbietet. ^p-675g-abs-1-s-1
+Eine Änderung des Zahlungsdiensterahmenvertrags auf Veranlassung des Zahlungsdienstleisters setzt voraus, dass dieser die beabsichtigte Änderung spätestens zwei Monate vor dem vorgeschlagenen Zeitpunkt ihres Wirksamwerdens dem Zahlungsdienstnutzer in der in [[#^art-248|Artikel 248]] §§ 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehenen Form anbietet. ^p-675g-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-675g-abs-2
 
@@ -14036,7 +14106,7 @@ Der Zahlungsdienstleister kann den Zahlungsdiensterahmenvertrag nur kündigen, w
 
 Die Kündigungsfrist darf zwei Monate nicht unterschreiten. ^p-675h-abs-2-s-2
 
-Die Kündigung ist in der in Artikel 248 §§ 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehenen Form zu erklären. ^p-675h-abs-2-s-3
+Die Kündigung ist in der in [[#^art-248|Artikel 248]] §§ 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgesehenen Form zu erklären. ^p-675h-abs-2-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-675h-abs-3
 
@@ -14062,7 +14132,7 @@ Ein Kleinbetragsinstrument ist ein Mittel, ^p-675i-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> das Geldbeträge speichert, die zu keiner Zeit 150 Euro übersteigen. ^p-675i-abs-1-s-2-nr-3
 
-In den Fällen der [[#^p-675i-abs-1-s-2-nr-2|Nummern 2]] und [[#^p-675i-abs-1-s-2-nr-3|3]] erhöht sich die Betragsgrenze auf 200 Euro, wenn das Kleinbetragsinstrument nur für inländische Zahlungsvorgänge genutzt werden kann. ^p-675i-abs-1-s-3
+In den Fällen der [[#^p-675i-abs-1|Nummern 2]] und [[#^p-675i-abs-1|3]] erhöht sich die Betragsgrenze auf 200 Euro, wenn das Kleinbetragsinstrument nur für inländische Zahlungsvorgänge genutzt werden kann. ^p-675i-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-675i-abs-2
 
@@ -14070,7 +14140,7 @@ Im Fall des Absatzes 1 können die Parteien vereinbaren, dass ^p-675i-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Zahlungsdienstleister Änderungen der Vertragsbedingungen nicht in der in [[#^p-675g-abs-1|§ 675g Abs. 1]] vorgesehenen Form anbieten muss, ^p-675i-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-675l-abs-1-s-2|§ 675l Absatz 1 Satz 2]], § 675m Absatz 1 Satz 1 Nummer 3 und 5 sowie Satz 2 und [[#^p-675v-abs-5|§ 675v Absatz 5]] nicht anzuwenden sind, wenn das Kleinbetragsinstrument nicht gesperrt oder eine weitere Nutzung nicht verhindert werden kann, ^p-675i-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> [[#^p-675l-abs-1-s-2|§ 675l Absatz 1 Satz 2]], § 675m Absatz 1 Satz 1 Nummer 3 und 5 sowie [[#^p-675i-abs-2-s-2|Satz 2]] und [[#^p-675v-abs-5|§ 675v Absatz 5]] nicht anzuwenden sind, wenn das Kleinbetragsinstrument nicht gesperrt oder eine weitere Nutzung nicht verhindert werden kann, ^p-675i-abs-2-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> die §§ 675u, 675v Absatz 1 bis 3 und 5, die [[#^p-675w|§§ 675w]] und [[#^p-676|676]] nicht anzuwenden sind, wenn die Nutzung des Kleinbetragsinstruments keinem Zahlungsdienstnutzer zugeordnet werden kann oder der Zahlungsdienstleister aus anderen Gründen, die in dem Kleinbetragsinstrument selbst angelegt sind, nicht nachweisen kann, dass ein Zahlungsvorgang autorisiert war, ^p-675i-abs-2-s-1-nr-3
 
@@ -14274,7 +14344,7 @@ Der Zahlungsdienstleister des Zahlers sowie sämtliche an dem Zahlungsvorgang be
 
 Der Zahlungsdienstleister des Zahlungsempfängers darf ihm zustehende Entgelte vor Erteilung der Gutschrift nur dann von dem übermittelten Betrag abziehen, wenn dies mit dem Zahlungsempfänger vereinbart wurde. ^p-675q-abs-2-s-1
 
-In diesem Fall sind der vollständige Betrag des Zahlungsvorgangs und die Entgelte in den Informationen gemäß Artikel 248 §§ 8 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Zahlungsempfänger getrennt auszuweisen. ^p-675q-abs-2-s-2
+In diesem Fall sind der vollständige Betrag des Zahlungsvorgangs und die Entgelte in den Informationen gemäß [[#^art-248|Artikel 248]] §§ 8 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Zahlungsempfänger getrennt auszuweisen. ^p-675q-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-675q-abs-3
 
@@ -14282,7 +14352,7 @@ Zahlungsempfänger und Zahler tragen jeweils die von ihrem Zahlungsdienstleister
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-675q-abs-4
 
-Wenn einer der Fälle des [[#^p-675d-abs-6-s-1-nr-1|§ 675d Absatz 6 Satz 1 Nummer 1]] vorliegt, ^p-675q-abs-4-s-1
+Wenn einer der Fälle des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1]] vorliegt, ^p-675q-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> ist [[#^p-675q-abs-1|§ 675q Absatz 1]] auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden und ^p-675q-abs-4-s-1-nr-1
 
@@ -14322,9 +14392,9 @@ Im Fall einer Lastschrift ist der Zahlungsauftrag so rechtzeitig zu übermitteln
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-675s-abs-3
 
-Wenn einer der Fälle des [[#^p-675d-abs-6-s-1-nr-1|§ 675d Absatz 6 Satz 1 Nummer 1]] vorliegt, ist § 675s Absatz 1 Satz 1 und 3 auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675s-abs-3-s-1
+Wenn einer der Fälle des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1]] vorliegt, ist § 675s Absatz 1 Satz 1 und 3 auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675s-abs-3-s-1
 
-Wenn ein Fall des [[#^p-675d-abs-6-s-1-nr-1-lit-a|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe a]] vorliegt, ^p-675s-abs-3-s-2
+Wenn ein Fall des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe a]] vorliegt, ^p-675s-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> ist auch [[#^p-675s-abs-1-s-2|§ 675s Absatz 1 Satz 2]] auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden und ^p-675s-abs-3-s-2-nr-1
 
@@ -14368,7 +14438,7 @@ Den gesperrten Geldbetrag gibt der Zahlungsdienstleister des Zahlers unbeschadet
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-675t-abs-5
 
-Wenn ein Fall des [[#^p-675d-abs-6-s-1-nr-1-lit-a|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe a]] vorliegt, ^p-675t-abs-5-s-1
+Wenn ein Fall des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe a]] vorliegt, ^p-675t-abs-5-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> kann von [[#^p-675t-abs-1-s-3|§ 675t Absatz 1 Satz 3]] für die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs abgewichen werden und ^p-675t-abs-5-s-1-nr-1
 
@@ -14430,13 +14500,13 @@ Abweichend von den [[#^p-675v-abs-1|Absätzen 1]] und [[#^p-675v-abs-3|3]] ist d
 
 [[#^p-675v-abs-4-s-1|Satz 1]] gilt nicht, wenn der Zahler in betrügerischer Absicht gehandelt hat. ^p-675v-abs-4-s-2
 
-Im Fall von [[#^p-675v-abs-4-s-1-nr-2|Satz 1 Nummer 2]] ist derjenige, der eine starke Kundenauthentifizierung nicht akzeptiert, verpflichtet, dem Zahlungsdienstleister des Zahlers den daraus entstehenden Schaden zu ersetzen. ^p-675v-abs-4-s-3
+Im Fall von [[#^p-675v-abs-4-s-1|Satz 1 Nummer 2]] ist derjenige, der eine starke Kundenauthentifizierung nicht akzeptiert, verpflichtet, dem Zahlungsdienstleister des Zahlers den daraus entstehenden Schaden zu ersetzen. ^p-675v-abs-4-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-675v-abs-5
 
 Abweichend von den [[#^p-675v-abs-1|Absätzen 1]] und [[#^p-675v-abs-3|3]] ist der Zahler nicht zum Ersatz von Schäden verpflichtet, die aus der Nutzung eines nach der Anzeige gemäß [[#^p-675l-abs-1-s-2|§ 675l Absatz 1 Satz 2]] verwendeten Zahlungsinstruments entstanden sind. ^p-675v-abs-5-s-1
 
-Der Zahler ist auch nicht zum Ersatz von Schäden im Sinne des Absatzes 1 verpflichtet, wenn der Zahlungsdienstleister seiner Pflicht gemäß [[#^p-675m-abs-1-s-1-nr-3|§ 675m Abs. 1 Nr. 3]] nicht nachgekommen ist. ^p-675v-abs-5-s-2
+Der Zahler ist auch nicht zum Ersatz von Schäden im Sinne des Absatzes 1 verpflichtet, wenn der Zahlungsdienstleister seiner Pflicht gemäß [[#^p-675m-abs-1|§ 675m Abs. 1 Nr. 3]] nicht nachgekommen ist. ^p-675v-abs-5-s-2
 
 Die [[#^p-675v-abs-5-s-1|Sätze 1]] und [[#^p-675v-abs-5-s-2|2]] sind nicht anzuwenden, wenn der Zahler in betrügerischer Absicht gehandelt hat. ^p-675v-abs-5-s-3
 
@@ -14472,7 +14542,7 @@ Der Zahler hat gegen seinen Zahlungsdienstleister einen Anspruch auf Erstattung 
 
 Ist der Zahlungsbetrag einem Zahlungskonto belastet worden, so ist die Gutschrift des Zahlungsbetrags auf diesem Zahlungskonto so vorzunehmen, dass das Wertstellungsdatum spätestens der Geschäftstag der Belastung ist. ^p-675x-abs-1-s-2
 
-Auf Verlangen seines Zahlungsdienstleisters hat der Zahler nachzuweisen, dass die Voraussetzungen des Satzes 1 [[#^p-675x-abs-1-s-1-nr-1|Nummer 1]] und [[#^p-675x-abs-1-s-1-nr-2|2]] erfüllt sind. ^p-675x-abs-1-s-3
+Auf Verlangen seines Zahlungsdienstleisters hat der Zahler nachzuweisen, dass die Voraussetzungen des Satzes 1 [[#^p-675x-abs-1|Nummer 1]] und [[#^p-675x-abs-1|2]] erfüllt sind. ^p-675x-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-675x-abs-2
 
@@ -14496,7 +14566,7 @@ Das Recht des Zahlungsdienstleisters, eine innerhalb der Frist nach [[#^p-675x-a
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 6</strong></span> ^p-675x-abs-6
 
-Wenn ein Fall des [[#^p-675d-abs-6-s-1-nr-1-lit-b|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ^p-675x-abs-6-s-1
+Wenn ein Fall des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ^p-675x-abs-6-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> ist [[#^p-675x-abs-1|§ 675x Absatz 1]] auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden und ^p-675x-abs-6-s-1-nr-1
 
@@ -14566,7 +14636,7 @@ Wurde ein Zahlungsauftrag nicht oder fehlerhaft ausgeführt, hat der Zahlungsdie
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 8</strong></span> ^p-675y-abs-8
 
-Wenn ein Fall des [[#^p-675d-abs-6-s-1-nr-1-lit-b|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ist § 675y Absatz 1 bis 4 auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675y-abs-8-s-1
+Wenn ein Fall des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ist § 675y Absatz 1 bis 4 auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675y-abs-8-s-1
 
 ###### § 675z — Sonstige Ansprüche bei nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines Zahlungsauftrags oder bei einem nicht autorisierten Zahlungsvorgang ^p-675z
 
@@ -14580,7 +14650,7 @@ In den Fällen von [[#^p-675z-s-3|Satz 3]] zweiter Halbsatz haftet die von dem Z
 
 [[#^p-675y-abs-5-s-1|§ 675y Absatz 5 Satz 1]] ist auf die Haftung eines Zahlungsdienstleisters nach den [[#^p-675z-s-2|Sätzen 2]] bis [[#^p-675z-s-4|4]] entsprechend anzuwenden. ^p-675z-s-5
 
-Wenn ein Fall des [[#^p-675d-abs-6-s-1-nr-1-lit-b|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ist [[#^p-675z-s-3|§ 675z Satz 3]] auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675z-s-6
+Wenn ein Fall des [[#^p-675d-abs-6-s-1|§ 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b]] vorliegt, ist [[#^p-675z-s-3|§ 675z Satz 3]] auf die innerhalb des Europäischen Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden. ^p-675z-s-6
 
 ###### § 676 — Nachweis der Ausführung von Zahlungsvorgängen ^p-676
 
@@ -14614,7 +14684,7 @@ Der Zahlungsdienstnutzer hat seinen Zahlungsdienstleister unverzüglich nach Fes
 
 Ansprüche und Einwendungen des Zahlungsdienstnutzers gegen den Zahlungsdienstleister nach diesem Unterkapitel sind ausgeschlossen, wenn dieser seinen Zahlungsdienstleister nicht spätestens 13 Monate nach dem Tag der Belastung mit einem nicht autorisierten oder fehlerhaft ausgeführten Zahlungsvorgang hiervon unterrichtet hat. ^p-676b-abs-2-s-1
 
-Der Lauf der Frist beginnt nur, wenn der Zahlungsdienstleister den Zahlungsdienstnutzer über die den Zahlungsvorgang betreffenden Angaben gemäß Artikel 248 [[#^p-7|§§ 7]], [[#^p-10|10]] oder § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat; anderenfalls ist für den Fristbeginn der Tag der Unterrichtung maßgeblich. ^p-676b-abs-2-s-2
+Der Lauf der Frist beginnt nur, wenn der Zahlungsdienstleister den Zahlungsdienstnutzer über die den Zahlungsvorgang betreffenden Angaben gemäß [[#^art-248|Artikel 248]] [[#^p-7|§§ 7]], [[#^p-10|10]] oder § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat; anderenfalls ist für den Fristbeginn der Tag der Unterrichtung maßgeblich. ^p-676b-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-676b-abs-3
 
@@ -14624,7 +14694,7 @@ Für andere als die in [[#^p-675z-s-1|§ 675z Satz 1]] genannten Ansprüche des 
 
 Wurde der Zahlungsvorgang über einen Zahlungsauslösedienstleister ausgelöst, sind Ansprüche und Einwendungen des Zahlungsdienstnutzers gegen seinen kontoführenden Zahlungsdienstleister ausgeschlossen, wenn der Zahlungsdienstnutzer den kontoführenden Zahlungsdienstleister nicht spätestens 13 Monate nach dem Tag der Belastung mit einem nicht autorisierten oder fehlerhaften Zahlungsvorgang hiervon unterrichtet hat. ^p-676b-abs-4-s-1
 
-Der Lauf der Frist beginnt nur, wenn der kontoführende Zahlungsdienstleister den Zahlungsdienstnutzer über die den Zahlungsvorgang betreffenden Angaben gemäß Artikel 248 [[#^p-7|§§ 7]], [[#^p-10|10]] oder § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat; anderenfalls ist für den Fristbeginn der Tag der Unterrichtung durch den kontoführenden Zahlungsdienstleister maßgeblich. ^p-676b-abs-4-s-2
+Der Lauf der Frist beginnt nur, wenn der kontoführende Zahlungsdienstleister den Zahlungsdienstnutzer über die den Zahlungsvorgang betreffenden Angaben gemäß [[#^art-248|Artikel 248]] [[#^p-7|§§ 7]], [[#^p-10|10]] oder § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat; anderenfalls ist für den Fristbeginn der Tag der Unterrichtung durch den kontoführenden Zahlungsdienstleister maßgeblich. ^p-676b-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-676b-abs-5
 
@@ -14964,9 +15034,9 @@ Wenn in einer eingetragenen Gesellschaft keine natürliche Person als Gesellscha
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-707a-abs-3
 
-Die Eintragung bewirkt, dass § 15 des Handelsgesetzbuchs mit der Maßgabe entsprechend anzuwenden ist, dass das Fehlen der Kaufmannseigenschaft nicht an der Publizität des Gesellschaftsregisters teilnimmt. ^p-707a-abs-3-s-1
+Die Eintragung bewirkt, dass [[#^p-15|§ 15]] des Handelsgesetzbuchs mit der Maßgabe entsprechend anzuwenden ist, dass das Fehlen der Kaufmannseigenschaft nicht an der Publizität des Gesellschaftsregisters teilnimmt. ^p-707a-abs-3-s-1
 
-Die Eintragung lässt die Pflicht, die Gesellschaft zur Eintragung in das Handelsregister anzumelden (§ 106 Absatz 1 des Handelsgesetzbuchs), unberührt. ^p-707a-abs-3-s-2
+Die Eintragung lässt die Pflicht, die Gesellschaft zur Eintragung in das Handelsregister anzumelden ([[#^p-106-abs-1|§ 106 Absatz 1]] des Handelsgesetzbuchs), unberührt. ^p-707a-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-707a-abs-4
 
@@ -14976,11 +15046,11 @@ Nach Eintragung der Gesellschaft findet die Löschung der Gesellschaft nur nach 
 
 Folgende Vorschriften des Handelsgesetzbuchs sind auf eingetragene Gesellschaften entsprechend anzuwenden: ^p-707b-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> auf die Auswahl und den Schutz des Namens der Gesellschaft: die §§ 18, [[#^p-21|21]] bis [[#^p-24|24]], [[#^p-30|30]] und [[#^p-37|37]], ^p-707b-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> auf die Auswahl und den Schutz des Namens der Gesellschaft: die [[#^p-18|§§ 18]], [[#^p-21|21]] bis [[#^p-24|24]], [[#^p-30|30]] und [[#^p-37|37]], ^p-707b-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> auf die registerrechtliche Behandlung der Gesellschaft und die Führung des Gesellschaftsregisters: die §§ 8, 8a Absatz 1, [[#^p-9-abs-1-s-1|§ 9 Absatz 1 Satz 1]] und Absatz 3 bis 6, die [[#^p-10|§§ 10]] bis [[#^p-12|12]], 13h, [[#^p-14|14]], 16 und [[#^p-32|32]] und ^p-707b-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> auf die registerrechtliche Behandlung der Gesellschaft und die Führung des Gesellschaftsregisters: die §§ 8, 8a Absatz 1, [[#^p-9-abs-1-s-1|§ 9 Absatz 1 Satz 1]] und [[#^p-707b-abs-3|Absatz 3]] bis [[#^p-707b-abs-6|6]], die [[#^p-10|§§ 10]] bis [[#^p-12|12]], [[#^p-13h|13h]], [[#^p-14|14]], [[#^p-16|16]] und [[#^p-32|32]] und ^p-707b-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> auf die registerrechtliche Behandlung der Zweigniederlassung einer Gesellschaft: die [[#^p-13|§§ 13]] und 13d mit der Maßgabe, dass eine Verpflichtung zur Anmeldung der Zweigniederlassung nicht besteht. ^p-707b-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> auf die registerrechtliche Behandlung der Zweigniederlassung einer Gesellschaft: die [[#^p-13|§§ 13]] und [[#^p-13d|13d]] mit der Maßgabe, dass eine Verpflichtung zur Anmeldung der Zweigniederlassung nicht besteht. ^p-707b-s-1-nr-3
 
 ###### § 707c — Statuswechsel ^p-707c
 
@@ -15032,7 +15102,7 @@ Seine Haftung als Kommanditist bleibt unberührt. ^p-707c-abs-5-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-707d-abs-1
 
-Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Gesellschaftsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. ^p-707d-abs-1-s-1
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Gesellschaftsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach [[#^p-387-abs-2|§ 387 Absatz 2]] des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. ^p-707d-abs-1-s-1
 
 Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. ^p-707d-abs-1-s-2
 
@@ -15400,7 +15470,7 @@ Der Gesellschafter scheidet mit Eintritt des ihn betreffenden Ausscheidensgrunde
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-724-abs-1
 
-Geht der Anteil eines verstorbenen Gesellschafters auf seine Erben über und erfüllt die Gesellschaft die Voraussetzungen nach § 107 Absatz 1 des Handelsgesetzbuchs, um in das Handelsregister eingetragen zu werden, so kann jeder Erbe gegenüber den anderen Gesellschaftern antragen, dass ihm die Stellung eines Kommanditisten eingeräumt und der auf ihn entfallende Anteil des Erblassers als seine Kommanditeinlage anerkannt wird. ^p-724-abs-1-s-1
+Geht der Anteil eines verstorbenen Gesellschafters auf seine Erben über und erfüllt die Gesellschaft die Voraussetzungen nach [[#^p-107-abs-1|§ 107 Absatz 1]] des Handelsgesetzbuchs, um in das Handelsregister eingetragen zu werden, so kann jeder Erbe gegenüber den anderen Gesellschaftern antragen, dass ihm die Stellung eines Kommanditisten eingeräumt und der auf ihn entfallende Anteil des Erblassers als seine Kommanditeinlage anerkannt wird. ^p-724-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-724-abs-2
 
@@ -15618,9 +15688,9 @@ Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, muss 
 
 Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist ihre Auflösung von sämtlichen Gesellschaftern zur Eintragung in das Gesellschaftsregister anzumelden. ^p-733-abs-1-s-1
 
-Dies gilt nicht in den Fällen der Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft ([[#^p-729-abs-1-s-1-nr-2|§ 729 Absatz 1 Nummer 2]] und Absatz 3 Satz 1 Nummer 1); dann hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. ^p-733-abs-1-s-2
+Dies gilt nicht in den Fällen der Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft ([[#^p-729-abs-1|§ 729 Absatz 1 Nummer 2]] und [[#^p-733-abs-3-s-1|Absatz 3 Satz 1 Nummer 1]]); dann hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. ^p-733-abs-1-s-2
 
-Im Fall der Löschung der Gesellschaft ([[#^p-729-abs-3-s-1-nr-2|§ 729 Absatz 3 Satz 1 Nummer 2]]) entfällt die Eintragung der Auflösung. ^p-733-abs-1-s-3
+Im Fall der Löschung der Gesellschaft ([[#^p-729-abs-3-s-1|§ 729 Absatz 3 Satz 1 Nummer 2]]) entfällt die Eintragung der Auflösung. ^p-733-abs-1-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-733-abs-2
 
@@ -16176,7 +16246,7 @@ Die Einrede der Vorausklage ist ausgeschlossen: ^p-773-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-773-abs-2
 
-In den Fällen der Nummern 3, 4 ist die Einrede insoweit zulässig, als sich der Gläubiger aus einer beweglichen Sache des Hauptschuldners befriedigen kann, an der er ein Pfandrecht oder ein Zurückbehaltungsrecht hat; die Vorschrift des [[#^p-772-abs-2-s-2|§ 772 Abs. 2 Satz 2]] findet Anwendung. ^p-773-abs-2-s-1
+In den Fällen der [[#^p-773-abs-2|Nummern 3]], [[#^p-773-abs-2|4]] ist die Einrede insoweit zulässig, als sich der Gläubiger aus einer beweglichen Sache des Hauptschuldners befriedigen kann, an der er ein Pfandrecht oder ein Zurückbehaltungsrecht hat; die Vorschrift des [[#^p-772-abs-2-s-2|§ 772 Abs. 2 Satz 2]] findet Anwendung. ^p-773-abs-2-s-1
 
 ##### § 774 — Gesetzlicher Forderungsübergang ^p-774
 
@@ -16226,7 +16296,7 @@ Steht dem Bürgen die Einrede der Vorausklage nicht zu, so wird er nach dem Abla
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-777-abs-2
 
-Erfolgt die Anzeige rechtzeitig, so beschränkt sich die Haftung des Bürgen im Falle des Absatzes 1 [[#^p-777-abs-2-s-1|Satz 1]] auf den Umfang, den die Hauptverbindlichkeit zur Zeit der Beendigung des Verfahrens hat, im Falle des Absatzes 1 Satz 2 auf den Umfang, den die Hauptverbindlichkeit bei dem Ablauf der bestimmten Zeit hat. ^p-777-abs-2-s-1
+Erfolgt die Anzeige rechtzeitig, so beschränkt sich die Haftung des Bürgen im Falle des Absatzes 1 [[#^p-777-abs-2-s-1|Satz 1]] auf den Umfang, den die Hauptverbindlichkeit zur Zeit der Beendigung des Verfahrens hat, im Falle des Absatzes 1 [[#^p-777-abs-2-s-2|Satz 2]] auf den Umfang, den die Hauptverbindlichkeit bei dem Ablauf der bestimmten Zeit hat. ^p-777-abs-2-s-1
 
 ##### § 778 — Kreditauftrag ^p-778
 
@@ -17058,7 +17128,7 @@ Vor der Eintragung sind die Beteiligten an die Einigung nur gebunden, wenn die E
 
 Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird, kann zur näheren Bezeichnung des Inhalts des Rechts auf die Eintragungsbewilligung Bezug genommen werden, soweit nicht das Gesetz ein anderes vorschreibt. ^p-874-s-1
 
-Einer Bezugnahme auf die Eintragungsbewilligung steht die Bezugnahme auf die bisherige Eintragung nach § 44 Absatz 3 Satz 2 der Grundbuchordnung gleich. ^p-874-s-2
+Einer Bezugnahme auf die Eintragungsbewilligung steht die Bezugnahme auf die bisherige Eintragung nach [[#^p-44-abs-3-s-2|§ 44 Absatz 3 Satz 2]] der Grundbuchordnung gleich. ^p-874-s-2
 
 #### § 875 — Aufhebung eines Rechts ^p-875
 
@@ -18376,6 +18446,10 @@ Jeder Miteigentümer kann die Ansprüche aus dem Eigentum Dritten gegenüber in 
 
 ^norm-doc-bjnr001950896bjne104402377
 
+Verweis zur Überschrift: [[#^p-1012|§§ 1012]]
+
+Verweis zur Überschrift: [[#^p-1017|1017]]
+
 ### Abschnitt 4 Dienstbarkeiten
 
 ^gl-030040
@@ -18702,7 +18776,7 @@ Die Kündigung kann nur bis zum Ablauf der Frist erfolgen. ^p-1056-abs-3-s-2
 
 Die Ersatzansprüche des Eigentümers wegen Veränderungen oder Verschlechterungen der Sache sowie die Ansprüche des Nießbrauchers auf Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten. ^p-1057-s-1
 
-Die Vorschrift des § 548 Abs. 1 Satz 2 und 3, Abs. 2 findet entsprechende Anwendung. ^p-1057-s-2
+Die Vorschrift des § 548 Abs. 1 Satz 2 und 3, [[#^p-1057-abs-2|Abs. 2]] findet entsprechende Anwendung. ^p-1057-s-2
 
 ###### § 1058 — Besteller als Eigentümer ^p-1058
 
@@ -19262,7 +19336,7 @@ Die Hypothek kann auch für eine künftige oder eine bedingte Forderung bestellt
 
 ##### § 1114 — Belastung eines Bruchteils ^p-1114
 
-Ein Bruchteil eines Grundstücks kann außer in den in § 3 Abs. 6 der Grundbuchordnung bezeichneten Fällen mit einer Hypothek nur belastet werden, wenn er in dem Anteil eines Miteigentümers besteht. ^p-1114-s-1
+Ein Bruchteil eines Grundstücks kann außer in den in [[#^p-3-abs-6|§ 3 Abs. 6]] der Grundbuchordnung bezeichneten Fällen mit einer Hypothek nur belastet werden, wenn er in dem Anteil eines Miteigentümers besteht. ^p-1114-s-1
 
 ##### § 1115 — Eintragung der Hypothek ^p-1115
 
@@ -19730,7 +19804,7 @@ Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung der Hypot
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-1170-abs-1
 
-Ist der Gläubiger unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit der letzten sich auf die Hypothek beziehenden Eintragung in das Grundbuch zehn Jahre verstrichen sind und das Recht des Gläubigers nicht innerhalb dieser Frist von dem Eigentümer in einer nach [[#^p-212-abs-1-s-1-nr-1|§ 212 Abs. 1 Nr. 1]] zum Neubeginn der Verjährung geeigneten Weise anerkannt worden ist. ^p-1170-abs-1-s-1
+Ist der Gläubiger unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit der letzten sich auf die Hypothek beziehenden Eintragung in das Grundbuch zehn Jahre verstrichen sind und das Recht des Gläubigers nicht innerhalb dieser Frist von dem Eigentümer in einer nach [[#^p-212-abs-1|§ 212 Abs. 1 Nr. 1]] zum Neubeginn der Verjährung geeigneten Weise anerkannt worden ist. ^p-1170-abs-1-s-1
 
 Besteht für die Forderung eine nach dem Kalender bestimmte Zahlungszeit, so beginnt die Frist nicht vor dem Ablauf des Zahlungstags. ^p-1170-abs-1-s-2
 
@@ -19884,7 +19958,7 @@ Wer als Gläubiger einer Hypothek im Grundbuch eingetragen oder nach Maßgabe de
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1179b-abs-2
 
-§ 1179a Abs. 1 Satz 2, 3, [[#^p-1179b-abs-2|Abs. 2]], 5 ist entsprechend anzuwenden. ^p-1179b-abs-2-s-1
+§ 1179a Abs. 1 Satz 2, 3, [[#^p-1179b-abs-2|Abs. 2]], [[#^p-1179b-abs-5|5]] ist entsprechend anzuwenden. ^p-1179b-abs-2-s-1
 
 ##### § 1180 — Auswechslung der Forderung ^p-1180
 
@@ -20350,7 +20424,7 @@ Die für einen Bürgen geltenden Vorschrift des [[#^p-774|§ 774]] findet entspr
 
 Die Ersatzansprüche des Verpfänders wegen Veränderungen oder Verschlechterungen des Pfandes sowie die Ansprüche des Pfandgläubigers auf Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer Einrichtung verjähren in sechs Monaten. ^p-1226-s-1
 
-Die Vorschrift des § 548 Abs. 1 Satz 2 und 3, Abs. 2 findet entsprechende Anwendung. ^p-1226-s-2
+Die Vorschrift des § 548 Abs. 1 Satz 2 und 3, [[#^p-1226-abs-2|Abs. 2]] findet entsprechende Anwendung. ^p-1226-s-2
 
 ##### § 1227 — Schutz des Pfandrechts ^p-1227
 
@@ -20652,6 +20726,10 @@ Die [[#^p-1229|§§ 1229]] und [[#^p-1233|1233]] bis [[#^p-1239|1239]] finden ke
 
 ^norm-doc-bjnr001950896bjne129802377
 
+Verweis zur Überschrift: [[#^p-1260|§§ 1260]]
+
+Verweis zur Überschrift: [[#^p-1272|1272]]
+
 #### Titel 2 Pfandrecht an Rechten
 
 ^gl-030080020
@@ -20920,9 +20998,9 @@ Auf eine im Ausland geschlossene und nach [[#^p-1303-s-2|§ 1303 Satz 2]] oder A
 
 Die Vorschriften sind mit der Maßgabe anzuwenden, dass der Zeitpunkt der Trennung dem Eintritt der Rechtshängigkeit des Scheidungsantrags gleichsteht und der Ablauf des Trennungszeitraums von drei Jahren beziehungsweise die gerichtliche Feststellung der Unwirksamkeit dem Zeitpunkt der Scheidung gleichsteht. ^p-1305-abs-1-s-2
 
-Im Fall des Todes des Unterhaltsverpflichteten gilt [[#^p-1586b|§ 1586b]] auch in den Fällen des Satzes 1 [[#^p-1305-abs-1-s-1-nr-1|Nummer 1]] und [[#^p-1305-abs-1-s-1-nr-2|2]]; [[#^p-1615|§ 1615]] findet keine Anwendung. ^p-1305-abs-1-s-3
+Im Fall des Todes des Unterhaltsverpflichteten gilt [[#^p-1586b|§ 1586b]] auch in den Fällen des Satzes 1 [[#^p-1305-abs-1|Nummer 1]] und [[#^p-1305-abs-1|2]]; [[#^p-1615|§ 1615]] findet keine Anwendung. ^p-1305-abs-1-s-3
 
-Hinsichtlich der Haftungsrangfolgen gelten in den Fällen des Satzes 1 [[#^p-1305-abs-1-s-1-nr-1|Nummer 1]] und [[#^p-1305-abs-1-s-1-nr-2|2]] die [[#^p-1608|§§ 1608]] sowie 1609 und im Fall des Satzes 1 [[#^p-1305-abs-1-s-1-nr-3|Nummer 3]] [[#^p-1584|§ 1584]] entsprechend. ^p-1305-abs-1-s-4
+Hinsichtlich der Haftungsrangfolgen gelten in den Fällen des Satzes 1 [[#^p-1305-abs-1|Nummer 1]] und [[#^p-1305-abs-1|2]] die [[#^p-1608|§§ 1608]] sowie 1609 und im Fall des Satzes 1 [[#^p-1305-abs-1|Nummer 3]] [[#^p-1584|§ 1584]] entsprechend. ^p-1305-abs-1-s-4
 
 [[#^p-1305-abs-1-s-1|Satz 1]] findet keine Anwendung, wenn beide Personen bei Eheschließung noch nicht 16 Jahre alt waren. ^p-1305-abs-1-s-5
 
@@ -20944,7 +21022,7 @@ Nach der erneuten Eheschließung ist für Rechtsfolgen der Ehe der Tag der unwir
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1305-abs-3
 
-Die Vaterschaft nach [[#^p-1592-s-1-nr-1|§ 1592 Nummer 1]] aufgrund einer nach [[#^p-1305-abs-2|Absatz 2]] rückwirkend geheilten Ehe tritt nicht ein, wenn ^p-1305-abs-3-s-1
+Die Vaterschaft nach [[#^p-1592|§ 1592 Nummer 1]] aufgrund einer nach [[#^p-1305-abs-2|Absatz 2]] rückwirkend geheilten Ehe tritt nicht ein, wenn ^p-1305-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> dieses Kind betreffend bereits eine gerichtliche Entscheidung über die Feststellung der Vaterschaft oder über die Annahme als Kind rechtskräftig geworden ist oder ^p-1305-abs-3-s-1-nr-1
 
@@ -20992,9 +21070,9 @@ Die Befreiung soll versagt werden, wenn wichtige Gründe der Eingehung der Ehe e
 
 Wer hinsichtlich der Voraussetzungen der Eheschließung vorbehaltlich des Artikels 13 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ausländischem Recht unterliegt, soll eine Ehe nicht eingehen, bevor er ein Zeugnis der inneren Behörde seines Heimatstaats darüber beigebracht hat, dass der Eheschließung nach dem Recht dieses Staates kein Ehehindernis entgegensteht. ^p-1309-abs-1-s-1
 
-Als Zeugnis der inneren Behörde gilt auch eine Urkunde im Sinne von Artikel 3 Nummer 1 Buchstabe e der Verordnung (EU) 2016/1191 des Europäischen Parlaments und des Rates vom 6. ^p-1309-abs-1-s-2
+Als Zeugnis der inneren Behörde gilt auch eine Urkunde im Sinne von [[#^art-3|Artikel 3 Nummer 1 Buchstabe e]] der Verordnung (EU) 2016/1191 des Europäischen Parlaments und des Rates vom 6. ^p-1309-abs-1-s-2
 
-Juli 2016 zur Förderung der Freizügigkeit von Bürgern durch die Vereinfachung der Anforderungen an die Vorlage bestimmter öffentlicher Urkunden innerhalb der Europäischen Union und zur Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 200 vom 26.7.2016, S. 1) sowie eine Bescheinigung, die von einer anderen Stelle nach Maßgabe eines mit dem Heimatstaat des Betroffenen geschlossenen Vertrags erteilt ist. ^p-1309-abs-1-s-3
+Juli 2016 zur Förderung der Freizügigkeit von Bürgern durch die Vereinfachung der Anforderungen an die Vorlage bestimmter öffentlicher Urkunden innerhalb der Europäischen Union und zur Änderung der Verordnung (EU) [[#^p-1309-abs-1|Nr. 1024]]/2012 (ABl. L 200 vom 26.7.2016, S. 1) sowie eine Bescheinigung, die von einer anderen Stelle nach Maßgabe eines mit dem Heimatstaat des Betroffenen geschlossenen Vertrags erteilt ist. ^p-1309-abs-1-s-3
 
 Das Zeugnis verliert seine Kraft, wenn die Ehe nicht binnen sechs Monaten seit der Ausstellung geschlossen wird; ist in dem Zeugnis eine kürzere Geltungsdauer angegeben, ist diese maßgebend. ^p-1309-abs-1-s-4
 
@@ -21108,11 +21186,11 @@ Eine Aufhebung der Ehe ist ausgeschlossen ^p-1315-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> bei Verstoß gegen [[#^p-1304|§ 1304]], wenn der Ehegatte nach Wegfall der Geschäftsunfähigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung), ^p-1315-abs-1-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> im Falle des [[#^p-1314-abs-2-s-1-nr-1|§ 1314 Abs. 2 Nr. 1]], wenn der Ehegatte nach Wegfall der Bewusstlosigkeit oder der Störung der Geistestätigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung), ^p-1315-abs-1-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> im Falle des [[#^p-1314-abs-2|§ 1314 Abs. 2 Nr. 1]], wenn der Ehegatte nach Wegfall der Bewusstlosigkeit oder der Störung der Geistestätigkeit zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung), ^p-1315-abs-1-s-1-nr-3
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> in den Fällen des § 1314 Abs. 2 Nr. 2 bis 4, wenn der Ehegatte nach Entdeckung des Irrtums oder der Täuschung oder nach Aufhören der Zwangslage zu erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung), ^p-1315-abs-1-s-1-nr-4
 
-<span style="color:var(--text-error,#c52d3d)">5.</span> in den Fällen des [[#^p-1314-abs-2-s-1-nr-5|§ 1314 Abs. 2 Nr. 5]], wenn die Ehegatten nach der Eheschließung als Ehegatten miteinander gelebt haben. ^p-1315-abs-1-s-1-nr-5
+<span style="color:var(--text-error,#c52d3d)">5.</span> in den Fällen des [[#^p-1314-abs-2|§ 1314 Abs. 2 Nr. 5]], wenn die Ehegatten nach der Eheschließung als Ehegatten miteinander gelebt haben. ^p-1315-abs-1-s-1-nr-5
 
 Die Bestätigung eines Geschäftsunfähigen ist unwirksam. ^p-1315-abs-1-s-2
 
@@ -21130,7 +21208,7 @@ Eine Aufhebung der Ehe ist ferner ausgeschlossen ^p-1315-abs-2-s-1
 
 Antragsberechtigt ^p-1316-abs-1-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> sind bei Verstoß gegen [[#^p-1303-s-1|§ 1303 Satz 1]], die [[#^p-1304|§§ 1304]], [[#^p-1306|1306]], [[#^p-1307|1307]], [[#^p-1311|1311]] sowie in den Fällen des § 1314 Abs. 2 Nr. 1 und 5 jeder Ehegatte, die zuständige Verwaltungsbehörde und in den Fällen des [[#^p-1306|§ 1306]] auch die dritte Person. Die zuständige Verwaltungsbehörde wird durch Rechtsverordnung der Landesregierungen bestimmt. Die Landesregierungen können die Ermächtigung nach Satz 2 durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen; ^p-1316-abs-1-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> sind bei Verstoß gegen [[#^p-1303-s-1|§ 1303 Satz 1]], die [[#^p-1304|§§ 1304]], [[#^p-1306|1306]], [[#^p-1307|1307]], [[#^p-1311|1311]] sowie in den Fällen des § 1314 Abs. 2 Nr. 1 und 5 jeder Ehegatte, die zuständige Verwaltungsbehörde und in den Fällen des [[#^p-1306|§ 1306]] auch die dritte Person. Die zuständige Verwaltungsbehörde wird durch Rechtsverordnung der Landesregierungen bestimmt. Die Landesregierungen können die Ermächtigung nach [[#^p-1316-abs-1-s-2|Satz 2]] durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen; ^p-1316-abs-1-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> ist in den Fällen des § 1314 Abs. 2 Nr. 2 bis 4 der dort genannte Ehegatte. ^p-1316-abs-1-s-1-nr-2
 
@@ -21150,7 +21228,7 @@ Bei einem Verstoß gegen [[#^p-1303-s-1|§ 1303 Satz 1]] muss die zuständige Be
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-1317-abs-1
 
-Der Antrag kann in den Fällen des § 1314 Absatz 2 Nummer 2 und 3 nur binnen eines Jahres, im Falle des [[#^p-1314-abs-2-s-1-nr-4|§ 1314 Absatz 2 Nummer 4]] nur binnen drei Jahren gestellt werden. ^p-1317-abs-1-s-1
+Der Antrag kann in den Fällen des § 1314 Absatz 2 Nummer 2 und 3 nur binnen eines Jahres, im Falle des [[#^p-1314-abs-2|§ 1314 Absatz 2 Nummer 4]] nur binnen drei Jahren gestellt werden. ^p-1317-abs-1-s-1
 
 Die Frist beginnt mit der Entdeckung des Irrtums oder der Täuschung oder mit dem Aufhören der Zwangslage; für den gesetzlichen Vertreter eines geschäftsunfähigen Ehegatten beginnt die Frist jedoch nicht vor dem Zeitpunkt, in welchem ihm die den Fristbeginn begründenden Umstände bekannt werden. ^p-1317-abs-1-s-2
 
@@ -21190,7 +21268,7 @@ Die [[#^p-1568a|§§ 1568a]] und [[#^p-1568b|1568b]] finden entsprechende Anwend
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1318-abs-5
 
-[[#^p-1931|§ 1931]] findet zugunsten eines Ehegatten, der bei Verstoß gegen die [[#^p-1304|§§ 1304]], [[#^p-1306|1306]], [[#^p-1307|1307]] oder [[#^p-1311|§ 1311]] oder im Falle des [[#^p-1314-abs-2-s-1-nr-1|§ 1314 Abs. 2 Nr. 1]] die Aufhebbarkeit der Ehe bei der Eheschließung gekannt hat, keine Anwendung. ^p-1318-abs-5-s-1
+[[#^p-1931|§ 1931]] findet zugunsten eines Ehegatten, der bei Verstoß gegen die [[#^p-1304|§§ 1304]], [[#^p-1306|1306]], [[#^p-1307|1307]] oder [[#^p-1311|§ 1311]] oder im Falle des [[#^p-1314-abs-2|§ 1314 Abs. 2 Nr. 1]] die Aufhebbarkeit der Ehe bei der Eheschließung gekannt hat, keine Anwendung. ^p-1318-abs-5-s-1
 
 #### Titel 4 Wiederverheiratung nach Todeserklärung
 
@@ -21227,6 +21305,10 @@ Für die Folgen der Aufhebung gilt [[#^p-1318|§ 1318]] entsprechend. ^p-1320-ab
 ##### (XXXX) §§ 1321 bis 1352 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne133001377
+
+Verweis zur Überschrift: [[#^p-1321|§§ 1321]]
+
+Verweis zur Überschrift: [[#^p-1352|1352]]
 
 #### Titel 5 Wirkungen der Ehe im Allgemeinen
 
@@ -21266,9 +21348,9 @@ Zum Ehenamen können die Ehegatten durch Erklärung gegenüber dem Standesamt be
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> den zur Zeit der Erklärung geführten Familiennamen eines Ehegatten oder ^p-1355-abs-2-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> einen aus den Namen ([[#^p-1355-abs-2-s-1-nr-1|Nummer 1]] oder [[#^p-1355-abs-2-s-1-nr-2|2]]) beider Ehegatten gebildeten Doppelnamen. ^p-1355-abs-2-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> einen aus den Namen ([[#^p-1355-abs-2|Nummer 1]] oder [[#^p-1355-abs-2|2]]) beider Ehegatten gebildeten Doppelnamen. ^p-1355-abs-2-s-1-nr-3
 
-Im Fall des Satzes 1 [[#^p-1355-abs-2-s-1-nr-3|Nummer 3]] werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Ehegatten bestimmen mit der Erklärung nach [[#^p-1355-abs-2-s-1|Satz 1]], dass die Namen nicht durch einen Bindestrich verbunden werden. ^p-1355-abs-2-s-2
+Im Fall des Satzes 1 [[#^p-1355-abs-2|Nummer 3]] werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Ehegatten bestimmen mit der Erklärung nach [[#^p-1355-abs-2-s-1|Satz 1]], dass die Namen nicht durch einen Bindestrich verbunden werden. ^p-1355-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1355-abs-3
 
@@ -21276,7 +21358,7 @@ Besteht der Name, der nach [[#^p-1355-abs-2|Absatz 2]] allein oder als einer der
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> im Fall des Absatzes 2 Satz 1 Nummer 1 oder 2 können anstelle des gesamten Namens auch nur einer oder einige der Namen, aus denen der Name besteht, zum Ehenamen bestimmt werden, ^p-1355-abs-3-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall des Absatzes 2 Satz 1 Nummer 3 darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden. ^p-1355-abs-3-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall des Absatzes 2 [[#^p-1355-abs-3-s-1|Satz 1 Nummer 3]] darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden. ^p-1355-abs-3-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1355-abs-4
 
@@ -21404,7 +21486,7 @@ Kann ein Ehegatte aufgrund von Bewusstlosigkeit oder Krankheit seine Angelegenhe
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> über Maßnahmen nach [[#^p-1831-abs-4|§ 1831 Absatz 4]] zu entscheiden, sofern die Dauer der Maßnahme im Einzelfall sechs Wochen nicht überschreitet, und ^p-1358-abs-1-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> Ansprüche, die dem vertretenen Ehegatten aus Anlass der Erkrankung gegenüber Dritten zustehen, geltend zu machen und an die Leistungserbringer aus den Verträgen nach [[#^p-1358-abs-1-s-1-nr-2|Nummer 2]] abzutreten oder Zahlung an diese zu verlangen. ^p-1358-abs-1-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> Ansprüche, die dem vertretenen Ehegatten aus Anlass der Erkrankung gegenüber Dritten zustehen, geltend zu machen und an die Leistungserbringer aus den Verträgen nach [[#^p-1358-abs-1|Nummer 2]] abzutreten oder Zahlung an diese zu verlangen. ^p-1358-abs-1-s-1-nr-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1358-abs-2
 
@@ -21426,7 +21508,7 @@ Die Berechtigungen nach den [[#^p-1358-abs-1|Absätzen 1]] und [[#^p-1358-abs-2|
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> für den vertretenen Ehegatten ein Betreuer bestellt ist, soweit dessen Aufgabenkreis die in Absatz 1 Nummer 1 bis 4 bezeichneten Angelegenheiten umfasst, oder ^p-1358-abs-3-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> die Voraussetzungen des Absatzes 1 nicht mehr vorliegen oder mehr als sechs Monate seit dem durch den Arzt nach [[#^p-1358-abs-4-s-1-nr-1|Absatz 4 Satz 1 Nummer 1]] festgestellten Zeitpunkt vergangen sind. ^p-1358-abs-3-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> die Voraussetzungen des Absatzes 1 nicht mehr vorliegen oder mehr als sechs Monate seit dem durch den Arzt nach [[#^p-1358-abs-4-s-1|Absatz 4 Satz 1 Nummer 1]] festgestellten Zeitpunkt vergangen sind. ^p-1358-abs-3-s-1-nr-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1358-abs-4
 
@@ -21434,7 +21516,7 @@ Der Arzt, gegenüber dem das Vertretungsrecht ausgeübt wird, hat ^p-1358-abs-4-
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> das Vorliegen der Voraussetzungen des Absatzes 1 und den Zeitpunkt, zu dem diese spätestens eingetreten sind, schriftlich zu bestätigen, ^p-1358-abs-4-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> dem vertretenden Ehegatten die Bestätigung nach [[#^p-1358-abs-4-s-1-nr-1|Nummer 1]] mit einer schriftlichen Erklärung über das Vorliegen der Voraussetzungen des Absatzes 1 und das Nichtvorliegen der Ausschlussgründe des Absatzes 3 vorzulegen und ^p-1358-abs-4-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> dem vertretenden Ehegatten die Bestätigung nach [[#^p-1358-abs-4|Nummer 1]] mit einer schriftlichen Erklärung über das Vorliegen der Voraussetzungen des Absatzes 1 und das Nichtvorliegen der Ausschlussgründe des Absatzes 3 vorzulegen und ^p-1358-abs-4-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> sich von dem vertretenden Ehegatten schriftlich versichern zu lassen, dass ^p-1358-abs-4-s-1-nr-3
 
@@ -21442,7 +21524,7 @@ Der Arzt, gegenüber dem das Vertretungsrecht ausgeübt wird, hat ^p-1358-abs-4-
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> kein Ausschlussgrund des Absatzes 3 vorliegt. ^p-1358-abs-4-s-1-nr-3-lit-b
 
-Das Dokument mit der Bestätigung nach [[#^p-1358-abs-4-s-1-nr-1|Satz 1 Nummer 1]] und der Versicherung nach [[#^p-1358-abs-4-s-1-nr-3|Satz 1 Nummer 3]] ist dem vertretenden Ehegatten für die weitere Ausübung des Vertretungsrechts auszuhändigen. ^p-1358-abs-4-s-2
+Das Dokument mit der Bestätigung nach [[#^p-1358-abs-4-s-1|Satz 1 Nummer 1]] und der Versicherung nach [[#^p-1358-abs-4-s-1|Satz 1 Nummer 3]] ist dem vertretenden Ehegatten für die weitere Ausübung des Vertretungsrechts auszuhändigen. ^p-1358-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1358-abs-5
 
@@ -21720,7 +21802,7 @@ Dem Endvermögen eines Ehegatten wird der Betrag hinzugerechnet, um den dieses V
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> Handlungen in der Absicht vorgenommen hat, den anderen Ehegatten zu benachteiligen. ^p-1375-abs-2-s-1-nr-3
 
-Ist das Endvermögen eines Ehegatten geringer als das Vermögen, das er in der Auskunft zum Trennungszeitpunkt angegeben hat, so hat dieser Ehegatte darzulegen und zu beweisen, dass die Vermögensminderung nicht auf Handlungen im Sinne des Satzes 1 [[#^p-1375-abs-2-s-1-nr-1|Nummer 1]] bis [[#^p-1375-abs-2-s-1-nr-3|3]] zurückzuführen ist. ^p-1375-abs-2-s-2
+Ist das Endvermögen eines Ehegatten geringer als das Vermögen, das er in der Auskunft zum Trennungszeitpunkt angegeben hat, so hat dieser Ehegatte darzulegen und zu beweisen, dass die Vermögensminderung nicht auf Handlungen im Sinne des Satzes 1 [[#^p-1375-abs-2|Nummer 1]] bis [[#^p-1375-abs-2|3]] zurückzuführen ist. ^p-1375-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1375-abs-3
 
@@ -21943,6 +22025,10 @@ Endet der Güterstand durch den Tod eines Ehegatten, so wird die Verjährung nic
 ###### (XXXX) §§ 1391 bis 1407 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne137301377
+
+Verweis zur Überschrift: [[#^p-1391|§§ 1391]]
+
+Verweis zur Überschrift: [[#^p-1407|1407]]
 
 ##### Untertitel 2 Vertragliches Güterrecht
 
@@ -22266,7 +22352,7 @@ Im Verhältnis der Ehegatten zueinander fallen folgende Gesamtgutsverbindlichkei
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die Verbindlichkeiten aus einem sich auf sein Vorbehaltsgut oder sein Sondergut beziehenden Rechtsverhältnis, auch wenn sie vor Eintritt der Gütergemeinschaft oder vor der Zeit entstanden sind, zu der das Gut Vorbehaltsgut oder Sondergut geworden ist; ^p-1441-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> die Kosten eines Rechtsstreits über eine der in den [[#^p-1441-s-1-nr-1|Nummern 1]] und [[#^p-1441-s-1-nr-2|2]] bezeichneten Verbindlichkeiten. ^p-1441-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> die Kosten eines Rechtsstreits über eine der in den [[#^p-1441|Nummern 1]] und [[#^p-1441|2]] bezeichneten Verbindlichkeiten. ^p-1441-s-1-nr-3
 
 ###### § 1442 — Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts ^p-1442
 
@@ -22284,7 +22370,7 @@ Im Verhältnis der Ehegatten zueinander fallen die Kosten eines Rechtsstreits, d
 
 Führt der Ehegatte, der das Gesamtgut nicht verwaltet, einen Rechtsstreit mit einem Dritten, so fallen die Kosten des Rechtsstreits im Verhältnis der Ehegatten zueinander diesem Ehegatten zur Last. ^p-1443-abs-2-s-1
 
-Die Kosten fallen jedoch dem Gesamtgut zur Last, wenn das Urteil dem Gesamtgut gegenüber wirksam ist oder wenn der Rechtsstreit eine persönliche Angelegenheit oder eine Gesamtgutsverbindlichkeit des Ehegatten betrifft und die Aufwendung der Kosten den Umständen nach geboten ist; [[#^p-1441-s-1-nr-3|§ 1441 Nr. 3]] und [[#^p-1442|§ 1442]] bleiben unberührt. ^p-1443-abs-2-s-2
+Die Kosten fallen jedoch dem Gesamtgut zur Last, wenn das Urteil dem Gesamtgut gegenüber wirksam ist oder wenn der Rechtsstreit eine persönliche Angelegenheit oder eine Gesamtgutsverbindlichkeit des Ehegatten betrifft und die Aufwendung der Kosten den Umständen nach geboten ist; [[#^p-1441|§ 1441 Nr. 3]] und [[#^p-1442|§ 1442]] bleiben unberührt. ^p-1443-abs-2-s-2
 
 ###### § 1444 — Kosten der Ausstattung eines Kindes ^p-1444
 
@@ -22480,7 +22566,7 @@ Im Verhältnis der Ehegatten zueinander fallen folgende Gesamtgutsverbindlichkei
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> die Verbindlichkeiten aus einem sich auf sein Vorbehaltsgut oder sein Sondergut beziehenden Rechtsverhältnis, auch wenn sie vor Eintritt der Gütergemeinschaft oder vor der Zeit entstanden sind, zu der das Gut Vorbehaltsgut oder Sondergut geworden ist, ^p-1463-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> die Kosten eines Rechtsstreits über eine der in den [[#^p-1463-s-1-nr-1|Nummern 1]] und [[#^p-1463-s-1-nr-2|2]] bezeichneten Verbindlichkeiten. ^p-1463-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> die Kosten eines Rechtsstreits über eine der in den [[#^p-1463|Nummern 1]] und [[#^p-1463|2]] bezeichneten Verbindlichkeiten. ^p-1463-s-1-nr-3
 
 ###### § 1464 — Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts ^p-1464
 
@@ -22498,7 +22584,7 @@ Im Verhältnis der Ehegatten zueinander fallen die Kosten eines Rechtsstreits, d
 
 Führt ein Ehegatte einen Rechtsstreit mit einem Dritten, so fallen die Kosten des Rechtsstreits im Verhältnis der Ehegatten zueinander dem Ehegatten zur Last, der den Rechtsstreit führt. ^p-1465-abs-2-s-1
 
-Die Kosten fallen jedoch dem Gesamtgut zur Last, wenn das Urteil dem Gesamtgut gegenüber wirksam ist oder wenn der Rechtsstreit eine persönliche Angelegenheit oder eine Gesamtgutsverbindlichkeit des Ehegatten betrifft und die Aufwendung der Kosten den Umständen nach geboten ist; [[#^p-1463-s-1-nr-3|§ 1463 Nr. 3]] und [[#^p-1464|§ 1464]] bleiben unberührt. ^p-1465-abs-2-s-2
+Die Kosten fallen jedoch dem Gesamtgut zur Last, wenn das Urteil dem Gesamtgut gegenüber wirksam ist oder wenn der Rechtsstreit eine persönliche Angelegenheit oder eine Gesamtgutsverbindlichkeit des Ehegatten betrifft und die Aufwendung der Kosten den Umständen nach geboten ist; [[#^p-1463|§ 1463 Nr. 3]] und [[#^p-1464|§ 1464]] bleiben unberührt. ^p-1465-abs-2-s-2
 
 ###### § 1466 — Kosten der Ausstattung eines nicht gemeinschaftlichen Kindes ^p-1466
 
@@ -23102,9 +23188,17 @@ Februar 2010 zwischen der Bundesrepublik Deutschland und der Französischen Repu
 
 ^norm-doc-bjnr001950896bjne148502140
 
+Verweis zur Überschrift: [[#^p-1520|§§ 1520]]
+
+Verweis zur Überschrift: [[#^p-1557|1557]]
+
 ###### (XXXX) §§ 1558 bis 1563 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne148605125
+
+Verweis zur Überschrift: [[#^p-1558|§§ 1558]]
+
+Verweis zur Überschrift: [[#^p-1563|1563]]
 
 #### Titel 7 Scheidung der Ehe
 
@@ -23440,7 +23534,7 @@ Ein Unterhaltsanspruch ist zu versagen, herabzusetzen oder zeitlich zu begrenzen
 
 <span style="color:var(--text-error,#c52d3d)">7.</span> dem Berechtigten ein offensichtlich schwerwiegendes, eindeutig bei ihm liegendes Fehlverhalten gegen den Verpflichteten zur Last fällt oder ^p-1579-s-1-nr-7
 
-<span style="color:var(--text-error,#c52d3d)">8.</span> ein anderer Grund vorliegt, der ebenso schwer wiegt wie die in den [[#^p-1579-s-1-nr-1|Nummern 1]] bis [[#^p-1579-s-1-nr-7|7]] aufgeführten Gründe. ^p-1579-s-1-nr-8
+<span style="color:var(--text-error,#c52d3d)">8.</span> ein anderer Grund vorliegt, der ebenso schwer wiegt wie die in den [[#^p-1579|Nummern 1]] bis [[#^p-1579|7]] aufgeführten Gründe. ^p-1579-s-1-nr-8
 
 ###### § 1580 — Auskunftspflicht ^p-1580
 
@@ -23646,11 +23740,11 @@ Vater eines Kindes ist der Mann, ^p-1592-s-1
 
 ##### § 1593 — Vaterschaft bei Auflösung der Ehe durch Tod ^p-1593
 
-[[#^p-1592-s-1-nr-1|§ 1592 Nr. 1]] gilt entsprechend, wenn die Ehe durch Tod aufgelöst wurde und innerhalb von 300 Tagen nach der Auflösung ein Kind geboren wird. ^p-1593-s-1
+[[#^p-1592|§ 1592 Nr. 1]] gilt entsprechend, wenn die Ehe durch Tod aufgelöst wurde und innerhalb von 300 Tagen nach der Auflösung ein Kind geboren wird. ^p-1593-s-1
 
 Steht fest, dass das Kind mehr als 300 Tage vor seiner Geburt empfangen wurde, so ist dieser Zeitraum maßgebend. ^p-1593-s-2
 
-Wird von einer Frau, die eine weitere Ehe geschlossen hat, ein Kind geboren, das sowohl nach den [[#^p-1593-s-1|Sätzen 1]] und [[#^p-1593-s-2|2]] Kind des früheren Ehemanns als auch nach [[#^p-1592-s-1-nr-1|§ 1592 Nr. 1]] Kind des neuen Ehemanns wäre, so ist es nur als Kind des neuen Ehemanns anzusehen. ^p-1593-s-3
+Wird von einer Frau, die eine weitere Ehe geschlossen hat, ein Kind geboren, das sowohl nach den [[#^p-1593-s-1|Sätzen 1]] und [[#^p-1593-s-2|2]] Kind des früheren Ehemanns als auch nach [[#^p-1592|§ 1592 Nr. 1]] Kind des neuen Ehemanns wäre, so ist es nur als Kind des neuen Ehemanns anzusehen. ^p-1593-s-3
 
 Wird die Vaterschaft angefochten und wird rechtskräftig festgestellt, dass der neue Ehemann nicht Vater des Kindes ist, so ist es Kind des früheren Ehemanns. ^p-1593-s-4
 
@@ -23676,7 +23770,7 @@ Die Anerkennung ist schon vor der Geburt des Kindes zulässig. ^p-1594-abs-4-s-1
 
 Eine Anerkennung, die nach Einleitung eines Verfahrens erfolgt, in dem die Vaterschaft eines anderen Mannes als des Anerkennenden für das Kind festgestellt werden soll, ist nicht wirksam, solange das Verfahren anhängig ist. ^p-1594-abs-5-s-1
 
-[[#^p-1594-abs-5-s-1|Satz 1]] gilt nicht, wenn der Anerkennende die Anerkennung zur Niederschrift des Gerichts nach § 180 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit erklärt. ^p-1594-abs-5-s-2
+[[#^p-1594-abs-5-s-1|Satz 1]] gilt nicht, wenn der Anerkennende die Anerkennung zur Niederschrift des Gerichts nach [[#^p-180-abs-2|§ 180 Absatz 2]] des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit erklärt. ^p-1594-abs-5-s-2
 
 ##### § 1595 — Zustimmungsbedürftigkeit der Anerkennung ^p-1595
 
@@ -23710,7 +23804,7 @@ Wird die Anerkennung des leiblichen Vaters nach [[#^p-1595a-abs-1|Absatz 1]] wir
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1595a-abs-3
 
-Für die Zustimmung nach [[#^p-1595a-abs-1-s-1-nr-2|Absatz 1 Nummer 2]] gilt § 1594 Absatz 3 und 4 entsprechend. ^p-1595a-abs-3-s-1
+Für die Zustimmung nach [[#^p-1595a-abs-1|Absatz 1 Nummer 2]] gilt § 1594 Absatz 3 und 4 entsprechend. ^p-1595a-abs-3-s-1
 
 Die Zustimmung ist nicht erforderlich, wenn der andere Mann verstorben ist. ^p-1595a-abs-3-s-2
 
@@ -23730,7 +23824,7 @@ Ist der gesetzliche Vertreter ein Betreuer, ist die Genehmigung des Betreuungsge
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1596-abs-3
 
-Für die Zustimmung der Mutter und die etwa erforderliche Zustimmung des anderen Mannes nach [[#^p-1595a-abs-1-s-1-nr-2|§ 1595a Absatz 1 Nummer 2]] gelten die [[#^p-1596-abs-1|Absätze 1]] und [[#^p-1596-abs-2|2]] entsprechend. ^p-1596-abs-3-s-1
+Für die Zustimmung der Mutter und die etwa erforderliche Zustimmung des anderen Mannes nach [[#^p-1595a-abs-1|§ 1595a Absatz 1 Nummer 2]] gelten die [[#^p-1596-abs-1|Absätze 1]] und [[#^p-1596-abs-2|2]] entsprechend. ^p-1596-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1596-abs-4
 
@@ -23774,7 +23868,7 @@ Sind seit der Eintragung in ein deutsches Personenstandsregister fünf Jahre ver
 
 Wird die Zustimmung der Ausländerbehörde nach § 85d des Aufenthaltsgesetzes zurückgenommen und die Eintragung in einem deutschen Personenstandsregister dadurch unrichtig, wird die Frist nach [[#^p-1598-abs-2-s-1|Satz 1]] gehemmt. ^p-1598-abs-2-s-2
 
-Die Hemmung gilt nicht, solange die aufschiebende Wirkung eines Rechtsbehelfs gegen die Rücknahme nach § 80 Absatz 5 der Verwaltungsgerichtsordnung angeordnet ist. ^p-1598-abs-2-s-3
+Die Hemmung gilt nicht, solange die aufschiebende Wirkung eines Rechtsbehelfs gegen die Rücknahme nach [[Bundesrecht/vwgo#^p-80-abs-5|§ 80 Absatz 5 der Verwaltungsgerichtsordnung]] angeordnet ist. ^p-1598-abs-2-s-3
 
 Existiert noch kein Eintrag in einem deutschen Personenstandsregister und wird die Anerkennung der Vaterschaft oder die Zustimmung der Mutter zur Anerkennung der Vaterschaft in einer deutschen Auslandsvertretung beurkundet, so beginnt die Frist nach [[#^p-1598-abs-2-s-1|Satz 1]] mit der Beurkundung, wenn ^p-1598-abs-2-s-4
 
@@ -23842,15 +23936,15 @@ Berechtigt, die Vaterschaft anzufechten, sind: ^p-1600-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> das Kind. ^p-1600-abs-1-s-1-nr-4
 
-Die Anfechtung nach [[#^p-1600-abs-1-s-1-nr-2|Satz 1 Nummer 2]] setzt voraus, dass der Anfechtende der leibliche Vater des Kindes ist. ^p-1600-abs-1-s-2
+Die Anfechtung nach [[#^p-1600-abs-1-s-1|Satz 1 Nummer 2]] setzt voraus, dass der Anfechtende der leibliche Vater des Kindes ist. ^p-1600-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1600-abs-2
 
-Ist das Kind volljährig, ist die Anfechtung nach [[#^p-1600-abs-1-s-1-nr-2|Absatz 1 Satz 1 Nummer 2]] ausgeschlossen, wenn das Kind der Anfechtung widerspricht. ^p-1600-abs-2-s-1
+Ist das Kind volljährig, ist die Anfechtung nach [[#^p-1600-abs-1-s-1|Absatz 1 Satz 1 Nummer 2]] ausgeschlossen, wenn das Kind der Anfechtung widerspricht. ^p-1600-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1600-abs-3
 
-Ist das Kind minderjährig, ist die Anfechtung nach [[#^p-1600-abs-1-s-1-nr-2|Absatz 1 Satz 1 Nummer 2]] ausgeschlossen, wenn zwischen dem Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder [[#^p-1593|§ 1593]] besteht, eine sozial-familiäre Beziehung besteht. ^p-1600-abs-3-s-1
+Ist das Kind minderjährig, ist die Anfechtung nach [[#^p-1600-abs-1-s-1|Absatz 1 Satz 1 Nummer 2]] ausgeschlossen, wenn zwischen dem Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder [[#^p-1593|§ 1593]] besteht, eine sozial-familiäre Beziehung besteht. ^p-1600-abs-3-s-1
 
 Dies gilt nicht, wenn ^p-1600-abs-3-s-2
 
@@ -23866,7 +23960,7 @@ Dies gilt nicht, wenn ^p-1600-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1600-abs-4
 
-Wird ein Verfahren auf Grund eines Restitutionsantrags nach § 185a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit wiederaufgenommen und ist die sozial-familiäre Beziehung zwischen dem minderjährigen Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder [[#^p-1593|§ 1593]] besteht, beendet, ist die Anfechtung ausgeschlossen, wenn der Fortbestand der Vaterschaft unter Berücksichtigung der berechtigten Interessen der Beteiligten für das Wohl des Kindes erforderlich ist. ^p-1600-abs-4-s-1
+Wird ein Verfahren auf Grund eines Restitutionsantrags nach [[#^p-185a|§ 185a]] des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit wiederaufgenommen und ist die sozial-familiäre Beziehung zwischen dem minderjährigen Kind und dem Mann, dessen Vaterschaft nach § 1592 Nummer 1 oder 2 oder [[#^p-1593|§ 1593]] besteht, beendet, ist die Anfechtung ausgeschlossen, wenn der Fortbestand der Vaterschaft unter Berücksichtigung der berechtigten Interessen der Beteiligten für das Wohl des Kindes erforderlich ist. ^p-1600-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1600-abs-5
 
@@ -24114,9 +24208,9 @@ Sind mehrere Unterhaltsberechtigte vorhanden und ist der Unterhaltspflichtige au
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> Elternteile, die wegen der Betreuung eines Kindes unterhaltsberechtigt sind oder im Fall einer Scheidung wären, sowie Ehegatten und geschiedene Ehegatten bei einer Ehe von langer Dauer; bei der Feststellung einer Ehe von langer Dauer sind auch Nachteile im Sinne des § 1578b Abs. 1 Satz 2 und 3 zu berücksichtigen, ^p-1609-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> Ehegatten und geschiedene Ehegatten, die nicht unter [[#^p-1609-s-1-nr-2|Nummer 2]] fallen, ^p-1609-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> Ehegatten und geschiedene Ehegatten, die nicht unter [[#^p-1609|Nummer 2]] fallen, ^p-1609-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> Kinder, die nicht unter [[#^p-1609-s-1-nr-1|Nummer 1]] fallen, ^p-1609-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> Kinder, die nicht unter [[#^p-1609|Nummer 1]] fallen, ^p-1609-s-1-nr-4
 
 <span style="color:var(--text-error,#c52d3d)">5.</span> Enkelkinder und weitere Abkömmlinge, ^p-1609-s-1-nr-5
 
@@ -24256,7 +24350,7 @@ an der Geltendmachung des Unterhaltsanspruchs gehindert war.
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1613-abs-3
 
-In den Fällen des Absatzes 2 Nr. 2 kann Erfüllung nicht, nur in Teilbeträgen oder erst zu einem späteren Zeitpunkt verlangt werden, soweit die volle oder die sofortige Erfüllung für den Verpflichteten eine unbillige Härte bedeuten würde. ^p-1613-abs-3-s-1
+In den Fällen des Absatzes 2 [[#^p-1613-abs-3|Nr. 2]] kann Erfüllung nicht, nur in Teilbeträgen oder erst zu einem späteren Zeitpunkt verlangt werden, soweit die volle oder die sofortige Erfüllung für den Verpflichteten eine unbillige Härte bedeuten würde. ^p-1613-abs-3-s-1
 
 Dies gilt auch, soweit ein Dritter vom Verpflichteten Ersatz verlangt, weil er anstelle des Verpflichteten Unterhalt gewährt hat. ^p-1613-abs-3-s-2
 
@@ -24286,11 +24380,15 @@ Im Falle des Todes des Berechtigten hat der Verpflichtete die Kosten der Beerdig
 
 ###### § 1615a — Anwendbare Vorschriften ^p-1615a
 
-Besteht für ein Kind keine Vaterschaft nach [[#^p-1592-s-1-nr-1|§ 1592 Nr. 1]], [[#^p-1593|§ 1593]] und haben die Eltern das Kind auch nicht während ihrer Ehe gezeugt oder nach seiner Geburt die Ehe miteinander geschlossen, gelten die allgemeinen Vorschriften, soweit sich nichts anderes aus den folgenden Vorschriften ergibt. ^p-1615a-s-1
+Besteht für ein Kind keine Vaterschaft nach [[#^p-1592|§ 1592 Nr. 1]], [[#^p-1593|§ 1593]] und haben die Eltern das Kind auch nicht während ihrer Ehe gezeugt oder nach seiner Geburt die Ehe miteinander geschlossen, gelten die allgemeinen Vorschriften, soweit sich nichts anderes aus den folgenden Vorschriften ergibt. ^p-1615a-s-1
 
 ###### (XXXX) §§ 1615b bis 1615k (weggefallen)
 
 ^norm-doc-bjnr001950896bjne158102377
+
+Verweis zur Überschrift: [[#^p-1615b|§§ 1615b]]
+
+Verweis zur Überschrift: [[#^p-1615k|1615k]]
 
 ###### § 1615l — Unterhaltsanspruch von Mutter und Vater aus Anlass der Geburt ^p-1615l
 
@@ -24354,17 +24452,17 @@ Führen die Eltern keinen Ehenamen und steht ihnen die elterliche Sorge gemeinsa
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> den Familiennamen, den ein Elternteil zur Zeit der Erklärung führt, oder ^p-1617-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> einen aus den Namen ([[#^p-1617-abs-1-s-1-nr-1|Nummer 1]]) beider Elternteile gebildeten Doppelnamen. ^p-1617-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> einen aus den Namen ([[#^p-1617-abs-1|Nummer 1]]) beider Elternteile gebildeten Doppelnamen. ^p-1617-abs-1-s-1-nr-2
 
-Im Fall des Satzes 1 [[#^p-1617-abs-1-s-1-nr-2|Nummer 2]] werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Eltern bestimmen mit der Erklärung nach [[#^p-1617-abs-1-s-1|Satz 1]], dass die Namen nicht durch einen Bindestrich verbunden werden. ^p-1617-abs-1-s-2
+Im Fall des Satzes 1 [[#^p-1617-abs-1|Nummer 2]] werden die für den Doppelnamen herangezogenen Namen durch einen Bindestrich verbunden, es sei denn, die Eltern bestimmen mit der Erklärung nach [[#^p-1617-abs-1-s-1|Satz 1]], dass die Namen nicht durch einen Bindestrich verbunden werden. ^p-1617-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1617-abs-2
 
 Besteht der Name eines Elternteils, der nach [[#^p-1617-abs-1|Absatz 1]] allein oder als einer der Namen eines Doppelnamens zum Geburtsnamen des Kindes bestimmt werden soll, aus mehreren Namen, so gilt zusätzlich: ^p-1617-abs-2-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> im Fall des Absatzes 1 [[#^p-1617-abs-2-s-1-nr-1|Satz 1 Nummer 1]] können anstelle des gesamten Namens auch nur einer oder einige der Namen, aus denen der Name besteht, zum Geburtsnamen des Kindes bestimmt werden, ^p-1617-abs-2-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> im Fall des Absatzes 1 [[#^p-1617-abs-2-s-1|Satz 1 Nummer 1]] können anstelle des gesamten Namens auch nur einer oder einige der Namen, aus denen der Name besteht, zum Geburtsnamen des Kindes bestimmt werden, ^p-1617-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall des Absatzes 1 [[#^p-1617-abs-2-s-1-nr-2|Satz 1 Nummer 2]] darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden. ^p-1617-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall des Absatzes 1 [[#^p-1617-abs-2-s-1|Satz 1 Nummer 2]] darf nur einer der Namen, aus denen der Name besteht, für die Bildung des Doppelnamens herangezogen werden. ^p-1617-abs-2-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1617-abs-3
 
@@ -24372,7 +24470,7 @@ Eine nach der Beurkundung der Geburt abgegebene Erklärung muss öffentlich begl
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1617-abs-4
 
-Treffen die Eltern binnen eines Monats nach der Geburt des Kindes keine Bestimmung, so erhält das Kind einen in alphabetischer Reihenfolge aus den Namen ([[#^p-1617-abs-1-s-1-nr-1|Absatz 1 Satz 1 Nummer 1]]) beider Elternteile gebildeten Doppelnamen. ^p-1617-abs-4-s-1
+Treffen die Eltern binnen eines Monats nach der Geburt des Kindes keine Bestimmung, so erhält das Kind einen in alphabetischer Reihenfolge aus den Namen ([[#^p-1617-abs-1-s-1|Absatz 1 Satz 1 Nummer 1]]) beider Elternteile gebildeten Doppelnamen. ^p-1617-abs-4-s-1
 
 Besteht der Name eines Elternteils aus mehreren Namen, so wird der alphabetisch voranstehende Name für die Bildung des Doppelnamens herangezogen. ^p-1617-abs-4-s-2
 
@@ -24468,7 +24566,7 @@ Derjenige Elternteil, dessen Name nicht Ehename geworden ist, dem die elterliche
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> seinen gemäß § 1355 Absatz 5 Satz 2 Nummer 1 und 2 wieder angenommenen Namen oder ^p-1617d-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> einen aus seinem wieder angenommenen Namen ([[#^p-1617d-abs-1-s-1-nr-1|Nummer 1]]) und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen. ^p-1617d-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> einen aus seinem wieder angenommenen Namen ([[#^p-1617d-abs-1|Nummer 1]]) und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen. ^p-1617d-abs-1-s-1-nr-2
 
 [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und [[#^p-1617d-abs-2|Absatz 2]] gilt entsprechend. ^p-1617d-abs-1-s-2
 
@@ -24506,7 +24604,7 @@ Der Elternteil, dem die elterliche Sorge für ein Kind allein oder gemeinsam mit
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> einen aus ihrem Ehenamen und dem von dem Kind zur Zeit der Erklärung geführten Geburtsnamen gebildeten Doppelnamen. ^p-1617e-abs-1-s-1-nr-2
 
-Im Fall des Satzes 1 [[#^p-1617e-abs-1-s-1-nr-2|Nummer 2]] gilt [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und Absatz 2 Nummer 2 entsprechend. ^p-1617e-abs-1-s-2
+Im Fall des Satzes 1 [[#^p-1617e-abs-1|Nummer 2]] gilt [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und [[#^p-1617e-abs-2|Absatz 2 Nummer 2]] entsprechend. ^p-1617e-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1617e-abs-2
 
@@ -24528,7 +24626,7 @@ Wird die Ehe zwischen dem Elternteil und seinem Ehegatten, der nicht Elternteil 
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> das Kind selbst, sobald es volljährig ist. ^p-1617e-abs-4-s-1-nr-2
 
-In den Fällen des Satzes 1 [[#^p-1617e-abs-4-s-1-nr-1|Nummer 1]] gilt [[#^p-1617e-abs-2|Absatz 2]] entsprechend. ^p-1617e-abs-4-s-2
+In den Fällen des Satzes 1 [[#^p-1617e-abs-4|Nummer 1]] gilt [[#^p-1617e-abs-2|Absatz 2]] entsprechend. ^p-1617e-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1617e-abs-5
 
@@ -24564,7 +24662,7 @@ Ist das Kind volljährig, so kann es die Erklärung nach [[#^p-1617f-abs-1|Absat
 
 Eine unverheiratete volljährige Frau, die dem sorbischen Volk angehört, kann eine Form des Geburtsnamens wählen oder zu einer solchen wechseln, die nach der sorbischen Tradition verheirateten Frauen vorbehalten ist. ^p-1617f-abs-3-s-2
 
-In den Fällen des Absatzes 1 Nummer 2 und 3 kann das volljährige Kind zu einer anderen Form des Geburtsnamens wechseln, wenn dies in der Rechtsordnung des anderen Staates vorgesehen ist. ^p-1617f-abs-3-s-3
+In den Fällen des Absatzes 1 [[#^p-1617f-abs-3|Nummer 2]] und [[#^p-1617f-abs-3|3]] kann das volljährige Kind zu einer anderen Form des Geburtsnamens wechseln, wenn dies in der Rechtsordnung des anderen Staates vorgesehen ist. ^p-1617f-abs-3-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1617f-abs-4
 
@@ -24588,7 +24686,7 @@ Abweichend von [[#^p-1616|§ 1616]] und ergänzend zu den in den [[#^p-1617|§§
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> ein gemäß der friesischen Tradition von einem Vornamen eines Elternteils abgeleiteter Name oder ^p-1617g-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> ein nicht durch Bindestrich verbundener Doppelname, der sich aus einem Namen nach [[#^p-1617g-abs-1-s-1-nr-1|Nummer 1]] und dem Familiennamen eines Elternteils zusammensetzt; [[#^p-1617-abs-2-s-1-nr-2|§ 1617 Absatz 2 Nummer 2]] gilt entsprechend. ^p-1617g-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> ein nicht durch Bindestrich verbundener Doppelname, der sich aus einem Namen nach [[#^p-1617g-abs-1|Nummer 1]] und dem Familiennamen eines Elternteils zusammensetzt; [[#^p-1617-abs-2|§ 1617 Absatz 2 Nummer 2]] gilt entsprechend. ^p-1617g-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1617g-abs-2
 
@@ -24624,7 +24722,7 @@ Abweichend von [[#^p-1616|§ 1616]] und ergänzend zu den in den [[#^p-1617|§§
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> dem Familiennamen eines Elternteils an zweiter Stelle des Doppelnamens. ^p-1617h-abs-1-s-1-nr-2
 
-[[#^p-1617-abs-2-s-1-nr-2|§ 1617 Absatz 2 Nummer 2]] gilt entsprechend. ^p-1617h-abs-1-s-2
+[[#^p-1617-abs-2|§ 1617 Absatz 2 Nummer 2]] gilt entsprechend. ^p-1617h-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1617h-abs-2
 
@@ -24652,7 +24750,7 @@ Jede volljährige Person kann den Geburtsnamen, den sie als Minderjährige erwor
 
 <span style="color:var(--text-error,#c52d3d)">b)</span> diesem den Familiennamen des anderen Elternteils voranstellt oder anfügt. ^p-1617i-abs-1-s-1-nr-2-lit-b
 
-In den Fällen des Satzes 1 [[#^p-1617i-abs-1-s-1-nr-2-lit-a|Nummer 2 Buchstabe a]] gilt [[#^p-1617-abs-2-s-1-nr-1|§ 1617 Absatz 2 Nummer 1]] entsprechend, in den Fällen des Satzes 1 [[#^p-1617i-abs-1-s-1-nr-2-lit-b|Nummer 2 Buchstabe b]] gilt [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und Absatz 2 Nummer 2 entsprechend. ^p-1617i-abs-1-s-2
+In den Fällen des Satzes 1 [[#^p-1617i-abs-1|Nummer 2 Buchstabe a]] gilt [[#^p-1617-abs-2|§ 1617 Absatz 2 Nummer 1]] entsprechend, in den Fällen des Satzes 1 [[#^p-1617i-abs-1|Nummer 2 Buchstabe b]] gilt [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und [[#^p-1617i-abs-2|Absatz 2 Nummer 2]] entsprechend. ^p-1617i-abs-1-s-2
 
 Die Neubestimmung bedarf der Einwilligung desjenigen Elternteils, dessen Name zum neuen Geburtsnamen bestimmt oder dem bisherigen Geburtsnamen vorangestellt oder angefügt wird, es sei denn, der Elternteil ist bereits verstorben. ^p-1617i-abs-1-s-3
 
@@ -24664,7 +24762,7 @@ Hat eine volljährige Person, die der friesischen Volksgruppe oder der dänische
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1617i-abs-3
 
-Hinsichtlich der nach den [[#^p-1617i-abs-1|Absätzen 1]] und [[#^p-1617i-abs-2|2]] wählbaren Namen ist auf den Zeitpunkt der Geburt oder der Annahme als Kind abzustellen; [[#^p-1617c-abs-2-s-1-nr-2|§ 1617c Absatz 2 Nummer 2]] und [[#^p-1617i-abs-3|Absatz 3]] gilt entsprechend. ^p-1617i-abs-3-s-1
+Hinsichtlich der nach den [[#^p-1617i-abs-1|Absätzen 1]] und [[#^p-1617i-abs-2|2]] wählbaren Namen ist auf den Zeitpunkt der Geburt oder der Annahme als Kind abzustellen; [[#^p-1617c-abs-2|§ 1617c Absatz 2 Nummer 2]] und [[#^p-1617i-abs-3|Absatz 3]] gilt entsprechend. ^p-1617i-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1617i-abs-4
 
@@ -24695,6 +24793,10 @@ Macht ein dem elterlichen Hausstand angehörendes volljähriges Kind zur Bestrei
 ##### (XXXX) §§ 1621 bis 1623 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne160001377
+
+Verweis zur Überschrift: [[#^p-1621|§§ 1621]]
+
+Verweis zur Überschrift: [[#^p-1623|1623]]
 
 ##### § 1624 — Ausstattung aus dem Elternvermögen ^p-1624
 
@@ -24750,7 +24852,7 @@ Sind die Eltern bei der Geburt des Kindes nicht miteinander verheiratet, so steh
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1626a-abs-2
 
-Das Familiengericht überträgt gemäß [[#^p-1626a-abs-1-s-1-nr-3|Absatz 1 Nummer 3]] auf Antrag eines Elternteils die elterliche Sorge oder einen Teil der elterlichen Sorge beiden Eltern gemeinsam, wenn die Übertragung dem Kindeswohl nicht widerspricht. ^p-1626a-abs-2-s-1
+Das Familiengericht überträgt gemäß [[#^p-1626a-abs-1|Absatz 1 Nummer 3]] auf Antrag eines Elternteils die elterliche Sorge oder einen Teil der elterlichen Sorge beiden Eltern gemeinsam, wenn die Übertragung dem Kindeswohl nicht widerspricht. ^p-1626a-abs-2-s-1
 
 Trägt der andere Elternteil keine Gründe vor, die der Übertragung der gemeinsamen elterlichen Sorge entgegenstehen können, und sind solche Gründe auch sonst nicht ersichtlich, wird vermutet, dass die gemeinsame elterliche Sorge dem Kindeswohl nicht widerspricht. ^p-1626a-abs-2-s-2
 
@@ -24770,7 +24872,7 @@ Die Sorgeerklärung kann schon vor der Geburt des Kindes abgegeben werden. ^p-16
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1626b-abs-3
 
-Eine Sorgeerklärung ist unwirksam, soweit eine gerichtliche Entscheidung über die elterliche Sorge nach den [[#^p-1626a-abs-1-s-1-nr-3|§ 1626a Absatz 1 Nummer 3]] oder [[#^p-1671|§ 1671]] getroffen oder eine solche Entscheidung nach [[#^p-1696-abs-1-s-1|§ 1696 Absatz 1 Satz 1]] geändert wurde. ^p-1626b-abs-3-s-1
+Eine Sorgeerklärung ist unwirksam, soweit eine gerichtliche Entscheidung über die elterliche Sorge nach den [[#^p-1626a-abs-1|§ 1626a Absatz 1 Nummer 3]] oder [[#^p-1671|§ 1671]] getroffen oder eine solche Entscheidung nach [[#^p-1696-abs-1-s-1|§ 1696 Absatz 1 Satz 1]] geändert wurde. ^p-1626b-abs-3-s-1
 
 ##### § 1626c — Persönliche Abgabe; beschränkt geschäftsfähiger Elternteil ^p-1626c
 
@@ -24794,7 +24896,7 @@ Sorgeerklärungen und Zustimmungen müssen öffentlich beurkundet werden. ^p-162
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1626d-abs-2
 
-Die beurkundende Stelle teilt die Abgabe von Sorgeerklärungen und Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt zu den in [[#^p-58|§ 58]] des Achten Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit. ^p-1626d-abs-2-s-1
+Die beurkundende Stelle teilt die Abgabe von Sorgeerklärungen und Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt geführt hat, dem nach [[#^p-87c-abs-6-s-2|§ 87c Abs. 6 Satz 2]] des Achten Buches Sozialgesetzbuch zuständigen Jugendamt zu den in [[#^p-58|§ 58]] des Achten Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit. ^p-1626d-abs-2-s-1
 
 ##### § 1626e — Unwirksamkeit ^p-1626e
 
@@ -24978,7 +25080,7 @@ Die ärztlichen Kommissionsmitglieder müssen unterschiedliche kinderheilkundlic
 
 Unter ihnen muss ein Facharzt für Kinder- und Jugendmedizin mit dem Schwerpunkt Kinderendokrinologie und -diabetologie sein. ^p-1631e-abs-4-s-3
 
-Ein Kommissionsmitglied nach [[#^p-1631e-abs-4-s-1-nr-2|Satz 1 Nummer 2]] darf nicht in der Einrichtung der medizinischen Versorgung beschäftigt sein, in der der operative Eingriff durchgeführt werden soll. ^p-1631e-abs-4-s-4
+Ein Kommissionsmitglied nach [[#^p-1631e-abs-4-s-1|Satz 1 Nummer 2]] darf nicht in der Einrichtung der medizinischen Versorgung beschäftigt sein, in der der operative Eingriff durchgeführt werden soll. ^p-1631e-abs-4-s-4
 
 Sämtliche Kommissionsmitglieder müssen Erfahrung im Umgang mit Kindern mit Varianten der Geschlechtsentwicklung haben. ^p-1631e-abs-4-s-5
 
@@ -25041,6 +25143,10 @@ Das Familiengericht kann in Verfahren nach [[#^p-1632-abs-4-s-1|Satz 1]] von Amt
 ##### (XXXX) §§ 1634 bis 1637 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne161401377
+
+Verweis zur Überschrift: [[#^p-1634|§§ 1634]]
+
+Verweis zur Überschrift: [[#^p-1637|1637]]
 
 ##### § 1638 — Beschränkung der Vermögenssorge ^p-1638
 
@@ -25112,13 +25218,13 @@ Nicht genehmigungsbedürftig gemäß [[#^p-1850|§ 1850]] sind Verfügungen übe
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1643-abs-3
 
-Tritt der Anfall einer Erbschaft oder eines Vermächtnisses an das Kind erst infolge der Ausschlagung eines Elternteils ein, der das Kind allein oder gemeinsam mit dem anderen Elternteil vertritt, ist die Genehmigung abweichend von [[#^p-1851-s-1-nr-1|§ 1851 Nummer 1]] nur dann erforderlich, wenn der Elternteil neben dem Kind berufen war. ^p-1643-abs-3-s-1
+Tritt der Anfall einer Erbschaft oder eines Vermächtnisses an das Kind erst infolge der Ausschlagung eines Elternteils ein, der das Kind allein oder gemeinsam mit dem anderen Elternteil vertritt, ist die Genehmigung abweichend von [[#^p-1851|§ 1851 Nummer 1]] nur dann erforderlich, wenn der Elternteil neben dem Kind berufen war. ^p-1643-abs-3-s-1
 
 Ein Auseinandersetzungsvertrag und eine Vereinbarung, mit der das Kind aus einer Erbengemeinschaft ausscheidet, bedarf keiner Genehmigung. ^p-1643-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1643-abs-4
 
-Die Eltern bedürfen abweichend von [[#^p-1853-s-1-nr-1|§ 1853 Satz 1 Nummer 1]] der Genehmigung zum Abschluss eines Miet- oder Pachtvertrags oder eines anderen Vertrags, durch den das Kind zu wiederkehrenden Leistungen verpflichtet wird, wenn das Vertragsverhältnis länger als ein Jahr nach dem Eintritt der Volljährigkeit des Kindes fortdauern soll. ^p-1643-abs-4-s-1
+Die Eltern bedürfen abweichend von [[#^p-1853-s-1|§ 1853 Satz 1 Nummer 1]] der Genehmigung zum Abschluss eines Miet- oder Pachtvertrags oder eines anderen Vertrags, durch den das Kind zu wiederkehrenden Leistungen verpflichtet wird, wenn das Vertragsverhältnis länger als ein Jahr nach dem Eintritt der Volljährigkeit des Kindes fortdauern soll. ^p-1643-abs-4-s-1
 
 Eine Genehmigung ist nicht erforderlich, wenn ^p-1643-abs-4-s-2
 
@@ -25128,7 +25234,7 @@ Eine Genehmigung ist nicht erforderlich, wenn ^p-1643-abs-4-s-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> das Vertragsverhältnis von dem Kind nach Eintritt der Volljährigkeit spätestens zum Ablauf des 19. Lebensjahres ohne eigene Nachteile gekündigt werden kann. ^p-1643-abs-4-s-2-nr-3
 
-[[#^p-1853-s-1-nr-2|§ 1853 Satz 1 Nummer 2]] ist nicht anzuwenden. ^p-1643-abs-4-s-3
+[[#^p-1853-s-1|§ 1853 Satz 1 Nummer 2]] ist nicht anzuwenden. ^p-1643-abs-4-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1643-abs-5
 
@@ -25189,6 +25295,10 @@ Die Eltern können die Einkünfte des Vermögens, die zur ordnungsmäßigen Verw
 ##### (XXXX) §§ 1650 bis 1663 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne162701377
+
+Verweis zur Überschrift: [[#^p-1650|§§ 1650]]
+
+Verweis zur Überschrift: [[#^p-1663|1663]]
 
 ##### § 1664 — Beschränkte Haftung der Eltern ^p-1664
 
@@ -25281,6 +25391,10 @@ Die Kosten der angeordneten Maßnahmen trägt der Elternteil, der sie veranlasst
 ##### (XXXX) §§ 1668 bis 1670 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne163302377
+
+Verweis zur Überschrift: [[#^p-1668|§§ 1668]]
+
+Verweis zur Überschrift: [[#^p-1670|1670]]
 
 ##### § 1671 — Übertragung der Alleinsorge bei Getrenntleben der Eltern ^p-1671
 
@@ -25476,7 +25590,7 @@ Solange die Vaterschaft eines anderen Mannes besteht, hat der leibliche Vater, d
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1686a-abs-2
 
-Hinsichtlich des Rechts auf Umgang mit dem Kind nach [[#^p-1686a-abs-1-s-1-nr-1|Absatz 1 Nummer 1]] gilt § 1684 Absatz 2 bis 4 entsprechend. ^p-1686a-abs-2-s-1
+Hinsichtlich des Rechts auf Umgang mit dem Kind nach [[#^p-1686a-abs-1|Absatz 1 Nummer 1]] gilt § 1684 Absatz 2 bis 4 entsprechend. ^p-1686a-abs-2-s-1
 
 Eine Umgangspflegschaft nach § 1684 Absatz 3 Satz 3 bis 5 kann das Familiengericht nur anordnen, wenn die Voraussetzungen des [[#^p-1666-abs-1|§ 1666 Absatz 1]] erfüllt sind. ^p-1686a-abs-2-s-2
 
@@ -25500,7 +25614,7 @@ Das Familiengericht kann die Befugnisse nach Absatz 1 Satz 2 und 4 einschränken
 
 ##### § 1687a — Entscheidungsbefugnisse des nicht sorgeberechtigten Elternteils ^p-1687a
 
-Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und bei dem sich das Kind mit Einwilligung des anderen Elternteils oder eines sonstigen Inhabers der Sorge oder auf Grund einer gerichtlichen Entscheidung aufhält, gilt § 1687 Abs. 1 Satz 4 und 5 und Abs. 2 entsprechend. ^p-1687a-s-1
+Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und bei dem sich das Kind mit Einwilligung des anderen Elternteils oder eines sonstigen Inhabers der Sorge oder auf Grund einer gerichtlichen Entscheidung aufhält, gilt § 1687 Abs. 1 Satz 4 und 5 und [[#^p-1687a-abs-2|Abs. 2]] entsprechend. ^p-1687a-s-1
 
 ##### § 1687b — Sorgerechtliche Befugnisse des Ehegatten ^p-1687b
 
@@ -25550,6 +25664,10 @@ Für eine Person, bei der sich das Kind auf Grund einer gerichtlichen Entscheidu
 
 ^norm-doc-bjnr001950896bjne165402377
 
+Verweis zur Überschrift: [[#^p-1689|§§ 1689]]
+
+Verweis zur Überschrift: [[#^p-1692|1692]]
+
 ##### § 1693 — Gerichtliche Maßnahmen bei Verhinderung der Eltern ^p-1693
 
 Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familiengericht die im Interesse des Kindes erforderlichen Maßregeln zu treffen. ^p-1693-s-1
@@ -25557,6 +25675,10 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familien
 ##### (XXXX) §§ 1694 und 1695 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne165901377
+
+Verweis zur Überschrift: [[#^p-1694|§§ 1694]]
+
+Verweis zur Überschrift: [[#^p-1695|1695]]
 
 ##### § 1696 — Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche ^p-1696
 
@@ -25590,7 +25712,7 @@ Soweit nichts anderes bestimmt ist, trifft das Gericht in Verfahren über die in
 
 Lebt das Kind in Familienpflege, so hat das Gericht, soweit nichts anderes bestimmt ist, in Verfahren über die in diesem Titel geregelten Angelegenheiten auch zu berücksichtigen, ob und inwieweit sich innerhalb eines im Hinblick auf die Entwicklung des Kindes vertretbaren Zeitraums die Erziehungsverhältnisse bei den Eltern derart verbessert haben, dass diese das Kind selbst erziehen können. ^p-1697a-abs-2-s-1
 
-Liegen die Voraussetzungen des [[#^p-1632-abs-4-s-2-nr-1|§ 1632 Absatz 4 Satz 2 Nummer 1]] vor, so hat das Gericht bei seiner Entscheidung auch das Bedürfnis des Kindes nach kontinuierlichen und stabilen Lebensverhältnissen zu berücksichtigen. ^p-1697a-abs-2-s-2
+Liegen die Voraussetzungen des [[#^p-1632-abs-4-s-2|§ 1632 Absatz 4 Satz 2 Nummer 1]] vor, so hat das Gericht bei seiner Entscheidung auch das Bedürfnis des Kindes nach kontinuierlichen und stabilen Lebensverhältnissen zu berücksichtigen. ^p-1697a-abs-2-s-2
 
 Die [[#^p-1697a-abs-2-s-1|Sätze 1]] und [[#^p-1697a-abs-2-s-2|2]] gelten entsprechend, wenn das Kind im Rahmen einer Hilfe nach § 34 oder 35a Absatz 2 Nummer 4 des Achten Buches Sozialgesetzbuch erzogen und betreut wird. ^p-1697a-abs-2-s-3
 
@@ -25623,6 +25745,10 @@ Endet die elterliche Sorge durch den Tod des Kindes, so haben die Eltern die Ges
 ##### (XXXX) §§ 1699 bis 1711 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne166601377
+
+Verweis zur Überschrift: [[#^p-1699|§§ 1699]]
+
+Verweis zur Überschrift: [[#^p-1711|1711]]
 
 #### Titel 6 Beistandschaft
 
@@ -25695,6 +25821,10 @@ Dies gilt für die Beistandschaft vor der Geburt des Kindes entsprechend. ^p-171
 ##### (XXXX) §§ 1718 bis 1740 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne167602377
+
+Verweis zur Überschrift: [[#^p-1718|§§ 1718]]
+
+Verweis zur Überschrift: [[#^p-1740|1740]]
 
 #### Titel 7 Annahme als Kind
 
@@ -25814,7 +25944,7 @@ Die Einwilligung kann auch ersetzt werden, wenn die Pflichtverletzung zwar nicht
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1748-abs-2
 
-Wegen Gleichgültigkeit, die nicht zugleich eine anhaltende gröbliche Pflichtverletzung ist, darf die Einwilligung nicht ersetzt werden, bevor der Elternteil vom Jugendamt über die Möglichkeit ihrer Ersetzung belehrt und nach Maßgabe des § 51 Abs. 2 des Achten Buches Sozialgesetzbuch beraten worden ist und seit der Belehrung wenigstens drei Monate verstrichen sind; in der Belehrung ist auf die Frist hinzuweisen. ^p-1748-abs-2-s-1
+Wegen Gleichgültigkeit, die nicht zugleich eine anhaltende gröbliche Pflichtverletzung ist, darf die Einwilligung nicht ersetzt werden, bevor der Elternteil vom Jugendamt über die Möglichkeit ihrer Ersetzung belehrt und nach Maßgabe des [[#^p-51-abs-2|§ 51 Abs. 2]] des Achten Buches Sozialgesetzbuch beraten worden ist und seit der Belehrung wenigstens drei Monate verstrichen sind; in der Belehrung ist auf die Frist hinzuweisen. ^p-1748-abs-2-s-1
 
 Der Belehrung bedarf es nicht, wenn der Elternteil seinen Aufenthaltsort ohne Hinterlassung seiner neuen Anschrift gewechselt hat und der Aufenthaltsort vom Jugendamt während eines Zeitraums von drei Monaten trotz angemessener Nachforschungen nicht ermittelt werden konnte; in diesem Falle beginnt die Frist mit der ersten auf die Belehrung und Beratung oder auf die Ermittlung des Aufenthaltsorts gerichteten Handlung des Jugendamts. ^p-1748-abs-2-s-2
 
@@ -25940,7 +26070,7 @@ Die elterliche Sorge steht in den Fällen des Absatzes 1 den Ehegatten gemeinsam
 
 **Hinweise und Fußnoten**
 
-[[#^p-1754-abs-1|§ 1754 Abs. 1]] u. [[#^p-1754-abs-2|Abs. 2]]: Nach Maßgabe der Entscheidungsformel mit [[Bundesrecht/gg#^art-3-abs-1|Art. 3 Abs. 1 GG]] (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 -  ; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
+[[#^p-1754-abs-1|§ 1754 Abs. 1]] u. [[#^p-1754-abs-2|Abs. 2]]: Nach Maßgabe der Entscheidungsformel mit [[Bundesrecht/gg#^art-3-abs-1|Art. 3 Abs. 1 GG]] (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 -  ; Gem. [[#^p-1754|Nr. 2]] ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
 
 ###### § 1755 — Erlöschen von Verwandtschaftsverhältnissen ^p-1755
 
@@ -25956,7 +26086,7 @@ Nimmt ein Ehegatte das Kind seines Ehegatten an, so tritt das Erlöschen nur im 
 
 **Hinweise und Fußnoten**
 
-[[#^p-1755-abs-1-s-1|§ 1755 Abs. 1 Satz 1]] u. [[#^p-1755-abs-2|Abs. 2]]: Nach Maßgabe der Entscheidungsformel mit [[Bundesrecht/gg#^art-3-abs-1|Art. 3  Abs. 1 GG]] (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ;  Gem. Nr. 2 ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das  geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
+[[#^p-1755-abs-1-s-1|§ 1755 Abs. 1 Satz 1]] u. [[#^p-1755-abs-2|Abs. 2]]: Nach Maßgabe der Entscheidungsformel mit [[Bundesrecht/gg#^art-3-abs-1|Art. 3  Abs. 1 GG]] (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.3.2019 I 737 - 1 BvR 673/17 - ;  Gem. [[#^p-1755|Nr. 2]] ist der Gesetzgeber verpflichtet, bis zum 31.3.2020 eine verfassungsgemäße Regelung zu treffen. Bis zur gesetzlichen Neuregelung ist das  geltende Recht auf nichteheliche Stiefkindfamilien nicht anwendbar; Verfahren sind insoweit bis zu dieser Neuregelung auszusetzen. Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 19.3.2020 I 541 mWv 31.3.2020.
 
 ###### § 1756 — Bestehenbleiben von Verwandtschaftsverhältnissen ^p-1756
 
@@ -26076,13 +26206,13 @@ Der Antrag kann nur innerhalb eines Jahres gestellt werden, wenn seit der Annahm
 
 Die Frist beginnt ^p-1762-abs-2-s-2
 
-<span style="color:var(--text-error,#c52d3d)">a)</span> in den Fällen des [[#^p-1760-abs-2-s-1-lit-a|§ 1760 Abs. 2 Buchstabe a]] mit dem Zeitpunkt, in dem der Erklärende zumindest die beschränkte Geschäftsfähigkeit erlangt hat oder in dem dem gesetzlichen Vertreter des geschäftsunfähigen Annehmenden oder des noch nicht 14 Jahre alten oder geschäftsunfähigen Kindes die Erklärung bekannt wird; ^p-1762-abs-2-s-2-lit-a
+<span style="color:var(--text-error,#c52d3d)">a)</span> in den Fällen des [[#^p-1760-abs-2|§ 1760 Abs. 2 Buchstabe a]] mit dem Zeitpunkt, in dem der Erklärende zumindest die beschränkte Geschäftsfähigkeit erlangt hat oder in dem dem gesetzlichen Vertreter des geschäftsunfähigen Annehmenden oder des noch nicht 14 Jahre alten oder geschäftsunfähigen Kindes die Erklärung bekannt wird; ^p-1762-abs-2-s-2-lit-a
 
-<span style="color:var(--text-error,#c52d3d)">b)</span> in den Fällen des [[#^p-1760-abs-2-s-1-lit-b|§ 1760 Abs. 2 Buchstabe b]], c mit dem Zeitpunkt, in dem der Erklärende den Irrtum oder die Täuschung entdeckt; ^p-1762-abs-2-s-2-lit-b
+<span style="color:var(--text-error,#c52d3d)">b)</span> in den Fällen des [[#^p-1760-abs-2|§ 1760 Abs. 2 Buchstabe b]], c mit dem Zeitpunkt, in dem der Erklärende den Irrtum oder die Täuschung entdeckt; ^p-1762-abs-2-s-2-lit-b
 
-<span style="color:var(--text-error,#c52d3d)">c)</span> in dem Falle des [[#^p-1760-abs-2-s-1-lit-d|§ 1760 Abs. 2 Buchstabe d]] mit dem Zeitpunkt, in dem die Zwangslage aufhört; ^p-1762-abs-2-s-2-lit-c
+<span style="color:var(--text-error,#c52d3d)">c)</span> in dem Falle des [[#^p-1760-abs-2|§ 1760 Abs. 2 Buchstabe d]] mit dem Zeitpunkt, in dem die Zwangslage aufhört; ^p-1762-abs-2-s-2-lit-c
 
-<span style="color:var(--text-error,#c52d3d)">d)</span> in dem Falle des [[#^p-1760-abs-2-s-1-lit-e|§ 1760 Abs. 2 Buchstabe e]] nach Ablauf der in [[#^p-1747-abs-2-s-1|§ 1747 Abs. 2 Satz 1]] bestimmten Frist; ^p-1762-abs-2-s-2-lit-d
+<span style="color:var(--text-error,#c52d3d)">d)</span> in dem Falle des [[#^p-1760-abs-2|§ 1760 Abs. 2 Buchstabe e]] nach Ablauf der in [[#^p-1747-abs-2-s-1|§ 1747 Abs. 2 Satz 1]] bestimmten Frist; ^p-1762-abs-2-s-2-lit-d
 
 <span style="color:var(--text-error,#c52d3d)">e)</span> in den Fällen des [[#^p-1760-abs-5|§ 1760 Abs. 5]] mit dem Zeitpunkt, in dem dem Elternteil bekannt wird, dass die Annahme ohne seine Einwilligung erfolgt ist. ^p-1762-abs-2-s-2-lit-e
 
@@ -26206,9 +26336,9 @@ Für die Annahme Volljähriger gelten die Vorschriften über die Annahme Minderj
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> der Angenommene den Familiennamen des Annehmenden nach [[#^p-1767-abs-1|Absatz 1]] nicht erhält, wenn er der Namensänderung widerspricht, ^p-1767-abs-3-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> zusätzlich die Möglichkeit besteht, einen aus dem bisherigen Familiennamen des Angenommenen und dem Familiennamen des Annehmenden gebildeten Doppelnamen zum Geburtsnamen zu bestimmen; [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und Absatz 2 Nummer 2 gilt entsprechend. ^p-1767-abs-3-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> zusätzlich die Möglichkeit besteht, einen aus dem bisherigen Familiennamen des Angenommenen und dem Familiennamen des Annehmenden gebildeten Doppelnamen zum Geburtsnamen zu bestimmen; [[#^p-1617-abs-1-s-2|§ 1617 Absatz 1 Satz 2]] und [[#^p-1767-abs-2|Absatz 2 Nummer 2]] gilt entsprechend. ^p-1767-abs-3-s-1-nr-2
 
-[[#^p-1757-abs-3-s-1-nr-2|§ 1757 Absatz 3 Satz 1 Nummer 2]] ist nicht anzuwenden. ^p-1767-abs-3-s-2
+[[#^p-1757-abs-3-s-1|§ 1757 Absatz 3 Satz 1 Nummer 2]] ist nicht anzuwenden. ^p-1767-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1767-abs-4
 
@@ -26222,7 +26352,7 @@ Die Erklärungen nach den [[#^p-1767-abs-3|Absätzen 3]] und [[#^p-1767-abs-4|4]
 
 **Hinweise und Fußnoten**
 
-[[#^p-1767-abs-2|§ 1767 Abs. 2]]: Früherer Satz 2 u. 3 aufgeh., jetzt [[#^p-1767-abs-2|Abs. 2]] einziger Text gem. Art. 1 Nr. 11 Buchst. a G v. 11.6.2024 I Nr. 185 mWv 1.5.2025; früherer [[#^p-1767-abs-2-s-1|Abs. 2 Satz 1]] (jetzt [[#^p-1767-abs-2|Abs. 2]] einziger Text) idF d. G v. 17.7.2017 I 2429 iVm [[#^p-1757-abs-1-s-1|§ 1757 Abs. 1 Satz 1]] idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024; 2025 I Nr. 26 - 1 BvL 10/20 -
+[[#^p-1767-abs-2|§ 1767 Abs. 2]]: Früherer [[#^p-1767-s-2|Satz 2]] u. 3 aufgeh., jetzt [[#^p-1767-abs-2|Abs. 2]] einziger Text gem. [[#^art-1|Art. 1 Nr. 11 Buchst. a]] G v. 11.6.2024 I [[#^p-1767|Nr. 185]] mWv 1.5.2025; früherer [[#^p-1767-abs-2-s-1|Abs. 2 Satz 1]] (jetzt [[#^p-1767-abs-2|Abs. 2]] einziger Text) idF d. G v. 17.7.2017 I 2429 iVm [[#^p-1757-abs-1-s-1|§ 1757 Abs. 1 Satz 1]] idF d. G v. 17.7.2017 I 2429 mit GG (100-1) vereinbar gem. BVerfGE v. 24.10.2024; 2025 I [[#^p-1767|Nr. 26]] - 1 BvL 10/20 -
 
 ###### § 1768 — Antrag ^p-1768
 
@@ -26528,7 +26658,7 @@ Die benannte Person darf als Vormund ohne ihre Zustimmung nur übergangen werden
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1783-abs-2
 
-Wurde die benannte Person gemäß [[#^p-1783-abs-1-s-1-nr-4|Absatz 1 Nummer 4]] übergangen und war sie nur vorübergehend verhindert, so ist sie auf ihren Antrag anstelle des bisherigen Vormunds zum Vormund zu bestellen, wenn ^p-1783-abs-2-s-1
+Wurde die benannte Person gemäß [[#^p-1783-abs-1|Absatz 1 Nummer 4]] übergangen und war sie nur vorübergehend verhindert, so ist sie auf ihren Antrag anstelle des bisherigen Vormunds zum Vormund zu bestellen, wenn ^p-1783-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> sie den Antrag innerhalb von sechs Monaten nach der Bestellung des bisherigen Vormunds gestellt hat, ^p-1783-abs-2-s-1-nr-1
 
@@ -26626,7 +26756,7 @@ Der Vormund vertritt den Mündel. ^p-1789-abs-2-s-1
 
 Das Familiengericht kann dem Vormund die Vertretung für einzelne Angelegenheiten entziehen. ^p-1789-abs-2-s-3
 
-Die Entziehung soll nur erfolgen, wenn das Interesse des Mündels zu dem Interesse des Vormunds, eines von diesem vertretenen Dritten oder einer der in [[#^p-1824-abs-1-s-1-nr-1|§ 1824 Absatz 1 Nummer 1]] bezeichneten Personen in erheblichem Gegensatz steht. ^p-1789-abs-2-s-4
+Die Entziehung soll nur erfolgen, wenn das Interesse des Mündels zu dem Interesse des Vormunds, eines von diesem vertretenen Dritten oder einer der in [[#^p-1824-abs-1|§ 1824 Absatz 1 Nummer 1]] bezeichneten Personen in erheblichem Gegensatz steht. ^p-1789-abs-2-s-4
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1789-abs-3
 
@@ -26836,7 +26966,7 @@ Der Vormund bedarf der Genehmigung des Familiengerichts in den Fällen, in denen
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1799-abs-2
 
-Der Vormund bedarf abweichend von [[#^p-1853-s-1-nr-1|§ 1853 Satz 1 Nummer 1]] der Genehmigung des Familiengerichts zum Abschluss eines Miet- oder Pachtvertrags oder eines anderen Vertrags, durch den der Mündel zu wiederkehrenden Leistungen verpflichtet wird, wenn das Vertragsverhältnis länger als ein Jahr nach dem Eintritt seiner Volljährigkeit fortdauern soll. ^p-1799-abs-2-s-1
+Der Vormund bedarf abweichend von [[#^p-1853-s-1|§ 1853 Satz 1 Nummer 1]] der Genehmigung des Familiengerichts zum Abschluss eines Miet- oder Pachtvertrags oder eines anderen Vertrags, durch den der Mündel zu wiederkehrenden Leistungen verpflichtet wird, wenn das Vertragsverhältnis länger als ein Jahr nach dem Eintritt seiner Volljährigkeit fortdauern soll. ^p-1799-abs-2-s-1
 
 Eine Genehmigung ist nicht erforderlich, wenn ^p-1799-abs-2-s-2
 
@@ -26962,7 +27092,7 @@ Die [[#^p-1778|§§ 1778]] bis [[#^p-1785|1785]] gelten entsprechend. ^p-1805-a
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1805-abs-2
 
-Wird der Vereinsvormund gemäß [[#^p-1804-abs-1-s-1-nr-3|§ 1804 Absatz 1 Nummer 3]] oder Absatz 2 Nummer 2 entlassen, kann das Familiengericht statt der Entlassung des Vereinsvormunds feststellen, dass dieser die Vormundschaft künftig als Privatperson weiterführt, wenn dies dem Wohl des Mündels dient. ^p-1805-abs-2-s-1
+Wird der Vereinsvormund gemäß [[#^p-1804-abs-1|§ 1804 Absatz 1 Nummer 3]] oder [[#^p-1805-abs-2|Absatz 2 Nummer 2]] entlassen, kann das Familiengericht statt der Entlassung des Vereinsvormunds feststellen, dass dieser die Vormundschaft künftig als Privatperson weiterführt, wenn dies dem Wohl des Mündels dient. ^p-1805-abs-2-s-1
 
 ###### § 1806 — Ende der Vormundschaft ^p-1806
 
@@ -27036,13 +27166,13 @@ Der Erblasser kann durch letztwillige Verfügung, der Zuwendende bei der Zuwendu
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> den Zuwendungspfleger von den Beschränkungen gemäß den §§ 1843, 1845, 1846, 1848, 1849 Absatz 1 Satz 1 Nummer 1 und 2 und [[#^p-1811-abs-2-s-2|Satz 2]] sowie [[#^p-1865|§ 1865]] befreien. ^p-1811-abs-2-s-1-nr-2
 
-In den Fällen des Satzes 1 [[#^p-1811-abs-2-s-1-nr-1|Nummer 1]] gilt [[#^p-1783|§ 1783]] entsprechend. ^p-1811-abs-2-s-2
+In den Fällen des Satzes 1 [[#^p-1811-abs-2|Nummer 1]] gilt [[#^p-1783|§ 1783]] entsprechend. ^p-1811-abs-2-s-2
 
-In den Fällen des Satzes 1 [[#^p-1811-abs-2-s-1-nr-2|Nummer 2]] gilt § 1859 Absatz 1 Satz 2 und 3 entsprechend. ^p-1811-abs-2-s-3
+In den Fällen des Satzes 1 [[#^p-1811-abs-2|Nummer 2]] gilt § 1859 Absatz 1 Satz 2 und 3 entsprechend. ^p-1811-abs-2-s-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1811-abs-3
 
-Das Familiengericht hat die Befreiungen nach [[#^p-1811-abs-2-s-1-nr-2|Absatz 2 Satz 1 Nummer 2]] aufzuheben, wenn sie das Vermögen des Pfleglings erheblich gefährden. ^p-1811-abs-3-s-1
+Das Familiengericht hat die Befreiungen nach [[#^p-1811-abs-2-s-1|Absatz 2 Satz 1 Nummer 2]] aufzuheben, wenn sie das Vermögen des Pfleglings erheblich gefährden. ^p-1811-abs-3-s-1
 
 Solange der Zuwendende lebt, ist zu einer Abweichung der von ihm erteilten Befreiungen seine Zustimmung erforderlich und genügend. ^p-1811-abs-3-s-2
 
@@ -27168,7 +27298,7 @@ Schlägt der Volljährige niemanden vor, der zum Betreuer bestellt werden kann o
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1816-abs-4
 
-Eine Person, die keine familiäre Beziehung oder persönliche Bindung zu dem Volljährigen hat, soll nur dann zum ehrenamtlichen Betreuer bestellt werden, wenn sie mit einem nach § 14 des Betreuungsorganisationsgesetzes anerkannten Betreuungsverein oder mit der zuständigen Behörde eine Vereinbarung über eine Begleitung und Unterstützung gemäß § 15 Absatz 1 Satz 1 Nummer 4 oder § 5 Absatz 2 Satz 3 des Betreuungsorganisationsgesetzes geschlossen hat. ^p-1816-abs-4-s-1
+Eine Person, die keine familiäre Beziehung oder persönliche Bindung zu dem Volljährigen hat, soll nur dann zum ehrenamtlichen Betreuer bestellt werden, wenn sie mit einem nach § 14 des Betreuungsorganisationsgesetzes anerkannten Betreuungsverein oder mit der zuständigen Behörde eine Vereinbarung über eine Begleitung und Unterstützung gemäß [[#^p-15-abs-1-s-1|§ 15 Absatz 1 Satz 1 Nummer 4]] oder § 5 Absatz 2 Satz 3 des Betreuungsorganisationsgesetzes geschlossen hat. ^p-1816-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1816-abs-5
 
@@ -27340,7 +27470,7 @@ Den Wünschen des Betreuten hat der Betreuer nicht zu entsprechen, soweit ^p-182
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1821-abs-4
 
-Kann der Betreuer die Wünsche des Betreuten nicht feststellen oder darf er ihnen nach [[#^p-1821-abs-3-s-1-nr-1|Absatz 3 Nummer 1]] nicht entsprechen, hat er den mutmaßlichen Willen des Betreuten aufgrund konkreter Anhaltspunkte zu ermitteln und ihm Geltung zu verschaffen. ^p-1821-abs-4-s-1
+Kann der Betreuer die Wünsche des Betreuten nicht feststellen oder darf er ihnen nach [[#^p-1821-abs-3|Absatz 3 Nummer 1]] nicht entsprechen, hat er den mutmaßlichen Willen des Betreuten aufgrund konkreter Anhaltspunkte zu ermitteln und ihm Geltung zu verschaffen. ^p-1821-abs-4-s-1
 
 Zu berücksichtigen sind insbesondere frühere Äußerungen, ethische oder religiöse Überzeugungen und sonstige persönliche Wertvorstellungen des Betreuten. ^p-1821-abs-4-s-2
 
@@ -27372,7 +27502,7 @@ Der Betreuer kann den Betreuten nicht vertreten: ^p-1824-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> bei einem Rechtsgeschäft, das die Übertragung oder Belastung einer durch Pfandrecht, Hypothek, Schiffshypothek oder Bürgschaft gesicherten Forderung des Betreuten gegen den Betreuer oder die Aufhebung oder Minderung dieser Sicherheit zum Gegenstand hat oder die Verpflichtung des Betreuten zu einer solchen Übertragung, Belastung, Aufhebung oder Minderung begründet, ^p-1824-abs-1-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> bei einem Rechtsstreit zwischen den in [[#^p-1824-abs-1-s-1-nr-1|Nummer 1]] bezeichneten Personen sowie bei einem Rechtsstreit über eine Angelegenheit der in [[#^p-1824-abs-1-s-1-nr-2|Nummer 2]] bezeichneten Art. ^p-1824-abs-1-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> bei einem Rechtsstreit zwischen den in [[#^p-1824-abs-1|Nummer 1]] bezeichneten Personen sowie bei einem Rechtsstreit über eine Angelegenheit der in [[#^p-1824-abs-1|Nummer 2]] bezeichneten Art. ^p-1824-abs-1-s-1-nr-3
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1824-abs-2
 
@@ -27510,7 +27640,7 @@ Eine Genehmigung nach den [[#^p-1829-abs-1|Absätzen 1]] und [[#^p-1829-abs-2|2]
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1829-abs-5
 
-Die [[#^p-1829-abs-1|Absätze 1]] bis [[#^p-1829-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2-s-1-nr-1|§ 1820 Absatz 2 Nummer 1]] für einen Bevollmächtigten entsprechend. ^p-1829-abs-5-s-1
+Die [[#^p-1829-abs-1|Absätze 1]] bis [[#^p-1829-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2|§ 1820 Absatz 2 Nummer 1]] für einen Bevollmächtigten entsprechend. ^p-1829-abs-5-s-1
 
 ###### § 1830 — Sterilisation ^p-1830
 
@@ -27564,7 +27694,7 @@ Die [[#^p-1831-abs-1|Absätze 1]] bis [[#^p-1831-abs-3|3]] gelten entsprechend, 
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1831-abs-5
 
-Die [[#^p-1831-abs-1|Absätze 1]] bis [[#^p-1831-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2-s-1-nr-2|§ 1820 Absatz 2 Nummer 2]] für einen Bevollmächtigten entsprechend. ^p-1831-abs-5-s-1
+Die [[#^p-1831-abs-1|Absätze 1]] bis [[#^p-1831-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2|§ 1820 Absatz 2 Nummer 2]] für einen Bevollmächtigten entsprechend. ^p-1831-abs-5-s-1
 
 ###### § 1832 — Ärztliche Zwangsmaßnahmen ^p-1832
 
@@ -27600,15 +27730,15 @@ Er hat den Widerruf dem Betreuungsgericht unverzüglich anzuzeigen. ^p-1832-abs-
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1832-abs-4
 
-Kommt eine ärztliche Zwangsmaßnahme in Betracht, so gilt für die Verbringung des Betreuten gegen seinen natürlichen Willen zu einem stationären Aufenthalt in ein Krankenhaus [[#^p-1831-abs-1-s-1-nr-2|§ 1831 Absatz 1 Nummer 2]], Absatz 2 und 3 Satz 1 entsprechend. ^p-1832-abs-4-s-1
+Kommt eine ärztliche Zwangsmaßnahme in Betracht, so gilt für die Verbringung des Betreuten gegen seinen natürlichen Willen zu einem stationären Aufenthalt in ein Krankenhaus [[#^p-1831-abs-1|§ 1831 Absatz 1 Nummer 2]], Absatz 2 und 3 Satz 1 entsprechend. ^p-1832-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1832-abs-5
 
-Die [[#^p-1832-abs-1|Absätze 1]] bis [[#^p-1832-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2-s-1-nr-3|§ 1820 Absatz 2 Nummer 3]] für einen Bevollmächtigten entsprechend. ^p-1832-abs-5-s-1
+Die [[#^p-1832-abs-1|Absätze 1]] bis [[#^p-1832-abs-4|4]] gelten nach Maßgabe des [[#^p-1820-abs-2|§ 1820 Absatz 2 Nummer 3]] für einen Bevollmächtigten entsprechend. ^p-1832-abs-5-s-1
 
 **Hinweise und Fußnoten**
 
-[[#^p-1832-abs-1-s-1-nr-7|§ 1832 Abs. 1 Satz 1 Nr. 7]] idF d. G v. 4.5.2021 I 882: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 2 Satz 1 Alternative 2 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.11.2024 I Nr. 416 - 1 BvL 1/24 -. Gem. Nr. 2 gilt das bisherige Recht bis zum Inkrafttreten einer Neuregelung fort. Gem. Nr. 3 ist der Gesetzgeber zur Neuregelung spätestens bis zum Ablauf des 31.12.2026 verpflichtet.
+[[#^p-1832-abs-1-s-1|§ 1832 Abs. 1 Satz 1 Nr. 7]] idF d. G v. 4.5.2021 I 882: Nach Maßgabe der Entscheidungsformel mit [[#^art-2-abs-2-s-1|Art. 2 Abs. 2 Satz 1]] Alternative 2 GG (100-1) unvereinbar gem. Nr. 1 BVerfGE v. 26.11.2024 I [[#^p-1832|Nr. 416]] - 1 BvL 1/24 -. Gem. [[#^p-1832|Nr. 2]] gilt das bisherige Recht bis zum Inkrafttreten einer Neuregelung fort. Gem. [[#^p-1832|Nr. 3]] ist der Gesetzgeber zur Neuregelung spätestens bis zum Ablauf des 31.12.2026 verpflichtet.
 
 ###### § 1833 — Aufgabe von Wohnraum des Betreuten ^p-1833
 
@@ -27616,7 +27746,7 @@ Die [[#^p-1832-abs-1|Absätze 1]] bis [[#^p-1832-abs-4|4]] gelten nach Maßgabe 
 
 Eine Aufgabe von Wohnraum, der vom Betreuten selbst genutzt wird, durch den Betreuer ist nur nach Maßgabe des § 1821 Absatz 2 bis 4 zulässig. ^p-1833-abs-1-s-1
 
-Eine Gefährdung im Sinne des [[#^p-1821-abs-3-s-1-nr-1|§ 1821 Absatz 3 Nummer 1]] liegt insbesondere dann vor, wenn eine Finanzierung des Wohnraums trotz Ausschöpfung aller dem Betreuten zur Verfügung stehenden Ressourcen nicht möglich ist oder eine häusliche Versorgung trotz umfassender Zuhilfenahme aller ambulanten Dienste zu einer erheblichen gesundheitlichen Gefährdung des Betreuten führen würde. ^p-1833-abs-1-s-2
+Eine Gefährdung im Sinne des [[#^p-1821-abs-3|§ 1821 Absatz 3 Nummer 1]] liegt insbesondere dann vor, wenn eine Finanzierung des Wohnraums trotz Ausschöpfung aller dem Betreuten zur Verfügung stehenden Ressourcen nicht möglich ist oder eine häusliche Versorgung trotz umfassender Zuhilfenahme aller ambulanten Dienste zu einer erheblichen gesundheitlichen Gefährdung des Betreuten führen würde. ^p-1833-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1833-abs-2
 
@@ -27642,7 +27772,7 @@ Die [[#^p-1855|§§ 1855]] bis [[#^p-1858|1858]] gelten entsprechend. ^p-1833-ab
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-1834-abs-1
 
-Den Umgang des Betreuten mit anderen Personen darf der Betreuer mit Wirkung für und gegen Dritte nur bestimmen, wenn der Betreute dies wünscht oder ihm eine konkrete Gefährdung im Sinne des [[#^p-1821-abs-3-s-1-nr-1|§ 1821 Absatz 3 Nummer 1]] droht. ^p-1834-abs-1-s-1
+Den Umgang des Betreuten mit anderen Personen darf der Betreuer mit Wirkung für und gegen Dritte nur bestimmen, wenn der Betreute dies wünscht oder ihm eine konkrete Gefährdung im Sinne des [[#^p-1821-abs-3|§ 1821 Absatz 3 Nummer 1]] droht. ^p-1834-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1834-abs-2
 
@@ -27756,7 +27886,7 @@ Es wird vermutet, dass eine Wahrnehmung der Vermögensangelegenheiten nach den [
 
 Soweit die nach [[#^p-1838-abs-1-s-1|Absatz 1 Satz 1]] gebotene Wahrnehmung der Vermögensangelegenheiten von den in den [[#^p-1839|§§ 1839]] bis [[#^p-1843|1843]] festgelegten Grundsätzen abweicht, hat der Betreuer dies dem Betreuungsgericht unverzüglich unter Darlegung der Wünsche des Betreuten anzuzeigen. ^p-1838-abs-2-s-1
 
-Das Betreuungsgericht kann die Anwendung der [[#^p-1839|§§ 1839]] bis [[#^p-1843|1843]] oder einzelner Vorschriften ausdrücklich anordnen, wenn andernfalls eine Gefährdung im Sinne des [[#^p-1821-abs-3-s-1-nr-1|§ 1821 Absatz 3 Nummer 1]] zu besorgen wäre. ^p-1838-abs-2-s-2
+Das Betreuungsgericht kann die Anwendung der [[#^p-1839|§§ 1839]] bis [[#^p-1843|1843]] oder einzelner Vorschriften ausdrücklich anordnen, wenn andernfalls eine Gefährdung im Sinne des [[#^p-1821-abs-3|§ 1821 Absatz 3 Nummer 1]] zu besorgen wäre. ^p-1838-abs-2-s-2
 
 ###### § 1839 — Bereithaltung von Verfügungsgeld ^p-1839
 
@@ -27862,13 +27992,13 @@ Der Betreuer hat dem Betreuungsgericht unverzüglich anzuzeigen, wenn er ^p-1846
 
 Die Anzeige hat insbesondere Angaben zu enthalten ^p-1846-abs-2-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> zur Höhe des Guthabens auf dem Girokonto nach [[#^p-1846-abs-1-s-1-nr-1|Absatz 1 Nummer 1]], ^p-1846-abs-2-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> zur Höhe des Guthabens auf dem Girokonto nach [[#^p-1846-abs-1|Absatz 1 Nummer 1]], ^p-1846-abs-2-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> zu Höhe und Verzinsung der Anlage gemäß [[#^p-1846-abs-1-s-1-nr-2|Absatz 1 Nummer 2]] sowie ihrer Bestimmung als Anlage- oder Verfügungsgeld, ^p-1846-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> zu Höhe und Verzinsung der Anlage gemäß [[#^p-1846-abs-1|Absatz 1 Nummer 2]] sowie ihrer Bestimmung als Anlage- oder Verfügungsgeld, ^p-1846-abs-2-s-1-nr-2
 
-<span style="color:var(--text-error,#c52d3d)">3.</span> zu Art, Umfang und Wert der depotverwahrten oder hinterlegten Wertpapiere gemäß [[#^p-1846-abs-1-s-1-nr-3|Absatz 1 Nummer 3]] sowie zu den sich aus ihnen ergebenden Aufwendungen und Nutzungen, ^p-1846-abs-2-s-1-nr-3
+<span style="color:var(--text-error,#c52d3d)">3.</span> zu Art, Umfang und Wert der depotverwahrten oder hinterlegten Wertpapiere gemäß [[#^p-1846-abs-1|Absatz 1 Nummer 3]] sowie zu den sich aus ihnen ergebenden Aufwendungen und Nutzungen, ^p-1846-abs-2-s-1-nr-3
 
-<span style="color:var(--text-error,#c52d3d)">4.</span> zu den Gründen, aus denen der Betreuer die Depotverwahrung oder Hinterlegung gemäß [[#^p-1846-abs-1-s-1-nr-4|Absatz 1 Nummer 4]] für nicht geboten erachtet, und wie die Wertpapiere verwahrt werden sollen, ^p-1846-abs-2-s-1-nr-4
+<span style="color:var(--text-error,#c52d3d)">4.</span> zu den Gründen, aus denen der Betreuer die Depotverwahrung oder Hinterlegung gemäß [[#^p-1846-abs-1|Absatz 1 Nummer 4]] für nicht geboten erachtet, und wie die Wertpapiere verwahrt werden sollen, ^p-1846-abs-2-s-1-nr-4
 
 <span style="color:var(--text-error,#c52d3d)">5.</span> zur Sperrvereinbarung. ^p-1846-abs-2-s-1-nr-5
 
@@ -27906,7 +28036,7 @@ Das gleiche gilt für die Eingehung der Verpflichtung zu einer solchen Verfügun
 
 Einer Genehmigung bedarf es nicht, ^p-1849-abs-2-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> im Fall einer Geldleistung nach [[#^p-1849-abs-1-s-1-nr-1|Absatz 1 Satz 1 Nummer 1]], wenn der aus dem Recht folgende Zahlungsanspruch ^p-1849-abs-2-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> im Fall einer Geldleistung nach [[#^p-1849-abs-1-s-1|Absatz 1 Satz 1 Nummer 1]], wenn der aus dem Recht folgende Zahlungsanspruch ^p-1849-abs-2-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> nicht mehr als 3 000 Euro beträgt, ^p-1849-abs-2-s-1-nr-1-lit-a
 
@@ -27918,7 +28048,7 @@ Einer Genehmigung bedarf es nicht, ^p-1849-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">e)</span> auf Nebenleistungen gerichtet ist, ^p-1849-abs-2-s-1-nr-1-lit-e
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall von [[#^p-1849-abs-1-s-1-nr-2|Absatz 1 Satz 1 Nummer 2]], wenn die Verfügung über das Wertpapier ^p-1849-abs-2-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> im Fall von [[#^p-1849-abs-1-s-1|Absatz 1 Satz 1 Nummer 2]], wenn die Verfügung über das Wertpapier ^p-1849-abs-2-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">a)</span> eine Nutzung des Vermögens des Betreuten darstellt, ^p-1849-abs-2-s-1-nr-2-lit-a
 
@@ -27926,13 +28056,13 @@ Einer Genehmigung bedarf es nicht, ^p-1849-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> im Fall einer Verfügung nach [[#^p-1849-abs-1-s-1|Absatz 1 Satz 1]], wenn die Eingehung der Verpflichtung zu einer solchen Verfügung bereits durch das Betreuungsgericht genehmigt worden ist. ^p-1849-abs-2-s-1-nr-3
 
-[[#^p-1849-abs-2-s-1-nr-2|Satz 1 Nummer 2]] gilt entsprechend für die Eingehung einer Verpflichtung zu einer solchen Verfügung. ^p-1849-abs-2-s-2
+[[#^p-1849-abs-2-s-1|Satz 1 Nummer 2]] gilt entsprechend für die Eingehung einer Verpflichtung zu einer solchen Verfügung. ^p-1849-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1849-abs-3
 
-[[#^p-1849-abs-2-s-1-nr-1-lit-a|Absatz 2 Nummer 1 Buchstabe a]] ist nicht anzuwenden auf eine Verfügung über einen sich aus einer Geldanlage ergebenden Zahlungsanspruch, soweit er einer Sperrvereinbarung unterliegt, sowie über den sich aus der Einlösung eines Wertpapiers ergebenden Zahlungsanspruch. ^p-1849-abs-3-s-1
+[[#^p-1849-abs-2|Absatz 2 Nummer 1 Buchstabe a]] ist nicht anzuwenden auf eine Verfügung über einen sich aus einer Geldanlage ergebenden Zahlungsanspruch, soweit er einer Sperrvereinbarung unterliegt, sowie über den sich aus der Einlösung eines Wertpapiers ergebenden Zahlungsanspruch. ^p-1849-abs-3-s-1
 
-[[#^p-1849-abs-2-s-1-nr-1-lit-d|Absatz 2 Nummer 1 Buchstabe d]] ist nicht anzuwenden auf eine Verfügung über einen Zahlungsanspruch, der einer Sperrvereinbarung unterliegt und eine Kapitalnutzung betrifft. ^p-1849-abs-3-s-2
+[[#^p-1849-abs-2|Absatz 2 Nummer 1 Buchstabe d]] ist nicht anzuwenden auf eine Verfügung über einen Zahlungsanspruch, der einer Sperrvereinbarung unterliegt und eine Kapitalnutzung betrifft. ^p-1849-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1849-abs-4
 
@@ -27942,7 +28072,7 @@ Die vorstehenden Absätze gelten entsprechend für die Annahme der Leistung. ^p-
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts ^p-1850-s-1
 
-<span style="color:var(--text-error,#c52d3d)">1.</span> zur Verfügung über ein Grundstück oder über ein Recht an einem Grundstück, sofern die Genehmigung nicht bereits nach [[#^p-1833-abs-3-s-1-nr-4|§ 1833 Absatz 3 Satz 1 Nummer 4]] erforderlich ist, ^p-1850-s-1-nr-1
+<span style="color:var(--text-error,#c52d3d)">1.</span> zur Verfügung über ein Grundstück oder über ein Recht an einem Grundstück, sofern die Genehmigung nicht bereits nach [[#^p-1833-abs-3-s-1|§ 1833 Absatz 3 Satz 1 Nummer 4]] erforderlich ist, ^p-1850-s-1-nr-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> zur Verfügung über eine Forderung, die auf Übertragung des Eigentums an einem Grundstück, auf Begründung oder Übertragung eines Rechts an einem Grundstück oder auf Befreiung eines Grundstücks von einem solchen Recht gerichtet ist, ^p-1850-s-1-nr-2
 
@@ -27950,7 +28080,7 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts ^p-1850-s-1
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> zu einem Rechtsgeschäft, durch das der Betreute unentgeltlich Wohnungs- oder Teileigentum erwirbt, ^p-1850-s-1-nr-4
 
-<span style="color:var(--text-error,#c52d3d)">5.</span> zur Eingehung einer Verpflichtung zu einer der in den [[#^p-1850-s-1-nr-1|Nummern 1]] bis [[#^p-1850-s-1-nr-3|3]] bezeichneten Verfügungen oder des in [[#^p-1850-s-1-nr-4|Nummer 4]] bezeichneten Erwerbs sowie ^p-1850-s-1-nr-5
+<span style="color:var(--text-error,#c52d3d)">5.</span> zur Eingehung einer Verpflichtung zu einer der in den [[#^p-1850|Nummern 1]] bis [[#^p-1850|3]] bezeichneten Verfügungen oder des in [[#^p-1850|Nummer 4]] bezeichneten Erwerbs sowie ^p-1850-s-1-nr-5
 
 <span style="color:var(--text-error,#c52d3d)">6.</span> zu einem Rechtsgeschäft, durch das der Betreute zum entgeltlichen Erwerb eines Grundstücks, eines eingetragenen Schiffes oder Schiffsbauwerks oder eines Rechts an einem Grundstück verpflichtet wird, sowie zur Verpflichtung zum entgeltlichen Erwerb einer Forderung auf Übertragung des Eigentums an einem Grundstück, an einem eingetragenen Schiff oder Schiffsbauwerk oder auf Übertragung eines Rechts an einem Grundstück. ^p-1850-s-1-nr-6
 
@@ -28000,7 +28130,7 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts ^p-1853-s-1
 
 <span style="color:var(--text-error,#c52d3d)">2.</span> zu einem Pachtvertrag über einen gewerblichen oder land- oder forstwirtschaftlichen Betrieb. ^p-1853-s-1-nr-2
 
-[[#^p-1853-s-1-nr-1|Satz 1 Nummer 1]] gilt nicht, wenn der Betreute das Vertragsverhältnis ohne eigene Nachteile vorzeitig kündigen kann. ^p-1853-s-2
+[[#^p-1853-s-1|Satz 1 Nummer 1]] gilt nicht, wenn der Betreute das Vertragsverhältnis ohne eigene Nachteile vorzeitig kündigen kann. ^p-1853-s-2
 
 ###### § 1854 — Genehmigung für sonstige Rechtsgeschäfte ^p-1854
 
@@ -28120,25 +28250,25 @@ Dies gilt nicht, wenn der Betreute erkennbar an diesem Wunsch nicht festhalten w
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1859-abs-3
 
-Das Betreuungsgericht hat die Befreiungen aufzuheben, wenn bei ihrer Fortgeltung eine Gefährdung im Sinne des [[#^p-1821-abs-3-s-1-nr-1|§ 1821 Absatz 3 Nummer 1]] zu besorgen wäre. ^p-1859-abs-3-s-1
+Das Betreuungsgericht hat die Befreiungen aufzuheben, wenn bei ihrer Fortgeltung eine Gefährdung im Sinne des [[#^p-1821-abs-3|§ 1821 Absatz 3 Nummer 1]] zu besorgen wäre. ^p-1859-abs-3-s-1
 
 ###### § 1860 — Befreiungen auf Anordnung des Gerichts ^p-1860
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-1860-abs-1
 
-Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach den §§ 1841, 1845, 1848 und 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie Satz 2 ganz oder teilweise befreien, wenn der Wert des Vermögens des Betreuten ohne Berücksichtigung von Immobilien und Verbindlichkeiten 6 000 Euro nicht übersteigt. ^p-1860-abs-1-s-1
+Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach den §§ 1841, 1845, 1848 und 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie [[#^p-1860-abs-1-s-2|Satz 2]] ganz oder teilweise befreien, wenn der Wert des Vermögens des Betreuten ohne Berücksichtigung von Immobilien und Verbindlichkeiten 6 000 Euro nicht übersteigt. ^p-1860-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-1860-abs-2
 
-Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach den §§ 1848, 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie Satz 2 und nach § 1854 Nummer 2 bis 5 befreien, soweit mit der Vermögensverwaltung der Betrieb eines Erwerbsgeschäfts verbunden ist oder besondere Gründe der Vermögensverwaltung dies erfordern. ^p-1860-abs-2-s-1
+Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach den §§ 1848, 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie [[#^p-1860-abs-2-s-2|Satz 2]] und nach § 1854 Nummer 2 bis 5 befreien, soweit mit der Vermögensverwaltung der Betrieb eines Erwerbsgeschäfts verbunden ist oder besondere Gründe der Vermögensverwaltung dies erfordern. ^p-1860-abs-2-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-1860-abs-3
 
-Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach [[#^p-1845-abs-2|§ 1845 Absatz 2]], den §§ 1848 und 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie Satz 2 befreien, wenn ein Wertpapierdepot des Betreuten häufige Wertpapiergeschäfte erfordert und der Betreuer über hinreichende Kapitalmarktkenntnis und Erfahrung verfügt. ^p-1860-abs-3-s-1
+Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den Beschränkungen nach [[#^p-1845-abs-2|§ 1845 Absatz 2]], den §§ 1848 und 1849 Absatz 1 Satz 1 Nummer 1 und 2 sowie [[#^p-1860-abs-3-s-2|Satz 2]] befreien, wenn ein Wertpapierdepot des Betreuten häufige Wertpapiergeschäfte erfordert und der Betreuer über hinreichende Kapitalmarktkenntnis und Erfahrung verfügt. ^p-1860-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1860-abs-4
 
-Eine Befreiung gemäß den [[#^p-1860-abs-1|Absätzen 1]] bis [[#^p-1860-abs-3|3]] kann das Betreuungsgericht nur anordnen, wenn eine Gefährdung im Sinne des [[#^p-1821-abs-3-s-1-nr-1|§ 1821 Absatz 3 Nummer 1]] nicht zu besorgen ist. ^p-1860-abs-4-s-1
+Eine Befreiung gemäß den [[#^p-1860-abs-1|Absätzen 1]] bis [[#^p-1860-abs-3|3]] kann das Betreuungsgericht nur anordnen, wenn eine Gefährdung im Sinne des [[#^p-1821-abs-3|§ 1821 Absatz 3 Nummer 1]] nicht zu besorgen ist. ^p-1860-abs-4-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 5</strong></span> ^p-1860-abs-5
 
@@ -28230,7 +28360,7 @@ Der Jahresbericht hat insbesondere Angaben zu folgenden Sachverhalten zu enthalt
 
 <span style="color:var(--text-error,#c52d3d)">4.</span> bei einer beruflich geführten Betreuung die Mitteilung, ob die Betreuung zukünftig ehrenamtlich geführt werden kann, und ^p-1863-abs-3-s-3-nr-4
 
-<span style="color:var(--text-error,#c52d3d)">5.</span> die Sichtweise des Betreuten zu den Sachverhalten nach den [[#^p-1863-abs-3-s-3-nr-1|Nummern 1]] bis [[#^p-1863-abs-3-s-3-nr-4|4]]. ^p-1863-abs-3-s-3-nr-5
+<span style="color:var(--text-error,#c52d3d)">5.</span> die Sichtweise des Betreuten zu den Sachverhalten nach den [[#^p-1863-abs-3|Nummern 1]] bis [[#^p-1863-abs-3|4]]. ^p-1863-abs-3-s-3-nr-5
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^p-1863-abs-4
 
@@ -28615,6 +28745,10 @@ Sofern der Pflegling nicht mittellos ist, bestimmt sich die Höhe des Stundensat
 ##### (XXXX) §§ 1889 bis 1921 (weggefallen)
 
 ^norm-doc-bjnr001950896bjne183604360
+
+Verweis zur Überschrift: [[#^p-1889|§§ 1889]]
+
+Verweis zur Überschrift: [[#^p-1921|1921]]
 
 ## Buch 5 Erbrecht
 
@@ -29128,7 +29262,7 @@ Das Gleiche gilt von Gläubigern, deren Ansprüche durch eine Vormerkung gesiche
 
 ###### § 1972 — Nicht betroffene Rechte ^p-1972
 
-Pflichtteilsrechte, Vermächtnisse und Auflagen werden durch das Aufgebot nicht betroffen, unbeschadet der Vorschrift des [[#^p-2060-s-1-nr-1|§ 2060 Nr. 1]]. ^p-1972-s-1
+Pflichtteilsrechte, Vermächtnisse und Auflagen werden durch das Aufgebot nicht betroffen, unbeschadet der Vorschrift des [[#^p-2060|§ 2060 Nr. 1]]. ^p-1972-s-1
 
 ###### § 1973 — Ausschluss von Nachlassgläubigern ^p-1973
 
@@ -31492,6 +31626,10 @@ Ist der Erblasser nach seinen Angaben oder nach der Überzeugung des Notars nich
 
 ^norm-doc-bjnr001950896bjne218801377
 
+Verweis zur Überschrift: [[#^p-2234|§§ 2234]]
+
+Verweis zur Überschrift: [[#^p-2246|2246]]
+
 ##### § 2247 — Eigenhändiges Testament ^p-2247
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^p-2247-abs-1
@@ -31576,7 +31714,7 @@ Wer sich in so naher Todesgefahr befindet, dass voraussichtlich auch die Erricht
 
 Wird das Testament durch mündliche Erklärung vor drei Zeugen errichtet, so muss hierüber eine Niederschrift aufgenommen werden. ^p-2250-abs-3-s-1
 
-Auf die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7, 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die Niederschrift sind die Vorschriften des § 8 Absatz 1, der §§ 9, 10, 11 Abs. 1 Satz 2, [[#^p-2250-abs-2|Abs. 2]], § 13 Abs. 1, 3 Satz 1, §§ 23, 28 des Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, [[#^p-2250-abs-2|Abs. 2]], 6 entsprechend anzuwenden. ^p-2250-abs-3-s-2
+Auf die Zeugen sind die Vorschriften des § 6 Abs. 1 Nr. 1 bis 3, der §§ 7, 26 Abs. 2 Nr. 2 bis 5 und des § 27 des Beurkundungsgesetzes; auf die Niederschrift sind die Vorschriften des [[#^p-8-abs-1|§ 8 Absatz 1]], der §§ 9, 10, 11 Abs. 1 Satz 2, [[#^p-2250-abs-2|Abs. 2]], [[#^p-13-abs-1|§ 13 Abs. 1]], [[#^p-3-s-1|3 Satz 1]], §§ 23, 28 des Beurkundungsgesetzes sowie die Vorschriften des § 2249 Abs. 1 Satz 5, 6, [[#^p-2250-abs-2|Abs. 2]], [[#^p-2250-abs-6|6]] entsprechend anzuwenden. ^p-2250-abs-3-s-2
 
 Die Niederschrift kann außer in der deutschen auch in einer anderen Sprache aufgenommen werden. ^p-2250-abs-3-s-3
 
@@ -31653,6 +31791,10 @@ Wird das spätere Testament widerrufen, so ist im Zweifel das frühere Testament
 ##### (XXXX) §§ 2258a und 2258b (weggefallen)
 
 ^norm-doc-bjnr001950896bjne220103377
+
+Verweis zur Überschrift: [[#^p-2258a|§§ 2258a]]
+
+Verweis zur Überschrift: [[#^p-2258b|2258b]]
 
 ##### § 2259 — Ablieferungspflicht ^p-2259
 
@@ -31782,7 +31924,7 @@ Einen Erbvertrag kann als Erblasser nur schließen, wer unbeschränkt geschäfts
 
 Ein Erbvertrag kann nur zur Niederschrift eines Notars bei gleichzeitiger Anwesenheit beider Teile geschlossen werden. ^p-2276-abs-1-s-1
 
-Die Vorschriften des [[#^p-2231-s-1-nr-1|§ 2231 Nr. 1]] und der [[#^p-2232|§§ 2232]], [[#^p-2233|2233]] sind anzuwenden; was nach diesen Vorschriften für den Erblasser gilt, gilt für jeden der Vertragschließenden. ^p-2276-abs-1-s-2
+Die Vorschriften des [[#^p-2231|§ 2231 Nr. 1]] und der [[#^p-2232|§§ 2232]], [[#^p-2233|2233]] sind anzuwenden; was nach diesen Vorschriften für den Erblasser gilt, gilt für jeden der Vertragschließenden. ^p-2276-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-2276-abs-2
 
@@ -31988,7 +32130,7 @@ Der Überlebende kann jedoch, wenn er das ihm durch den Vertrag Zugewendete auss
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-2298-abs-3
 
-Die Vorschriften des Absatzes 1 und des Absatzes 2 [[#^p-2298-abs-3-s-1|Sätze 1]] und 2 finden keine Anwendung, wenn ein anderer Wille der Vertragschließenden anzunehmen ist. ^p-2298-abs-3-s-1
+Die Vorschriften des Absatzes 1 und des Absatzes 2 [[#^p-2298-abs-3-s-1|Sätze 1]] und [[#^p-2298-abs-3-s-2|2]] finden keine Anwendung, wenn ein anderer Wille der Vertragschließenden anzunehmen ist. ^p-2298-abs-3-s-1
 
 #### § 2299 — Einseitige Verfügungen ^p-2299
 
@@ -32374,7 +32516,7 @@ Der Erblasser kann einem Abkömmling den Pflichtteil entziehen, wenn der Abkömm
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> dem Erblasser, dem Ehegatten des Erblassers, einem anderen Abkömmling oder einer dem Erblasser ähnlich nahe stehenden Person nach dem Leben trachtet, ^p-2333-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> sich eines Verbrechens oder eines schweren vorsätzlichen Vergehens gegen eine der in [[#^p-2333-abs-1-s-1-nr-1|Nummer 1]] bezeichneten Personen schuldig macht, ^p-2333-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> sich eines Verbrechens oder eines schweren vorsätzlichen Vergehens gegen eine der in [[#^p-2333-abs-1|Nummer 1]] bezeichneten Personen schuldig macht, ^p-2333-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> die ihm dem Erblasser gegenüber gesetzlich obliegende Unterhaltspflicht böswillig verletzt oder ^p-2333-abs-1-s-1-nr-3
 
@@ -32402,7 +32544,7 @@ Die Entziehung des Pflichtteils erfolgt durch letztwillige Verfügung. ^p-2336-a
 
 Der Grund der Entziehung muss zur Zeit der Errichtung bestehen und in der Verfügung angegeben werden. ^p-2336-abs-2-s-1
 
-Für eine Entziehung nach [[#^p-2333-abs-1-s-1-nr-4|§ 2333 Absatz 1 Nummer 4]] muss zur Zeit der Errichtung die Tat begangen sein und der Grund für die Unzumutbarkeit vorliegen; beides muss in der Verfügung angegeben werden. ^p-2336-abs-2-s-2
+Für eine Entziehung nach [[#^p-2333-abs-1|§ 2333 Absatz 1 Nummer 4]] muss zur Zeit der Errichtung die Tat begangen sein und der Grund für die Unzumutbarkeit vorliegen; beides muss in der Verfügung angegeben werden. ^p-2336-abs-2-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^p-2336-abs-3
 
@@ -32452,7 +32594,7 @@ Erbunwürdig ist: ^p-2339-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^p-2339-abs-2
 
-Die Erbunwürdigkeit tritt in den Fällen des Absatzes 1 Nr. 3, 4 nicht ein, wenn vor dem Eintritt des Erbfalls die Verfügung, zu deren Errichtung der Erblasser bestimmt oder in Ansehung deren die Straftat begangen worden ist, unwirksam geworden ist, oder die Verfügung, zu deren Aufhebung er bestimmt worden ist, unwirksam geworden sein würde. ^p-2339-abs-2-s-1
+Die Erbunwürdigkeit tritt in den Fällen des Absatzes 1 [[#^p-2339-abs-2|Nr. 3]], [[#^p-2339-abs-2|4]] nicht ein, wenn vor dem Eintritt des Erbfalls die Verfügung, zu deren Errichtung der Erblasser bestimmt oder in Ansehung deren die Straftat begangen worden ist, unwirksam geworden ist, oder die Verfügung, zu deren Aufhebung er bestimmt worden ist, unwirksam geworden sein würde. ^p-2339-abs-2-s-1
 
 #### § 2340 — Geltendmachung der Erbunwürdigkeit durch Anfechtung ^p-2340
 
@@ -32554,7 +32696,7 @@ Verzichtet ein Abkömmling des Erblassers auf das gesetzliche Erbrecht, so ist i
 
 #### § 2351 — Aufhebung des Erbverzichts ^p-2351
 
-Auf einen Vertrag, durch den ein Erbverzicht aufgehoben wird, findet die Vorschrift des [[#^p-2348|§ 2348]] und in Ansehung des Erblassers auch die Vorschrift des [[#^p-2347-s-1|§ 2347 Satz 1]] erster Halbsatz, Satz 2 Anwendung. ^p-2351-s-1
+Auf einen Vertrag, durch den ein Erbverzicht aufgehoben wird, findet die Vorschrift des [[#^p-2348|§ 2348]] und in Ansehung des Erblassers auch die Vorschrift des [[#^p-2347-s-1|§ 2347 Satz 1]] erster Halbsatz, [[#^p-2351-s-2|Satz 2]] Anwendung. ^p-2351-s-1
 
 #### § 2352 — Verzicht auf Zuwendungen ^p-2352
 
@@ -32577,6 +32719,10 @@ Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein Erbrecht und
 ^norm-doc-bjnr001950896bjne230203360
 
 (weggefallen)
+
+Verweis zur Überschrift: [[#^p-2354|§§ 2354]]
+
+Verweis zur Überschrift: [[#^p-2359|2359]]
 
 #### § 2360 — (weggefallen) ^p-2360
 

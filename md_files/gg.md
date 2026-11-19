@@ -331,7 +331,7 @@ Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr einer gemeinen 
 
 **Hinweise und Fußnoten**
 
-[[#^art-13-abs-3|Art. 13 Abs. 3]]: Eingef. durch Art. 1 Nr. 1 G v. 26.3.1998 I 610 mWv 1.4.1998; mit GG [[#^art-79-abs-3|Art. 79 Abs. 3]] vereinbar gem. BVerfGE v. 3.3.2004 (1 BvR 2378/98, 1 BvR 1084/99)
+[[#^art-13-abs-3|Art. 13 Abs. 3]]: Eingef. durch [[#^art-1|Art. 1 Nr. 1]] G v. 26.3.1998 I 610 mWv 1.4.1998; mit GG [[#^art-79-abs-3|Art. 79 Abs. 3]] vereinbar gem. BVerfGE v. 3.3.2004 (1 BvR 2378/98, 1 BvR 1084/99)
 
 ### Art 14 ^art-14
 
@@ -409,7 +409,7 @@ Die [[#^art-16a-abs-1|Absätze 1]] bis [[#^art-16a-abs-4|4]] stehen völkerrecht
 
 **Hinweise und Fußnoten**
 
-[[#^art-16a|Art. 16a]]: Eingef. durch Art. 1 Nr. 2 G v. 28.6.1993 I 1002 mWv 30.6.1993; mit [[#^art-79-abs-3|Art. 79 Abs. 3 GG]] (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 (2 BvR 1938/93, 2 BvR 2315/93)
+[[#^art-16a|Art. 16a]]: Eingef. durch [[#^art-1|Art. 1 Nr. 2]] G v. 28.6.1993 I 1002 mWv 30.6.1993; mit [[#^art-79-abs-3|Art. 79 Abs. 3 GG]] (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 (2 BvR 1938/93, 2 BvR 2315/93)
 
 ### Art 17 ^art-17
 
@@ -1453,7 +1453,7 @@ sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die internationale Ve
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^art-73-abs-2
 
-Gesetze nach [[#^art-73-abs-1-s-1-nr-9a|Absatz 1 Nr. 9a]] bedürfen der Zustimmung des Bundesrates. ^art-73-abs-2-s-1
+Gesetze nach [[#^art-73-abs-1|Absatz 1 Nr. 9a]] bedürfen der Zustimmung des Bundesrates. ^art-73-abs-2-s-1
 
 ### Art 74 ^art-74
 
@@ -1537,6 +1537,10 @@ Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des Bundesrates. ^a
 
 ^norm-doc-bjnr000010949bjne009801377
 
+Verweis zur Überschrift: [[#^art-74a|Art 74a]]
+
+Verweis zur Überschrift: [[#^art-75|75]]
+
 ### Art 76 ^art-76
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^art-76-abs-1
@@ -1607,7 +1611,7 @@ Hat der Bundesrat den Einspruch mit einer Mehrheit von mindestens zwei Dritteln 
 
 ### Art 78 ^art-78
 
-Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zustimmt, den Antrag gemäß [[#^art-77-abs-2|Artikel 77 Abs. 2]] nicht stellt, innerhalb der Frist des Artikels 77 Abs. 3 keinen Einspruch einlegt oder ihn zurücknimmt oder wenn der Einspruch vom Bundestage überstimmt wird. ^art-78-s-1
+Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zustimmt, den Antrag gemäß [[#^art-77-abs-2|Artikel 77 Abs. 2]] nicht stellt, innerhalb der Frist des Artikels 77 [[#^art-78-abs-3|Abs. 3]] keinen Einspruch einlegt oder ihn zurücknimmt oder wenn der Einspruch vom Bundestage überstimmt wird. ^art-78-s-1
 
 ### Art 79 ^art-79
 
@@ -1655,7 +1659,7 @@ Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen Landesregierungen er
 
 Ist in diesem Grundgesetz oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. ^art-80a-abs-1-s-1
 
-Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen. ^art-80a-abs-1-s-2
+Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des Artikels 12a [[#^art-80a-abs-5-s-1|Abs. 5 Satz 1]] und [[#^art-80a-abs-6-s-2|Abs. 6 Satz 2]] bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen. ^art-80a-abs-1-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^art-80a-abs-2
 
@@ -1869,7 +1873,7 @@ Werden solche Gesetze von den Ländern im Auftrage des Bundes ausgeführt, so k�
 
 ### Art 87c ^art-87c
 
-Gesetze, die auf Grund des Artikels 73 Abs. 1 Nr. 14 ergehen, können mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im Auftrage des Bundes ausgeführt werden. ^art-87c-s-1
+Gesetze, die auf Grund des Artikels 73 [[#^art-87c-abs-1|Abs. 1 Nr. 14]] ergehen, können mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im Auftrage des Bundes ausgeführt werden. ^art-87c-s-1
 
 ### Art 87d ^art-87d
 
@@ -1933,7 +1937,7 @@ Hoheitsaufgaben im Bereich des Postwesens und der Telekommunikation werden in bu
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^art-87f-abs-3
 
-Unbeschadet des Absatzes 2 Satz 2 führt der Bund in der Rechtsform einer bundesunmittelbaren Anstalt des öffentlichen Rechts einzelne Aufgaben in bezug auf die aus dem Sondervermögen Deutsche Bundespost hervorgegangenen Unternehmen nach Maßgabe eines Bundesgesetzes aus. ^art-87f-abs-3-s-1
+Unbeschadet des Absatzes 2 [[#^art-87f-abs-3-s-2|Satz 2]] führt der Bund in der Rechtsform einer bundesunmittelbaren Anstalt des öffentlichen Rechts einzelne Aufgaben in bezug auf die aus dem Sondervermögen Deutsche Bundespost hervorgegangenen Unternehmen nach Maßgabe eines Bundesgesetzes aus. ^art-87f-abs-3-s-1
 
 ### Art 88 ^art-88
 
@@ -2025,9 +2029,9 @@ Durch Bundesgesetz mit Zustimmung des Bundesrates werden die Gemeinschaftsaufgab
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^art-91a-abs-3
 
-Der Bund trägt in den Fällen des Absatzes 1 Nr. 1 die Hälfte der Ausgaben in jedem Land. ^art-91a-abs-3-s-1
+Der Bund trägt in den Fällen des Absatzes 1 [[#^art-91a-abs-3|Nr. 1]] die Hälfte der Ausgaben in jedem Land. ^art-91a-abs-3-s-1
 
-In den Fällen des Absatzes 1 Nr. 2 trägt der Bund mindestens die Hälfte; die Beteiligung ist für alle Länder einheitlich festzusetzen. ^art-91a-abs-3-s-2
+In den Fällen des Absatzes 1 [[#^art-91a-abs-3|Nr. 2]] trägt der Bund mindestens die Hälfte; die Beteiligung ist für alle Länder einheitlich festzusetzen. ^art-91a-abs-3-s-2
 
 Das Nähere regelt das Gesetz. ^art-91a-abs-3-s-3
 
@@ -2269,7 +2273,7 @@ Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden. ^ar
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^art-98-abs-3
 
-Die Rechtsstellung der Richter in den Ländern ist durch besondere Landesgesetze zu regeln, soweit [[#^art-74-abs-1-s-1-nr-27|Artikel 74 Abs. 1 Nr. 27]] nichts anderes bestimmt. ^art-98-abs-3-s-1
+Die Rechtsstellung der Richter in den Ländern ist durch besondere Landesgesetze zu regeln, soweit [[#^art-74-abs-1|Artikel 74 Abs. 1 Nr. 27]] nichts anderes bestimmt. ^art-98-abs-3-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 4</strong></span> ^art-98-abs-4
 
@@ -2447,7 +2451,7 @@ Bundestag, Bundesregierung und Bundesrat sind auf Verlangen über die Durchführ
 
 Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen sowie besondere, mit diesen unmittelbar verbundene, befristete Ausgaben der Länder und Gemeinden (Gemeindeverbände) zur Steigerung der Leistungsfähigkeit der kommunalen Bildungsinfrastruktur gewähren. ^art-104c-s-1
 
-Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6 und Absatz 3 gilt entsprechend. ^art-104c-s-2
+Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6 und [[#^art-104c-abs-3|Absatz 3]] gilt entsprechend. ^art-104c-s-2
 
 Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Berichte und anlassbezogen die Vorlage von Akten verlangen. ^art-104c-s-3
 
@@ -2455,7 +2459,7 @@ Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregi
 
 Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen der Länder und Gemeinden (Gemeindeverbände) im Bereich des sozialen Wohnungsbaus gewähren. ^art-104d-s-1
 
-Artikel 104b Absatz 2 Satz 1 bis 5 sowie Absatz 3 gilt entsprechend. ^art-104d-s-2
+Artikel 104b Absatz 2 Satz 1 bis 5 sowie [[#^art-104d-abs-3|Absatz 3]] gilt entsprechend. ^art-104d-s-2
 
 ### Art 105 ^art-105
 
@@ -2933,7 +2937,7 @@ Bundesgesetze nach den Absätzen 1 und 2 Nr. 1 dürfen zur Vorbereitung ihres Vo
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^art-115d-abs-1
 
-Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle abweichend von [[#^art-76-abs-2|Artikel 76 Abs. 2]], [[#^art-77-abs-1-s-2|Artikel 77 Abs. 1 Satz 2]] und [[#^art-115d-abs-2|Abs. 2]] bis 4, [[#^art-78|Artikel 78]] und [[#^art-82-abs-1|Artikel 82 Abs. 1]] die Regelung der [[#^art-115d-abs-2|Absätze 2]] und [[#^art-115d-abs-3|3]]. ^art-115d-abs-1-s-1
+Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle abweichend von [[#^art-76-abs-2|Artikel 76 Abs. 2]], [[#^art-77-abs-1-s-2|Artikel 77 Abs. 1 Satz 2]] und [[#^art-115d-abs-2|Abs. 2]] bis [[#^art-115d-abs-4|4]], [[#^art-78|Artikel 78]] und [[#^art-82-abs-1|Artikel 82 Abs. 1]] die Regelung der [[#^art-115d-abs-2|Absätze 2]] und [[#^art-115d-abs-3|3]]. ^art-115d-abs-1-s-1
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 2</strong></span> ^art-115d-abs-2
 
@@ -3187,7 +3191,7 @@ Recht, das Gegenstände der konkurrierenden Gesetzgebung des Bundes betrifft, wi
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^art-125a-abs-1
 
-Recht, das als Bundesrecht erlassen worden ist, aber wegen der Änderung des Artikels 74 [[#^art-125a-abs-1|Abs. 1]], der Einfügung des Artikels 84 Abs. 1 Satz 7, des Artikels 85 [[#^art-125a-abs-1-s-2|Abs. 1 Satz 2]] oder des Artikels 105 Abs. 2a Satz 2 oder wegen der Aufhebung der Artikel 74a, 75 oder 98 Abs. 3 Satz 2 nicht mehr als Bundesrecht erlassen werden könnte, gilt als Bundesrecht fort. ^art-125a-abs-1-s-1
+Recht, das als Bundesrecht erlassen worden ist, aber wegen der Änderung des Artikels 74 [[#^art-125a-abs-1|Abs. 1]], der Einfügung des Artikels 84 [[#^art-125a-abs-1-s-7|Abs. 1 Satz 7]], des Artikels 85 [[#^art-125a-abs-1-s-2|Abs. 1 Satz 2]] oder des Artikels 105 [[#^art-125a-abs-2a-s-2|Abs. 2a Satz 2]] oder wegen der Aufhebung der Artikel 74a, 75 oder 98 Abs. 3 Satz 2 nicht mehr als Bundesrecht erlassen werden könnte, gilt als Bundesrecht fort. ^art-125a-abs-1-s-1
 
 Es kann durch Landesrecht ersetzt werden. ^art-125a-abs-1-s-2
 
@@ -3217,9 +3221,9 @@ Befugnisse und Verpflichtungen der Länder zur Gesetzgebung bleiben insoweit bes
 
 Auf den in [[#^art-72-abs-3-s-1|Artikel 72 Abs. 3 Satz 1]] genannten Gebieten können die Länder von diesem Recht abweichende Regelungen treffen, auf den Gebieten des Artikels 72 Abs. 3 Satz 1 Nr. 2, 5 und 6 jedoch erst, wenn und soweit der Bund ab dem 1. ^art-125b-abs-1-s-4
 
-September 2006 von seiner Gesetzgebungszuständigkeit Gebrauch gemacht hat, in den Fällen der Nummern 2 und 5 spätestens ab dem 1. ^art-125b-abs-1-s-5
+September 2006 von seiner Gesetzgebungszuständigkeit Gebrauch gemacht hat, in den Fällen der [[#^art-125b-abs-1|Nummern 2]] und [[#^art-125b-abs-1|5]] spätestens ab dem 1. ^art-125b-abs-1-s-5
 
-Januar 2010, im Falle der Nummer 6 spätestens ab dem 1. ^art-125b-abs-1-s-6
+Januar 2010, im Falle der [[#^art-125b-abs-1|Nummer 6]] spätestens ab dem 1. ^art-125b-abs-1-s-6
 
 August 2008. ^art-125b-abs-1-s-7
 
@@ -3235,7 +3239,7 @@ September 2006 in dem jeweiligen Bundesgesetz Regelungen des Verwaltungsverfahre
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 3</strong></span> ^art-125b-abs-3
 
-Auf dem Gebiet des Artikels 72 Absatz 3 Satz 1 Nummer 7 darf abweichendes Landesrecht der Erhebung der Grundsteuer frühestens für Zeiträume ab dem 1. ^art-125b-abs-3-s-1
+Auf dem Gebiet des Artikels 72 [[#^art-125b-abs-3-s-1|Absatz 3 Satz 1 Nummer 7]] darf abweichendes Landesrecht der Erhebung der Grundsteuer frühestens für Zeiträume ab dem 1. ^art-125b-abs-3-s-1
 
 Januar 2025 zugrunde gelegt werden. ^art-125b-abs-3-s-2
 
@@ -3243,7 +3247,7 @@ Januar 2025 zugrunde gelegt werden. ^art-125b-abs-3-s-2
 
 <span style="color:var(--text-error,#c52d3d)"><strong>Absatz 1</strong></span> ^art-125c-abs-1
 
-Recht, das auf Grund des Artikels 91a [[#^art-125c-abs-2|Abs. 2]] in Verbindung mit Abs. 1 Nr. 1 in der bis zum 1. ^art-125c-abs-1-s-1
+Recht, das auf Grund des Artikels 91a [[#^art-125c-abs-2|Abs. 2]] in Verbindung mit [[#^art-125c-abs-1|Abs. 1 Nr. 1]] in der bis zum 1. ^art-125c-abs-1-s-1
 
 September 2006 geltenden Fassung erlassen worden ist, gilt bis zum 31. ^art-125c-abs-1-s-2
 
@@ -3289,7 +3293,7 @@ Die Bundesregierung kann mit Zustimmung der Regierungen der beteiligten Länder 
 
 ### Art 128 ^art-128
 
-Soweit fortgeltendes Recht Weisungsrechte im Sinne des Artikels 84 Abs. 5 vorsieht, bleiben sie bis zu einer anderweitigen gesetzlichen Regelung bestehen. ^art-128-s-1
+Soweit fortgeltendes Recht Weisungsrechte im Sinne des Artikels 84 [[#^art-128-abs-5|Abs. 5]] vorsieht, bleiben sie bis zu einer anderweitigen gesetzlichen Regelung bestehen. ^art-128-s-1
 
 ### Art 129 ^art-129
 
@@ -3429,7 +3433,7 @@ Durch die in [[#^art-134-abs-4|Artikel 134 Abs. 4]] und [[#^art-135-abs-5|Artike
 
 <span style="color:var(--text-error,#c52d3d)">1.</span> Verbindlichkeiten des Reiches sowie Verbindlichkeiten des ehemaligen Landes Preußen und sonstiger nicht mehr bestehender Körperschaften und Anstalten des öffentlichen Rechts, ^art-135a-abs-1-s-1-nr-1
 
-<span style="color:var(--text-error,#c52d3d)">2.</span> Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, welche mit dem Übergang von Vermögenswerten nach [[#^art-89|Artikel 89]], [[#^art-90|90]], [[#^art-134|134]] und [[#^art-135|135]] im Zusammenhang stehen, und Verbindlichkeiten dieser Rechtsträger, die auf Maßnahmen der in [[#^art-135a-abs-1-s-1-nr-1|Nummer 1]] bezeichneten Rechtsträger beruhen, ^art-135a-abs-1-s-1-nr-2
+<span style="color:var(--text-error,#c52d3d)">2.</span> Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, welche mit dem Übergang von Vermögenswerten nach [[#^art-89|Artikel 89]], [[#^art-90|90]], [[#^art-134|134]] und [[#^art-135|135]] im Zusammenhang stehen, und Verbindlichkeiten dieser Rechtsträger, die auf Maßnahmen der in [[#^art-135a-abs-1|Nummer 1]] bezeichneten Rechtsträger beruhen, ^art-135a-abs-1-s-1-nr-2
 
 <span style="color:var(--text-error,#c52d3d)">3.</span> Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben. ^art-135a-abs-1-s-1-nr-3
 
@@ -3481,7 +3485,7 @@ August 1919 sind Bestandteil dieses Grundgesetzes. ^art-140-s-2
 
 (&#43;&#43;&#43; Nichtamtlicher Hinweis:
 
-Die aufgeführten Artikel der deutschen Verfassung vom 11.8.1919 - ebenfalls abgedruckt unter der FNA Nr. 100-2 (siehe juris-Abk: WRV) - lauten wie folgt:
+Die aufgeführten Artikel der deutschen Verfassung vom 11.8.1919 - ebenfalls abgedruckt unter der FNA [[#^art-140|Nr. 100]]-2 (siehe juris-Abk: WRV) - lauten wie folgt:
 
 [[#^art-136|Art. 136]]
 
@@ -3637,7 +3641,7 @@ Bund und Länder überprüfen bis Ende 2013, in welcher Höhe die den Ländern n
 
 Ab dem 1. ^art-143c-abs-3-s-2
 
-Januar 2014 entfällt die nach [[#^art-143c-abs-2-s-2-nr-2|Absatz 2 Nr. 2]] vorgesehene Zweckbindung der nach [[#^art-143c-abs-1|Absatz 1]] zugewiesenen Finanzierungsmittel; die investive Zweckbindung des Mittelvolumens bleibt bestehen. ^art-143c-abs-3-s-3
+Januar 2014 entfällt die nach [[#^art-143c-abs-2|Absatz 2 Nr. 2]] vorgesehene Zweckbindung der nach [[#^art-143c-abs-1|Absatz 1]] zugewiesenen Finanzierungsmittel; die investive Zweckbindung des Mittelvolumens bleibt bestehen. ^art-143c-abs-3-s-3
 
 Die Vereinbarungen aus dem Solidarpakt II bleiben unberührt. ^art-143c-abs-3-s-4
 
